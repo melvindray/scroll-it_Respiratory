@@ -15,7 +15,8 @@
      "title": "החדר הנסתר · ריאה מנותקת",
      "dur": 116.5,
      "v": {
-      "en": "clips/t1119m/c01_en.mp4"
+      "en": "clips/t1119m/c01_en.mp4",
+      "he": "clips/t1119m/c01_he.mp4"
      },
      "cues": [
       {
@@ -60,7 +61,8 @@
      "title": "השסתום החד-כיווני · CLE",
      "dur": 68.6,
      "v": {
-      "en": "clips/t1119m/c02_en.mp4"
+      "en": "clips/t1119m/c02_en.mp4",
+      "he": "clips/t1119m/c02_he.mp4"
      },
      "cues": [
       {
@@ -91,7 +93,8 @@
      "title": "ניילון בועות · CCAM",
      "dur": 101.7,
      "v": {
-      "en": "clips/t1119m/c03_en.mp4"
+      "en": "clips/t1119m/c03_en.mp4",
+      "he": "clips/t1119m/c03_he.mp4"
      },
      "cues": [
       {
@@ -122,7 +125,8 @@
      "title": "צריך צוות · לקחי הניתוח",
      "dur": 55.8,
      "v": {
-      "en": "clips/t1119m/c04_en.mp4"
+      "en": "clips/t1119m/c04_en.mp4",
+      "he": "clips/t1119m/c04_he.mp4"
      },
      "cues": [
       {
@@ -146,7 +150,8 @@
      "title": "טבעות קשיחות · היצרות קנה",
      "dur": 117.0,
      "v": {
-      "en": "clips/t1119m/c05_en.mp4"
+      "en": "clips/t1119m/c05_en.mp4",
+      "he": "clips/t1119m/c05_he.mp4"
      },
      "cues": [
       {
@@ -184,7 +189,8 @@
      "title": "מתקנים את הצינור · שחזור קנה",
      "dur": 118.8,
      "v": {
-      "en": "clips/t1119m/c06_en.mp4"
+      "en": "clips/t1119m/c06_en.mp4",
+      "he": "clips/t1119m/c06_he.mp4"
      },
      "cues": [
       {
