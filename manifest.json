@@ -527,6 +527,204 @@
    ]
   },
   {
+   "id": "t1119t",
+   "day": "19/11/2026",
+   "title": "כירורגיית חזה והשתלת ריאה – בסיפורים",
+   "title_en": "Thoracic surgery and lung transplantation, told as stories",
+   "course": "מערכת הנשימה",
+   "poster": "clips/t1119t/poster.jpg",
+   "clips": [
+    {
+     "n": 1,
+     "title": "דלתות לבית · חתכים",
+     "dur": 98.8,
+     "v": {
+      "en": "clips/t1119t/c01_en.mp4",
+      "he": "clips/t1119t/c01_he.mp4"
+     },
+     "cues": [
+      {
+       "a": 1.0,
+       "b": 12.71,
+       "en": "Thoracic surgery + lung transplantation: where we go in, how we stage, who gets new lungs.",
+       "he": "כירורגיית חזה והשתלת ריאה: איפה נכנסים, איך מדרגים, ומי מקבל ריאות חדשות.",
+       "sci": false
+      },
+      {
+       "a": 13.06,
+       "b": 28.47,
+       "en": "The chest = a house of rooms: wall · lungs + trachea · esophagus · pericardium · mediastinum · diaphragm · sympathetic chain.",
+       "he": "בית החזה = בית עם חדרים: דופן · ריאות וקנה · ושט · פריקרד · מיצר · סרעפת · שרשרת סימפתטית.",
+       "sci": false
+      },
+      {
+       "a": 28.82,
+       "b": 55.81,
+       "en": "Doors: big side-back door · front · armpit · through the breastbone · both sides (clamshell) · keyholes with camera or robot.",
+       "he": "דלתות: דלת גדולה בצד ובגב · קדמית · בבית השחי · דרך עצם החזה · שני הצדדים (צדפה) · חורי מנעול עם מצלמה או רובוט.",
+       "sci": false
+      },
+      {
+       "a": 56.16,
+       "b": 98.59,
+       "en": "IN SCIENCE: sites: chest wall · lungs + trachea · esophagus · pericardium · mediastinum · diaphragm · sympathetic chain · incisions: posterolateral thoracotomy (classic) · anterolateral · axillary · median sternotomy · clamshell (bilateral, lung Tx) · VATS (video) · RATS (robot).",
+       "he": "במדע: אתרים: דופן החזה · ריאות וקנה · ושט · פריקרד · מיצר · סרעפת · שרשרת סימפתטית · חתכים: תורקוטומיה פוסטרו-לטרלית (קלאסי) · אנטרו-לטרלית · אקסילרית · סטרנוטומיה · clamshell (דו-צדדי, השתלה) · VATS (וידאו) · RATS (רובוט).",
+       "sci": true
+      }
+     ]
+    },
+    {
+     "n": 2,
+     "title": "התחנות · דירוג בלוטות",
+     "dur": 75.9,
+     "v": {
+      "en": "clips/t1119t/c02_en.mp4",
+      "he": "clips/t1119t/c02_he.mp4"
+     },
+     "cues": [
+      {
+       "a": 0.17,
+       "b": 14.14,
+       "en": "Lung cancer travels like a train along numbered stations = lymph nodes. Before surgery: which stations are reached?",
+       "he": "סרטן ריאה נוסע כמו רכבת בתחנות ממוספרות = בלוטות לימפה. לפני ניתוח: לאיזה תחנות הגיע?",
+       "sci": false
+      },
+      {
+       "a": 14.49,
+       "b": 35.6,
+       "en": "Check: mediastinoscopy (from the neck, beside the trachea) or EBUS (from inside the airway, ultrasound + needle). Further spread → lower survival.",
+       "he": "בודקים: מדיאסטינוסקופיה (מהצוואר, ליד הקנה) או EBUS (מתוך דרכי האוויר, אולטרסאונד ומחט). התפשטות רחוקה ← הישרדות נמוכה.",
+       "sci": false
+      },
+      {
+       "a": 35.95,
+       "b": 75.7,
+       "en": "IN SCIENCE: nodal staging by numbered thoracic lymph node stations · mediastinoscopy (cervical incision) · EBUS: ultrasound-guided transbronchial needle aspiration · survival ↓ with each clinical stage (8th edition IASLC TNM) · details: lung tumor lecture.",
+       "he": "במדע: דירוג בלוטות לפי תחנות ממוספרות · מדיאסטינוסקופיה (חתך צווארי) · EBUS: שאיבה במחט דרך הסימפון בהנחיית אולטרסאונד · הישרדות יורדת עם כל שלב (מהדורה 8, IASLC TNM) · פירוט: הרצאת גידולי ריאה.",
+       "sci": true
+      }
+     ]
+    },
+    {
+     "n": 3,
+     "title": "מנוע חדש · מי מושתל",
+     "dur": 126.1,
+     "v": {
+      "en": "clips/t1119t/c03_en.mp4",
+      "he": "clips/t1119t/c03_he.mp4"
+     },
+     "cues": [
+      {
+       "a": 0.18,
+       "b": 24.0,
+       "en": "Engine beyond repair → new engine. Four indications: fibrosis · septic lung (CF) · pulmonary vascular disease · obstructive disease.",
+       "he": "מנוע שלא ניתן לתיקון ← מנוע חדש. ארבע אינדיקציות: פיברוזיס · ריאה זיהומית (CF) · מחלת כלי דם ריאתית · מחלה חסימתית.",
+       "sci": false
+      },
+      {
+       "a": 24.35,
+       "b": 45.91,
+       "en": "On the list: severe · treatment failed · daily life limited · < 24 months to live · but: good heart, walks + can rehab, nutrition OK, psychosocial support.",
+       "he": "לרשימה: מחלה קשה · הטיפול נכשל · מגבלה ביום-יום · תוחלת פחות מ-24 חודשים · אבל: לב תקין, הולך ומסוגל לשיקום, תזונה תקינה, תמיכה נפשית וחברתית.",
+       "sci": false
+      },
+      {
+       "a": 46.26,
+       "b": 64.31,
+       "en": "Excluded: cancer < 5 years · smokers · prednisone > 20 mg/day · age ~75 (?) · ventilator does NOT exclude.",
+       "he": "לא נכנסים: סרטן ב-5 השנים האחרונות · מעשנים · פרדניזון מעל 20 מ\"ג ליום · גיל ~75 (?) · הנשמה מלאכותית לא שוללת.",
+       "sci": false
+      },
+      {
+       "a": 64.66,
+       "b": 125.9,
+       "en": "IN SCIENCE: indications: pulmonary fibrosis · septic (CF) · pulmonary vascular (highest waiting-list death) · obstructive · recipient: severe disease, therapy failed, ADL limited, < 24 mo, no significant IHD, ambulatory + rehab, nutrition, psychosocial support · excluded: malignancy < 5 y, smoking, prednisone > 20 mg/d · age > 75 ? · ventilator ≠ exclusion.",
+       "he": "במדע: אינדיקציות: פיברוזיס · ספטית (CF) · כלי דם ריאתיים (תמותה גבוהה ברשימה) · חסימתית · מקבל: מחלה קשה, טיפול נכשל, מגבלה ב-ADL, פחות מ-24 חודשים, בלי IHD משמעותי, הולך ומסוגל לשיקום, תזונה, תמיכה · שלילה: ממאירות ב-5 שנים, עישון, פרדניזון מעל 20 מ\"ג · גיל מעל 75 ? · הנשמה ≠ שלילה.",
+       "sci": true
+      }
+     ]
+    },
+    {
+     "n": 4,
+     "title": "המנוע החלופי · תורם ו-EVLP",
+     "dur": 98.9,
+     "v": {
+      "en": "clips/t1119t/c04_en.mp4",
+      "he": "clips/t1119t/c04_he.mp4"
+     },
+     "cues": [
+      {
+       "a": 0.18,
+       "b": 19.87,
+       "en": "The spare engine: donor < 75 · no lung disease · normal serial X-rays · normal bronchoscopy · HBV + HIV negative.",
+       "he": "המנוע החלופי: תורם מתחת ל-75 · בלי מחלת ריאה · צילומים סדרתיים תקינים · ברונכוסקופיה תקינה · שלילי ל-HBV ול-HIV.",
+       "sci": false
+      },
+      {
+       "a": 20.22,
+       "b": 34.64,
+       "en": "Key test: PaO2 > 300 on FiO2 1.0, PEEP 5. Must fit: ABO group + size.",
+       "he": "המבחן: PaO2 מעל 300 על חמצן 100%, PEEP 5. התאמה: סוג דם ABO וגודל.",
+       "sci": false
+      },
+      {
+       "a": 34.99,
+       "b": 49.68,
+       "en": "Borderline lungs → test bench outside the body: EVLP (ex vivo lung perfusion) – ventilate, perfuse, assess, sometimes recondition.",
+       "he": "ריאות גבוליות ← ספסל בדיקה מחוץ לגוף: EVLP – מנשימים, מזרימים, בודקים, ולפעמים משקמים.",
+       "sci": false
+      },
+      {
+       "a": 50.02,
+       "b": 98.77,
+       "en": "IN SCIENCE: donor: < 75 y · no lung disease · normal serial CXR · PaO2 > 300 mmHg (FiO2 1.0, PEEP 5) · normal bronchoscopy · HBV + HIV negative · ABO + size match · EVLP = ex vivo lung perfusion: assess ± recondition marginal lungs.",
+       "he": "במדע: תורם: מתחת ל-75 · בלי מחלת ריאה · צילומי חזה סדרתיים תקינים · PaO2 מעל 300 (FiO2 1.0, PEEP 5) · ברונכוסקופיה תקינה · HBV ו-HIV שליליים · התאמת ABO וגודל · EVLP = פרפוזיה מחוץ לגוף: הערכה ולפעמים שיקום ריאות גבוליות.",
+       "sci": true
+      }
+     ]
+    },
+    {
+     "n": 5,
+     "title": "צוות הפיט · השתלות בישראל",
+     "dur": 96.5,
+     "v": {
+      "en": "clips/t1119t/c05_en.mp4",
+      "he": "clips/t1119t/c05_he.mp4"
+     },
+     "cues": [
+      {
+       "a": 0.18,
+       "b": 14.86,
+       "en": "A pit crew: pulmonologist · anesthetist · ICU expert · transplant coordinator · thoracic surgeon · physiotherapist.",
+       "he": "צוות פיט: רופא ריאות · מרדים · מומחה טיפול נמרץ · מתאם השתלות · מנתח חזה · פיזיותרפיסט.",
+       "sci": false
+      },
+      {
+       "a": 15.21,
+       "b": 38.23,
+       "en": "Israel: 1st single lung 1992 · program 2000 · 800 transplants by 2020 · COVID: awake VV-ECMO for months (up to 190 days) → bilateral transplant.",
+       "he": "ישראל: ריאה ראשונה 1992 · תוכנית מ-2000 · 800 השתלות עד 2020 · קורונה: ECMO ורידי-ורידי בהכרה במשך חודשים (עד 190 יום) ← השתלה דו-צדדית.",
+       "sci": false
+      },
+      {
+       "a": 38.58,
+       "b": 82.89,
+       "en": "IN SCIENCE: teamwork: pulmonologist · anesthetist · ICU · coordinator · thoracic surgeon · physiotherapist · Israel: 1992 single lung · 1993 heart-lung · 2000 program · ~800 by 2020 · post-COVID: awake VV-ECMO as bridge to bilateral Tx (up to 190 days).",
+       "he": "במדע: עבודת צוות: רופא ריאות · מרדים · טיפול נמרץ · מתאם · מנתח חזה · פיזיותרפיסט · ישראל: 1992 ריאה בודדת · 1993 לב-ריאה · 2000 תוכנית · ~800 עד 2020 · אחרי קורונה: ECMO ורידי-ורידי בהכרה כגשר להשתלה דו-צדדית (עד 190 יום).",
+       "sci": true
+      },
+      {
+       "a": 83.84,
+       "b": 94.47,
+       "en": "Right door · right stations · right engine · right crew.",
+       "he": "הדלת הנכונה · התחנות הנכונות · המנוע הנכון · הצוות הנכון.",
+       "sci": false
+      }
+     ]
+    }
+   ]
+  },
+  {
    "id": "t1118",
    "day": "18/11/2026",
    "title": "ריסים, ברונכיאקטזיס, CF ו-PCD – בסיפורים",
