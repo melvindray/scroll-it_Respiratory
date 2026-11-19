@@ -14,9 +14,8 @@
      "n": 1,
      "title": "מסוע המזוודות · הריסים",
      "dur": 105.1,
-     "v": "clips/t1118/c01.mp4",
-     "a": {
-      "en": "clips/t1118/c01_en.m4a"
+     "v": {
+      "en": "clips/t1118/c01_en.mp4"
      },
      "cues": [
       {
@@ -60,9 +59,8 @@
      "n": 2,
      "title": "הבור בכביש · ברונכיאקטזיס",
      "dur": 100.0,
-     "v": "clips/t1118/c02.mp4",
-     "a": {
-      "en": "clips/t1118/c02_en.m4a"
+     "v": {
+      "en": "clips/t1118/c02_en.mp4"
      },
      "cues": [
       {
@@ -99,9 +97,8 @@
      "n": 3,
      "title": "אין מים · סיסטיק פיברוזיס",
      "dur": 166.6,
-     "v": "clips/t1118/c03.mp4",
-     "a": {
-      "en": "clips/t1118/c03_en.m4a"
+     "v": {
+      "en": "clips/t1118/c03_en.mp4"
      },
      "cues": [
       {
@@ -145,9 +142,8 @@
      "n": 4,
      "title": "מנועים שבורים · PCD",
      "dur": 102.6,
-     "v": "clips/t1118/c04.mp4",
-     "a": {
-      "en": "clips/t1118/c04_en.m4a"
+     "v": {
+      "en": "clips/t1118/c04_en.mp4"
      },
      "cues": [
       {
@@ -184,9 +180,8 @@
      "n": 5,
      "title": "מלכודות המבחן · CF מול PCD",
      "dur": 64.5,
-     "v": "clips/t1118/c05.mp4",
-     "a": {
-      "en": "clips/t1118/c05_en.m4a"
+     "v": {
+      "en": "clips/t1118/c05_en.mp4"
      },
      "cues": [
       {
@@ -233,9 +228,8 @@
      "n": 1,
      "title": "הגשר הנפתח · הגדרה",
      "dur": 62.9,
-     "v": "clips/t1116/c01.mp4",
-     "a": {
-      "en": "clips/t1116/c01_en.m4a"
+     "v": {
+      "en": "clips/t1116/c01_en.mp4"
      },
      "cues": [
       {
@@ -272,9 +266,8 @@
      "n": 2,
      "title": "צינור הגינה · מה מצר",
      "dur": 46.7,
-     "v": "clips/t1116/c02.mp4",
-     "a": {
-      "en": "clips/t1116/c02_en.m4a"
+     "v": {
+      "en": "clips/t1116/c02_en.mp4"
      },
      "cues": [
       {
@@ -304,9 +297,8 @@
      "n": 3,
      "title": "האזעקה · דלקת T2",
      "dur": 94.4,
-     "v": "clips/t1116/c03.mp4",
-     "a": {
-      "en": "clips/t1116/c03_en.m4a"
+     "v": {
+      "en": "clips/t1116/c03_en.mp4"
      },
      "cues": [
       {
@@ -343,9 +335,8 @@
      "n": 4,
      "title": "משמרת לילה · הקליניקה",
      "dur": 68.8,
-     "v": "clips/t1116/c04.mp4",
-     "a": {
-      "en": "clips/t1116/c04_en.m4a"
+     "v": {
+      "en": "clips/t1116/c04_en.mp4"
      },
      "cues": [
       {
@@ -382,9 +373,8 @@
      "n": 5,
      "title": "הבלשים · אבחנה",
      "dur": 81.2,
-     "v": "clips/t1116/c05.mp4",
-     "a": {
-      "en": "clips/t1116/c05_en.m4a"
+     "v": {
+      "en": "clips/t1116/c05_en.mp4"
      },
      "cues": [
       {
@@ -421,9 +411,8 @@
      "n": 6,
      "title": "שריפה בחדר · טיפול",
      "dur": 100.9,
-     "v": "clips/t1116/c06.mp4",
-     "a": {
-      "en": "clips/t1116/c06_en.m4a"
+     "v": {
+      "en": "clips/t1116/c06_en.mp4"
      },
      "cues": [
       {
@@ -460,9 +449,8 @@
      "n": 7,
      "title": "הצלפים · ביולוגיים",
      "dur": 57.2,
-     "v": "clips/t1116/c07.mp4",
-     "a": {
-      "en": "clips/t1116/c07_en.m4a"
+     "v": {
+      "en": "clips/t1116/c07_en.mp4"
      },
      "cues": [
       {
@@ -492,9 +480,8 @@
      "n": 8,
      "title": "הרץ · התקף חריף",
      "dur": 60.8,
-     "v": "clips/t1116/c08.mp4",
-     "a": {
-      "en": "clips/t1116/c08_en.m4a"
+     "v": {
+      "en": "clips/t1116/c08_en.mp4"
      },
      "cues": [
       {
@@ -541,10 +528,9 @@
      "n": 1,
      "title": "המכונית · איפה הבעיה",
      "dur": 38.3,
-     "v": "clips/t1115/c01.mp4",
-     "a": {
-      "en": "clips/t1115/c01_en.m4a",
-      "he": "clips/t1115/c01_he.m4a"
+     "v": {
+      "en": "clips/t1115/c01_en.mp4",
+      "he": "clips/t1115/c01_he.mp4"
      },
      "cues": [
       {
@@ -574,10 +560,9 @@
      "n": 2,
      "title": "העץ · מבנה ומחזור הדם",
      "dur": 80.5,
-     "v": "clips/t1115/c02.mp4",
-     "a": {
-      "en": "clips/t1115/c02_en.m4a",
-      "he": "clips/t1115/c02_he.m4a"
+     "v": {
+      "en": "clips/t1115/c02_en.mp4",
+      "he": "clips/t1115/c02_he.mp4"
      },
      "cues": [
       {
@@ -614,10 +599,9 @@
      "n": 3,
      "title": "משיכת חבל · נפחים, היענות, התנגדות",
      "dur": 104.7,
-     "v": "clips/t1115/c03.mp4",
-     "a": {
-      "en": "clips/t1115/c03_en.m4a",
-      "he": "clips/t1115/c03_he.m4a"
+     "v": {
+      "en": "clips/t1115/c03_en.mp4",
+      "he": "clips/t1115/c03_he.mp4"
      },
      "cues": [
       {
@@ -661,10 +645,9 @@
      "n": 4,
      "title": "הגשר · דיפוזיה",
      "dur": 68.8,
-     "v": "clips/t1115/c04.mp4",
-     "a": {
-      "en": "clips/t1115/c04_en.m4a",
-      "he": "clips/t1115/c04_he.m4a"
+     "v": {
+      "en": "clips/t1115/c04_en.mp4",
+      "he": "clips/t1115/c04_he.mp4"
      },
      "cues": [
       {
@@ -694,10 +677,9 @@
      "n": 5,
      "title": "עוגת יום ההולדת · ספירומטריה",
      "dur": 86.1,
-     "v": "clips/t1115/c05.mp4",
-     "a": {
-      "en": "clips/t1115/c05_en.m4a",
-      "he": "clips/t1115/c05_he.m4a"
+     "v": {
+      "en": "clips/t1115/c05_en.mp4",
+      "he": "clips/t1115/c05_he.mp4"
      },
      "cues": [
       {
@@ -734,10 +716,9 @@
      "n": 6,
      "title": "הבית · TLC ו-DLCO",
      "dur": 96.6,
-     "v": "clips/t1115/c06.mp4",
-     "a": {
-      "en": "clips/t1115/c06_en.m4a",
-      "he": "clips/t1115/c06_he.m4a"
+     "v": {
+      "en": "clips/t1115/c06_en.mp4",
+      "he": "clips/t1115/c06_he.mp4"
      },
      "cues": [
       {
@@ -774,10 +755,9 @@
      "n": 7,
      "title": "ארבע דלתות · היפוקסמיה וגובה",
      "dur": 116.6,
-     "v": "clips/t1115/c07.mp4",
-     "a": {
-      "en": "clips/t1115/c07_en.m4a",
-      "he": "clips/t1115/c07_he.m4a"
+     "v": {
+      "en": "clips/t1115/c07_en.mp4",
+      "he": "clips/t1115/c07_he.mp4"
      },
      "cues": [
       {
@@ -831,10 +811,9 @@
      "n": 1,
      "title": "למה נושמים · מפל הלחצים",
      "dur": 58.6,
-     "v": "clips/t1112/c01.mp4",
-     "a": {
-      "en": "clips/t1112/c01_en.m4a",
-      "he": "clips/t1112/c01_he.m4a"
+     "v": {
+      "en": "clips/t1112/c01_en.mp4",
+      "he": "clips/t1112/c01_he.mp4"
      },
      "cues": [
       {
@@ -878,10 +857,9 @@
      "n": 2,
      "title": "איך אוויר נכנס",
      "dur": 48.3,
-     "v": "clips/t1112/c02.mp4",
-     "a": {
-      "en": "clips/t1112/c02_en.m4a",
-      "he": "clips/t1112/c02_he.m4a"
+     "v": {
+      "en": "clips/t1112/c02_en.mp4",
+      "he": "clips/t1112/c02_he.mp4"
      },
      "cues": [
       {
@@ -918,10 +896,9 @@
      "n": 3,
      "title": "מכניקה · סורפקטנט",
      "dur": 60.5,
-     "v": "clips/t1112/c03.mp4",
-     "a": {
-      "en": "clips/t1112/c03_en.m4a",
-      "he": "clips/t1112/c03_he.m4a"
+     "v": {
+      "en": "clips/t1112/c03_en.mp4",
+      "he": "clips/t1112/c03_he.mp4"
      },
      "cues": [
       {
@@ -965,10 +942,9 @@
      "n": 4,
      "title": "אוורור ומרחב מת",
      "dur": 52.8,
-     "v": "clips/t1112/c04.mp4",
-     "a": {
-      "en": "clips/t1112/c04_en.m4a",
-      "he": "clips/t1112/c04_he.m4a"
+     "v": {
+      "en": "clips/t1112/c04_en.mp4",
+      "he": "clips/t1112/c04_he.mp4"
      },
      "cues": [
       {
@@ -998,10 +974,9 @@
      "n": 5,
      "title": "V/Q · ארוחת הערב",
      "dur": 52.7,
-     "v": "clips/t1112/c05.mp4",
-     "a": {
-      "en": "clips/t1112/c05_en.m4a",
-      "he": "clips/t1112/c05_he.m4a"
+     "v": {
+      "en": "clips/t1112/c05_en.mp4",
+      "he": "clips/t1112/c05_he.mp4"
      },
      "cues": [
       {
@@ -1038,10 +1013,9 @@
      "n": 6,
      "title": "המוגלובין · האוטובוס",
      "dur": 75.7,
-     "v": "clips/t1112/c06.mp4",
-     "a": {
-      "en": "clips/t1112/c06_en.m4a",
-      "he": "clips/t1112/c06_he.m4a"
+     "v": {
+      "en": "clips/t1112/c06_en.mp4",
+      "he": "clips/t1112/c06_he.mp4"
      },
      "cues": [
       {
@@ -1085,10 +1059,9 @@
      "n": 7,
      "title": "ה-CO2 חוזר",
      "dur": 40.4,
-     "v": "clips/t1112/c07.mp4",
-     "a": {
-      "en": "clips/t1112/c07_en.m4a",
-      "he": "clips/t1112/c07_he.m4a"
+     "v": {
+      "en": "clips/t1112/c07_en.mp4",
+      "he": "clips/t1112/c07_he.mp4"
      },
      "cues": [
       {
@@ -1118,10 +1091,9 @@
      "n": 8,
      "title": "בקרה · התרמוסטט",
      "dur": 66.8,
-     "v": "clips/t1112/c08.mp4",
-     "a": {
-      "en": "clips/t1112/c08_en.m4a",
-      "he": "clips/t1112/c08_he.m4a"
+     "v": {
+      "en": "clips/t1112/c08_en.mp4",
+      "he": "clips/t1112/c08_he.mp4"
      },
      "cues": [
       {
