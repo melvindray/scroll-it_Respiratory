@@ -15,7 +15,8 @@
      "title": "מסוע המזוודות · הריסים",
      "dur": 105.1,
      "v": {
-      "en": "clips/t1118/c01_en.mp4"
+      "en": "clips/t1118/c01_en.mp4",
+      "he": "clips/t1118/c01_he.mp4"
      },
      "cues": [
       {
@@ -60,7 +61,8 @@
      "title": "הבור בכביש · ברונכיאקטזיס",
      "dur": 100.0,
      "v": {
-      "en": "clips/t1118/c02_en.mp4"
+      "en": "clips/t1118/c02_en.mp4",
+      "he": "clips/t1118/c02_he.mp4"
      },
      "cues": [
       {
@@ -98,7 +100,8 @@
      "title": "אין מים · סיסטיק פיברוזיס",
      "dur": 166.6,
      "v": {
-      "en": "clips/t1118/c03_en.mp4"
+      "en": "clips/t1118/c03_en.mp4",
+      "he": "clips/t1118/c03_he.mp4"
      },
      "cues": [
       {
@@ -143,7 +146,8 @@
      "title": "מנועים שבורים · PCD",
      "dur": 102.6,
      "v": {
-      "en": "clips/t1118/c04_en.mp4"
+      "en": "clips/t1118/c04_en.mp4",
+      "he": "clips/t1118/c04_he.mp4"
      },
      "cues": [
       {
@@ -181,7 +185,8 @@
      "title": "מלכודות המבחן · CF מול PCD",
      "dur": 64.5,
      "v": {
-      "en": "clips/t1118/c05_en.mp4"
+      "en": "clips/t1118/c05_en.mp4",
+      "he": "clips/t1118/c05_he.mp4"
      },
      "cues": [
       {
@@ -229,7 +234,8 @@
      "title": "הגשר הנפתח · הגדרה",
      "dur": 62.9,
      "v": {
-      "en": "clips/t1116/c01_en.mp4"
+      "en": "clips/t1116/c01_en.mp4",
+      "he": "clips/t1116/c01_he.mp4"
      },
      "cues": [
       {
@@ -267,7 +273,8 @@
      "title": "צינור הגינה · מה מצר",
      "dur": 46.7,
      "v": {
-      "en": "clips/t1116/c02_en.mp4"
+      "en": "clips/t1116/c02_en.mp4",
+      "he": "clips/t1116/c02_he.mp4"
      },
      "cues": [
       {
@@ -298,7 +305,8 @@
      "title": "האזעקה · דלקת T2",
      "dur": 94.4,
      "v": {
-      "en": "clips/t1116/c03_en.mp4"
+      "en": "clips/t1116/c03_en.mp4",
+      "he": "clips/t1116/c03_he.mp4"
      },
      "cues": [
       {
@@ -336,7 +344,8 @@
      "title": "משמרת לילה · הקליניקה",
      "dur": 68.8,
      "v": {
-      "en": "clips/t1116/c04_en.mp4"
+      "en": "clips/t1116/c04_en.mp4",
+      "he": "clips/t1116/c04_he.mp4"
      },
      "cues": [
       {
@@ -374,7 +383,8 @@
      "title": "הבלשים · אבחנה",
      "dur": 81.2,
      "v": {
-      "en": "clips/t1116/c05_en.mp4"
+      "en": "clips/t1116/c05_en.mp4",
+      "he": "clips/t1116/c05_he.mp4"
      },
      "cues": [
       {
@@ -412,7 +422,8 @@
      "title": "שריפה בחדר · טיפול",
      "dur": 100.9,
      "v": {
-      "en": "clips/t1116/c06_en.mp4"
+      "en": "clips/t1116/c06_en.mp4",
+      "he": "clips/t1116/c06_he.mp4"
      },
      "cues": [
       {
@@ -450,7 +461,8 @@
      "title": "הצלפים · ביולוגיים",
      "dur": 57.2,
      "v": {
-      "en": "clips/t1116/c07_en.mp4"
+      "en": "clips/t1116/c07_en.mp4",
+      "he": "clips/t1116/c07_he.mp4"
      },
      "cues": [
       {
@@ -481,7 +493,8 @@
      "title": "הרץ · התקף חריף",
      "dur": 60.8,
      "v": {
-      "en": "clips/t1116/c08_en.mp4"
+      "en": "clips/t1116/c08_en.mp4",
+      "he": "clips/t1116/c08_he.mp4"
      },
      "cues": [
       {
