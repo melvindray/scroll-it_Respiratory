@@ -13,7 +13,7 @@
     {
      "n": 1,
      "title": "מסוע המזוודות · הריסים",
-     "dur": 74.8,
+     "dur": 105.1,
      "v": "clips/t1118/c01.mp4",
      "a": {
       "en": "clips/t1118/c01_en.m4a"
@@ -21,35 +21,35 @@
      "cues": [
       {
        "a": 1.0,
-       "b": 10.3,
+       "b": 14.29,
        "en": "Your airways run a conveyor belt. Three ways to jam it: damaged pipe · no water · broken motors.",
        "he": "דרכי האוויר מפעילות מסוע. שלוש דרכים לתקוע אותו: צינור פגוע · אין מים · מנועים שבורים.",
        "sci": false
       },
       {
-       "a": 11.25,
-       "b": 19.2,
+       "a": 15.24,
+       "b": 28.78,
        "en": "An airport baggage belt going up and out: hundreds of tiny oars push together, many times a second.",
        "he": "מסוע מזוודות בשדה תעופה, למעלה והחוצה: מאות משוטים קטנים דוחפים יחד, הרבה פעמים בשנייה.",
        "sci": false
       },
       {
-       "a": 19.55,
-       "b": 30.79,
+       "a": 29.13,
+       "b": 43.84,
        "en": "Each oar: one motor for power + rhythm, one for the shape of the stroke. They row in water, under the floating bags.",
        "he": "בכל משוט: מנוע אחד לכוח ולקצב, אחד לצורת התנועה. הם חותרים במים, מתחת למזוודות הצפות.",
        "sci": false
       },
       {
-       "a": 31.14,
-       "b": 39.53,
+       "a": 44.19,
+       "b": 56.21,
        "en": "Two others: one never moves (an antenna) · one in the embryo spins and decides left from right.",
        "he": "שניים אחרים: אחד לא זז (אנטנה) · אחד בעובר מסתובב וקובע ימין ושמאל.",
        "sci": false
       },
       {
-       "a": 40.28,
-       "b": 74.34,
+       "a": 56.96,
+       "b": 104.61,
        "en": "IN SCIENCE: ~200 cilia/cell · 8–14 Hz · 9+2 + dynein · outer arm = force + rhythm · inner arm = bend shape · periciliary water from CFTR (Cl⁻ + HCO₃⁻) · primary cilium 9+0 = sensor · nodal cilium = left–right (absent → random).",
        "he": "במדע: ~200 ריסים לתא · 8–14 הרץ · 9+2 + דינאין · זרוע חיצונית = כוח וקצב · פנימית = צורת הכיפוף · מים פריציליאריים מ-CFTR ‏(Cl⁻ + HCO₃⁻) · ריס ראשוני 9+0 = חיישן · ריס נודלי = ימין–שמאל (חסר ← אקראי).",
        "sci": true
@@ -59,7 +59,7 @@
     {
      "n": 2,
      "title": "הבור בכביש · ברונכיאקטזיס",
-     "dur": 74.4,
+     "dur": 100.0,
      "v": "clips/t1118/c02.mp4",
      "a": {
       "en": "clips/t1118/c02_en.m4a"
@@ -67,28 +67,28 @@
      "cues": [
       {
        "a": 0.47,
-       "b": 10.05,
+       "b": 13.02,
        "en": "Damaged pipe: a pothole. Water sits → breaks the asphalt → the hole grows → more water sits.",
        "he": "צינור פגוע: בור בכביש. מים עומדים ← שוברים את האספלט ← הבור גדל ← עוד מים עומדים.",
        "sci": false
       },
       {
-       "a": 10.4,
-       "b": 19.14,
+       "a": 13.37,
+       "b": 27.19,
        "en": "One hole → one blockage. Holes everywhere → a systemic disease. Often no cause is found.",
        "he": "בור אחד ← חסימה אחת. בורות בכל מקום ← מחלה מערכתית. לעתים קרובות לא מוצאים סיבה.",
        "sci": false
       },
       {
-       "a": 19.49,
-       "b": 27.79,
+       "a": 27.54,
+       "b": 38.85,
        "en": "On CT: a signet ring – the pipe is bigger than its artery, and it doesn't taper.",
        "he": "ב-CT: טבעת חותם – הצינור גדול מהעורק שלידו, ולא מצטמצם.",
        "sci": false
       },
       {
-       "a": 28.54,
-       "b": 73.97,
+       "a": 39.6,
+       "b": 99.57,
        "en": "IN SCIENCE: bronchiectasis = permanent dilation · focal → obstruction · diffuse → systemic/infectious · 25–50% idiopathic · vicious cycle: clearance ↓ → Pseudomonas → proteases → elastin, muscle, cartilage lost · exacerbation = more, purulent sputum (fever, infiltrate may be absent) · CT: bronchus ≥ 1.5× artery, no tapering, < 1 cm from pleura · infection control + bronchial hygiene · dornase: CF only.",
        "he": "במדע: ברונכיאקטזיס = הרחבה קבועה · מוקדי ← חסימה · מפושט ← מערכתי/זיהומי · 25–50% אידיופתי · מעגל: פינוי ↓ ← פסאודומונס ← פרוטאזות ← אובדן אלסטין, שריר, סחוס · החמרה = יותר ליחה מוגלתית (חום ותסנין יכולים להיעדר) · CT: סימפון ≥ פי 1.5 מהעורק, בלי היצרות, פחות מ-1 ס\"מ מהפלאורה · זיהום + היגיינת סימפונות · דורנאז: רק ב-CF.",
        "sci": true
@@ -98,7 +98,7 @@
     {
      "n": 3,
      "title": "אין מים · סיסטיק פיברוזיס",
-     "dur": 116.8,
+     "dur": 166.6,
      "v": "clips/t1118/c03.mp4",
      "a": {
       "en": "clips/t1118/c03_en.m4a"
@@ -106,35 +106,35 @@
      "cues": [
       {
        "a": 0.48,
-       "b": 9.75,
+       "b": 12.97,
        "en": "No water: water comes through a gate in the wall. Without it, the bags stick and the oars are caught in glue.",
        "he": "אין מים: המים עוברים דרך שער בקיר. בלעדיו, המזוודות נדבקות והמשוטים נתקעים בדבק.",
        "sci": false
       },
       {
-       "a": 10.1,
-       "b": 23.09,
+       "a": 13.32,
+       "b": 30.38,
        "en": "The gate ships like a parcel: no parcel · badly folded, destroyed at customs (most common) · arrives but won't open.",
        "he": "השער נשלח כמו חבילה: אין חבילה · מקופלת לא נכון, מושמדת במכס (הכי שכיח) · מגיעה אבל לא נפתחת.",
        "sci": false
       },
       {
-       "a": 23.44,
-       "b": 33.1,
+       "a": 30.73,
+       "b": 42.31,
        "en": "The same gate everywhere: pancreas blocked · newborn bowel stuck · in men, the sperm pipe is missing.",
        "he": "אותו שער בכל מקום: לבלב חסום · מעי של יילוד תקוע · בגברים, צינור הזרע פשוט חסר.",
        "sci": false
       },
       {
-       "a": 33.45,
-       "b": 44.33,
+       "a": 42.66,
+       "b": 59.08,
        "en": "In sweat the gate pulls salt back in – without it, salty sweat. New drugs: hold the door open · fix the folding.",
        "he": "בזיעה השער מחזיר את המלח פנימה – בלעדיו, זיעה מלוחה. תרופות חדשות: מחזיקות את הדלת פתוחה · מתקנות את הקיפול.",
        "sci": false
       },
       {
-       "a": 45.08,
-       "b": 116.34,
+       "a": 59.83,
+       "b": 166.17,
        "en": "IN SCIENCE: CF = autosomal recessive · CFTR = passive Cl⁻/HCO₃⁻ channel (ATP gates) · class I no protein (W1282X, Ashkenazi) · class II F508del misfolded (most common) · class III won't open (G551D) · lung: S. aureus, H. influenzae, Pseudomonas (mucoid = worse) · pancreas: ↓ ADEK, CF diabetes > 30% adults · meconium ileus · ~99% men infertile: absent vas deferens · IRT → genetics → sweat Cl⁻ ≥ 60 · potentiator ivacaftor (III) · correctors (II) · triple: one F508del → > 90%, FEV1 +14% · exacerbation: IV aminoglycoside + β-lactam × 14 d.",
        "he": "במדע: CF = רצסיבי אוטוזומלי · CFTR = תעלה פסיבית ל-Cl⁻/HCO₃⁻ ‏(ATP רק פותח) · קלאס I אין חלבון (W1282X, אשכנזים) · קלאס II ‏F508del קיפול שגוי (הכי שכיח) · קלאס III לא נפתח (G551D) · ריאות: סטפ', המופילוס, פסאודומונס (מוקואידי = גרוע) · לבלב: ↓ ADEK, סוכרת CF מעל 30% · מקוניום איליאוס · ~99% מהגברים עקרים: חסר vas deferens · IRT ← גנטיקה ← כלוריד בזיעה ≥ 60 · פוטנציאטור איווקאפטור (III) · קורקטורים (II) · משולב: F508del אחד ← מעל 90%, FEV1 +14% · החמרה: אמינוגליקוזיד + בטא-לקטם לווריד × 14 יום.",
        "sci": true
@@ -144,7 +144,7 @@
     {
      "n": 4,
      "title": "מנועים שבורים · PCD",
-     "dur": 73.1,
+     "dur": 102.6,
      "v": "clips/t1118/c04.mp4",
      "a": {
       "en": "clips/t1118/c04_en.m4a"
@@ -152,28 +152,28 @@
      "cues": [
       {
        "a": 0.48,
-       "b": 8.44,
+       "b": 13.4,
        "en": "Broken motors: the water is fine, but the rowers can't row – and rowers are wherever something must move.",
        "he": "מנועים שבורים: המים בסדר, אבל החותרים לא חותרים – וחותרים יש בכל מקום שמשהו צריך לזוז.",
        "sci": false
       },
       {
-       "a": 8.79,
-       "b": 19.86,
+       "a": 13.75,
+       "b": 29.0,
        "en": "A baby: wet cough + runny nose from the first months, fluid in the ears. In half, the embryo's spinner failed: mirrored organs.",
        "he": "תינוק: שיעול לח ונזלת מהחודשים הראשונים, נוזל באוזניים. בחצי, הסובב של העובר נכשל: איברים במראה.",
        "sci": false
       },
       {
-       "a": 20.21,
-       "b": 25.74,
+       "a": 29.35,
+       "b": 37.23,
        "en": "The sperm's tail is an oar: here the sperm is present but can't swim.",
        "he": "זנב הזרע הוא משוט: כאן הזרע קיים אבל לא שוחה.",
        "sci": false
       },
       {
-       "a": 26.49,
-       "b": 72.67,
+       "a": 37.98,
+       "b": 102.16,
        "en": "IN SCIENCE: PCD: term newborn with distress · wet cough + rhinitis < 6 months · otitis media with effusion = best vs CF · ~½ situs inversus (Kartagener) – but only ~¼ of situs inversus = PCD · immotile sperm · nasal NO < 77 ×2, age ≥ 5, CF excluded · EM normal ~30% · genetics first line (~70%) · daily clearance, never suppress cough, azithromycin 3×/week.",
        "he": "במדע: PCD: יילוד במועד עם מצוקה · שיעול לח + נזלת לפני 6 חודשים · נוזל באוזן התיכונה = מבדיל מ-CF · ~חצי סיטוס אינברסוס (קרטגנר) – אבל רק ~רבע מסיטוס אינברסוס = PCD · זרע לא תנועתי · NO באף פחות מ-77 פעמיים, מגיל 5, אחרי שלילת CF · מיקרוסקופ אלקטרונים תקין ב-~30% · גנטיקה קו ראשון (~70%) · פינוי יומי, לא לדכא שיעול, אזיתרומיצין 3 פעמים בשבוע.",
        "sci": true
@@ -183,36 +183,36 @@
     {
      "n": 5,
      "title": "מלכודות המבחן · CF מול PCD",
-     "dur": 48.5,
+     "dur": 64.5,
      "v": "clips/t1118/c05.mp4",
      "a": {
       "en": "clips/t1118/c05_en.m4a"
      },
      "cues": [
       {
-       "a": 0.48,
-       "b": 9.0,
+       "a": 0.47,
+       "b": 14.26,
        "en": "Exam traps: no water (CF) → upper lobes · broken rowers (PCD) → right middle lobe + lingula.",
        "he": "מלכודות: אין מים (CF) ← אונות עליונות · חותרים שבורים (PCD) ← אונה אמצעית ימנית + לינגולה.",
        "sci": false
       },
       {
-       "a": 9.35,
-       "b": 17.68,
+       "a": 14.61,
+       "b": 24.28,
        "en": "Infertility: missing pipe vs non-swimming sperm. Key test: sweat chloride vs nasal NO.",
        "he": "עקרות: צינור חסר מול זרע שלא שוחה. הבדיקה: כלוריד בזיעה מול NO באף.",
        "sci": false
       },
       {
-       "a": 18.43,
-       "b": 37.38,
+       "a": 25.03,
+       "b": 49.01,
        "en": "IN SCIENCE: CF → upper lobes · absent vas deferens · sweat Cl⁻ | PCD → RML + lingula · immotile sperm · nasal NO | potentiator opens, corrector folds | dornase: CF yes, other bronchiectasis no.",
        "he": "במדע: CF ← אונות עליונות · חסר vas deferens · כלוריד בזיעה | PCD ← אונה אמצעית + לינגולה · זרע לא תנועתי · NO באף | פוטנציאטור פותח, קורקטור מקפל | דורנאז: כן ב-CF, לא בברונכיאקטזיס אחר.",
        "sci": true
       },
       {
-       "a": 38.33,
-       "b": 46.55,
+       "a": 49.96,
+       "b": 62.5,
        "en": "One belt, three jams: pipe · water · motors. Know which one.",
        "he": "מסוע אחד, שלוש תקלות: צינור · מים · מנועים. יודעים איזו – יודעים את התשובה.",
        "sci": false
@@ -232,7 +232,7 @@
     {
      "n": 1,
      "title": "הגשר הנפתח · הגדרה",
-     "dur": 47.8,
+     "dur": 62.9,
      "v": "clips/t1116/c01.mp4",
      "a": {
       "en": "clips/t1116/c01_en.m4a"
@@ -240,28 +240,28 @@
      "cues": [
       {
        "a": 1.0,
-       "b": 7.86,
+       "b": 10.04,
        "en": "Asthma, told as stories. The air gets in – the problem is getting it out.",
        "he": "אסתמה, כסיפורים. האוויר נכנס – הבעיה היא להוציא אותו.",
        "sci": false
       },
       {
-       "a": 8.81,
-       "b": 18.59,
+       "a": 10.99,
+       "b": 25.88,
        "en": "A drawbridge on the road out: some days down, some days up – then down again.",
        "he": "גשר נפתח בדרך החוצה: יש ימים שהוא למטה, יש ימים שהוא למעלה – ואז שוב למטה.",
        "sci": false
       },
       {
-       "a": 18.94,
-       "b": 26.61,
+       "a": 26.23,
+       "b": 37.04,
        "en": "Proof needs both: drivers complaining on and off + a camera that catches the bridge moving.",
        "he": "צריך את שניהם: נהגים שמתלוננים לסירוגין + מצלמה שתופסת את הגשר זז.",
        "sci": false
       },
       {
-       "a": 27.36,
-       "b": 47.31,
+       "a": 37.79,
+       "b": 62.38,
        "en": "IN SCIENCE: one word – VARIABLE · symptoms that come and go: wheeze, dyspnea, chest tightness, cough · + documented variable expiratory airflow limitation = asthma.",
        "he": "במדע: מילה אחת – משתנה · תסמינים שבאים והולכים: צפצופים, קוצר נשימה, לחץ בחזה, שיעול · + חסימה משתנה מתועדת = אסתמה.",
        "sci": true
@@ -271,7 +271,7 @@
     {
      "n": 2,
      "title": "צינור הגינה · מה מצר",
-     "dur": 36.5,
+     "dur": 46.7,
      "v": "clips/t1116/c02.mp4",
      "a": {
       "en": "clips/t1116/c02_en.m4a"
@@ -279,21 +279,21 @@
      "cues": [
       {
        "a": 0.48,
-       "b": 7.86,
+       "b": 10.56,
        "en": "Three ways to narrow a hose: a hand squeezes · the wall swells · mud fills it.",
        "he": "שלוש דרכים להצר צינור: יד לוחצת · הדופן מתנפחת · בוץ ממלא אותו.",
        "sci": false
       },
       {
-       "a": 8.21,
-       "b": 16.42,
+       "a": 10.91,
+       "b": 23.14,
        "en": "Halve the width → 16× the resistance. Small children, thin hoses → wheeze easily.",
        "he": "חצי רוחב ← פי 16 התנגדות. ילדים קטנים, צינורות דקים ← מצפצפים בקלות.",
        "sci": false
       },
       {
-       "a": 17.17,
-       "b": 35.99,
+       "a": 23.89,
+       "b": 46.2,
        "en": "IN SCIENCE: hand = smooth muscle (bronchospasm) · swollen wall = inflammatory edema · mud = mucus · R ∝ 1/r⁴ → ½ radius = ×16 · small airways in children.",
        "he": "במדע: יד = שריר חלק (ברונכוספזם) · דופן נפוחה = בצקת דלקתית · בוץ = ריר · R ∝ 1/r⁴ ← חצי רדיוס = פי 16 · דרכי אוויר קטנות בילדים.",
        "sci": true
@@ -303,7 +303,7 @@
     {
      "n": 3,
      "title": "האזעקה · דלקת T2",
-     "dur": 72.3,
+     "dur": 94.4,
      "v": "clips/t1116/c03.mp4",
      "a": {
       "en": "clips/t1116/c03_en.m4a"
@@ -311,28 +311,28 @@
      "cues": [
       {
        "a": 0.47,
-       "b": 9.15,
+       "b": 11.98,
        "en": "Behind the squeeze: a security system. Dust hits the front wall → the wall rings the alarm.",
        "he": "מאחורי הכיווץ: מערכת אבטחה. אבק פוגע בקיר הקדמי ← הקיר מפעיל אזעקה.",
        "sci": false
       },
       {
-       "a": 9.5,
-       "b": 22.08,
+       "a": 12.33,
+       "b": 29.5,
        "en": "The commander sends 3 orders: arm the landmines · call soldiers from the barracks · glue the corridors (its smoke shows in the breath).",
        "he": "המפקד שולח 3 פקודות: לחמש את המוקשים · לקרוא לחיילים מהבסיס · למלא את המסדרונות בדבק (העשן שלו נמדד בנשיפה).",
        "sci": false
       },
       {
-       "a": 22.43,
-       "b": 33.95,
+       "a": 29.85,
+       "b": 45.51,
        "en": "Minutes: landmines · hours: soldiers · years: scars that never reopen. Rule: zero tolerance for attacks.",
        "he": "דקות: מוקשים · שעות: חיילים · שנים: צלקות שלא נפתחות. הכלל: אפס סובלנות להתקפים.",
        "sci": false
       },
       {
-       "a": 34.7,
-       "b": 71.86,
+       "a": 46.26,
+       "b": 93.89,
        "en": "IN SCIENCE: T2 inflammation · epithelium → alarmins TSLP, IL-25, IL-33 → Th2 · IL-4/13 → IgE → mast cells · IL-5 → eosinophils (bone marrow) · IL-13 → mucus + NO (FeNO) · minutes: mast cells · hours: eosinophils · years: remodeling → fixed obstruction.",
        "he": "במדע: דלקת T2 · אפיתל ← אלרמינים TSLP, ‏IL-25, ‏IL-33 ← Th2 · ‏IL-4/13 ← IgE ← תאי פיטום · ‏IL-5 ← אאוזינופילים (מח עצם) · ‏IL-13 ← ריר + NO ‏(FeNO) · דקות: תאי פיטום · שעות: אאוזינופילים · שנים: רה-מודלינג ← חסימה קבועה.",
        "sci": true
@@ -342,7 +342,7 @@
     {
      "n": 4,
      "title": "משמרת לילה · הקליניקה",
-     "dur": 51.8,
+     "dur": 68.8,
      "v": "clips/t1116/c04.mp4",
      "a": {
       "en": "clips/t1116/c04_en.m4a"
@@ -350,28 +350,28 @@
      "cues": [
       {
        "a": 0.47,
-       "b": 10.84,
+       "b": 15.09,
        "en": "Asthma loves the night shift: the guards sleep → night cough. Coughs all day, sleeps quietly? Probably not asthma.",
        "he": "אסתמה אוהבת משמרת לילה: השומרים ישנים ← שיעול בלילה. משתעל כל היום וישן בשקט? כנראה לא אסתמה.",
        "sci": false
       },
       {
-       "a": 11.19,
-       "b": 17.48,
+       "a": 15.44,
+       "b": 23.67,
        "en": "During exercise the guards are awake – the cough comes after the finish line.",
        "he": "במאמץ השומרים ערים – השיעול מגיע אחרי קו הסיום.",
        "sci": false
       },
       {
-       "a": 17.83,
-       "b": 29.6,
+       "a": 24.02,
+       "b": 41.01,
        "en": "Beware the silent road: no honking can mean nothing moves at all. Toddler wheezing suddenly → something stuck.",
        "he": "זהירות מכביש שקט: בלי צפירות יכול להיות ששום דבר לא זז. פעוט שמצפצף פתאום ← משהו תקוע.",
        "sci": false
       },
       {
-       "a": 30.35,
-       "b": 51.28,
+       "a": 41.76,
+       "b": 68.31,
        "en": "IN SCIENCE: night cough (low adrenaline + cortisol) · exercise: at the end of effort · silent chest = almost no flow = emergency · toddler, sudden wheeze → foreign body.",
        "he": "במדע: שיעול לילי (אדרנלין וקורטיזול נמוכים) · מאמץ: בסוף המאמץ · חזה שקט = כמעט אין זרימה = חירום · פעוט עם צפצוף פתאומי ← גוף זר.",
        "sci": true
@@ -381,36 +381,36 @@
     {
      "n": 5,
      "title": "הבלשים · אבחנה",
-     "dur": 60.0,
+     "dur": 81.2,
      "v": "clips/t1116/c05.mp4",
      "a": {
       "en": "clips/t1116/c05_en.m4a"
      },
      "cues": [
       {
-       "a": 0.48,
-       "b": 10.52,
+       "a": 0.47,
+       "b": 15.79,
        "en": "Proof: the camera (spirometry) is the gold standard. Medicine, film again – flow jumps → the bridge was up.",
        "he": "הוכחה: המצלמה (ספירומטריה) היא תקן הזהב. תרופה, מצלמים שוב – הזרימה קופצת ← הגשר היה למעלה.",
        "sci": false
       },
       {
-       "a": 10.87,
-       "b": 22.46,
+       "a": 16.14,
+       "b": 34.07,
        "en": "The sniffer dog (very sensitive): quiet → not asthma. The fingerprint (very specific): a match → case closed.",
        "he": "כלב הגישוש (רגיש מאוד): שקט ← לא אסתמה. טביעת האצבע (ספציפית מאוד): התאמה ← התיק נסגר.",
        "sci": false
       },
       {
-       "a": 22.81,
-       "b": 30.28,
+       "a": 34.42,
+       "b": 45.12,
        "en": "The trap: symptoms now + normal spirometry + no response → not asthma. Look elsewhere.",
        "he": "המלכודת: תסמינים עכשיו + ספירומטריה תקינה + אין תגובה ← לא אסתמה. מחפשים במקום אחר.",
        "sci": false
       },
       {
-       "a": 31.03,
-       "b": 59.56,
+       "a": 45.87,
+       "b": 80.72,
        "en": "IN SCIENCE: spirometry from age 6 · reversibility: FEV1 ↑ ≥ 12% (+ ≥ 200 mL in adults) · methacholine = sensitive (negative rules out) · exercise = specific (positive rules in) · high FeNO supports T2, normal doesn't exclude.",
        "he": "במדע: ספירומטריה מגיל 6 · הפיכות: FEV1 עולה ב-12% לפחות (+ 200 מ\"ל במבוגרים) · מתכולין = רגיש (שלילי שולל) · מאמץ = ספציפי (חיובי מאשר) · FeNO גבוה תומך ב-T2, תקין לא שולל.",
        "sci": true
@@ -420,7 +420,7 @@
     {
      "n": 6,
      "title": "שריפה בחדר · טיפול",
-     "dur": 74.9,
+     "dur": 100.9,
      "v": "clips/t1116/c06.mp4",
      "a": {
       "en": "clips/t1116/c06_en.m4a"
@@ -428,28 +428,28 @@
      "cues": [
       {
        "a": 0.47,
-       "b": 11.72,
+       "b": 14.53,
        "en": "A fire in a smoky room: the fan opens the window fast – but the fire burns on. The extinguisher treats the fire.",
        "he": "שריפה בחדר מלא עשן: המאוורר פותח חלון מהר – אבל האש ממשיכה. המטף מטפל באש עצמה.",
        "sci": false
       },
       {
-       "a": 12.07,
-       "b": 24.2,
+       "a": 14.88,
+       "b": 31.33,
        "en": "Never the fan alone, never the long-acting fan alone. From 12: one device, extinguisher + fan, for relief and maintenance.",
        "he": "אף פעם לא מאוורר לבד, ואף פעם לא מאוורר ארוך לבד. מגיל 12: מכשיר אחד, מטף + מאוורר, להקלה ולאחזקה.",
        "sci": false
       },
       {
-       "a": 24.56,
-       "b": 33.48,
+       "a": 31.68,
+       "b": 46.91,
        "en": "Before a bigger extinguisher, check: technique · adherence · exposures · other illnesses.",
        "he": "לפני מטף גדול יותר בודקים: טכניקה · היענות · חשיפות · מחלות נלוות.",
        "sci": false
       },
       {
-       "a": 34.23,
-       "b": 74.39,
+       "a": 47.66,
+       "b": 100.45,
        "en": "IN SCIENCE: fan = bronchodilator (fast, no anti-inflammatory) · extinguisher = ICS (the foundation) · never SABA alone, never LABA alone (↑ mortality) · ≥ 12 y: budesonide-formoterol MART · steps 1–2 low dose as needed · step 3 low MART · step 4 medium MART · ~55% fewer severe attacks vs SABA · before step-up: technique, adherence, exposures, comorbidities.",
        "he": "במדע: מאוורר = מרחיב סימפונות (מהיר, לא נוגע בדלקת) · מטף = סטרואיד בשאיפה (הבסיס) · אף פעם לא SABA לבד, לא LABA לבד (↑ תמותה) · מגיל 12: בודסוניד-פורמוטרול MART · שלבים 1–2 מינון נמוך לפי הצורך · שלב 3 ‏MART נמוך · שלב 4 ‏MART בינוני · ~55% פחות התקפים קשים לעומת SABA · לפני העלאה: טכניקה, היענות, חשיפות, מחלות נלוות.",
        "sci": true
@@ -459,7 +459,7 @@
     {
      "n": 7,
      "title": "הצלפים · ביולוגיים",
-     "dur": 40.9,
+     "dur": 57.2,
      "v": "clips/t1116/c07.mp4",
      "a": {
       "en": "clips/t1116/c07_en.m4a"
@@ -467,21 +467,21 @@
      "cues": [
       {
        "a": 0.48,
-       "b": 9.89,
+       "b": 13.22,
        "en": "Still burning at the top step? Snipers – each blocks one point of the alarm chain. Pick by the kind of fire.",
        "he": "עדיין בוער בשלב העליון? צלפים – כל אחד חוסם נקודה אחת בשרשרת האזעקה. בוחרים לפי סוג האש.",
        "sci": false
       },
       {
-       "a": 10.24,
-       "b": 14.34,
+       "a": 13.57,
+       "b": 20.59,
        "en": "Give them ≥ 4 months – and never take away the extinguisher.",
        "he": "נותנים להם 4 חודשים לפחות – ולעולם לא לוקחים את המטף.",
        "sci": false
       },
       {
-       "a": 15.09,
-       "b": 40.47,
+       "a": 21.34,
+       "b": 56.69,
        "en": "IN SCIENCE: step 5 → add LAMA, phenotype, biologic · allergic since childhood → anti-IgE · high eosinophils, adult onset → anti-IL-5 · steroid-dependent + eczema → dupilumab · low T2 → tezepelumab (anti-TSLP) · ≥ 4 months · never stop ICS.",
        "he": "במדע: שלב 5 ← LAMA, פנוטיפ, ביולוגי · אלרגי מילדות ← אנטי IgE · אאוזינופילים גבוהים, הופעה בבגרות ← אנטי IL-5 · תלות בסטרואידים + אקזמה ← דופילומאב · T2 נמוך ← טזפלומאב (אנטי TSLP) · 4 חודשים לפחות · לא מפסיקים ICS.",
        "sci": true
@@ -491,36 +491,36 @@
     {
      "n": 8,
      "title": "הרץ · התקף חריף",
-     "dur": 47.8,
+     "dur": 60.8,
      "v": "clips/t1116/c08.mp4",
      "a": {
       "en": "clips/t1116/c08_en.m4a"
      },
      "cues": [
       {
-       "a": 0.47,
-       "b": 8.35,
+       "a": 0.48,
+       "b": 11.8,
        "en": "Acute attack – watch the runner: breathing fast, he blows off smoke – his smoke level should be low.",
        "he": "בהתקף חריף – מסתכלים על הרץ: נושם מהר ומוציא עשן – רמת העשן שלו אמורה להיות נמוכה.",
        "sci": false
       },
       {
-       "a": 8.7,
-       "b": 14.56,
+       "a": 12.15,
+       "b": 20.83,
        "en": "Still fast but smoke normal → he's exhausted. Act now.",
        "he": "עדיין מהר אבל העשן תקין ← הוא מתעייף. פועלים עכשיו.",
        "sci": false
       },
       {
-       "a": 15.31,
-       "b": 36.86,
+       "a": 21.58,
+       "b": 48.81,
        "en": "IN SCIENCE: monitor respiratory rate · O2 · SABA + ipratropium every 20 min (1st hour) · systemic steroids · then IV magnesium · tachypnea should lower PCO2: normal PCO2 = fatigue → act.",
        "he": "במדע: לעקוב אחרי קצב הנשימה · חמצן · SABA + איפרטרופיום כל 20 דק' (שעה ראשונה) · סטרואידים סיסטמיים · ואז מגנזיום לווריד · טכיפנאה אמורה להוריד PCO2: ערך תקין = עייפות ← לפעול.",
        "sci": true
       },
       {
-       "a": 37.81,
-       "b": 45.81,
+       "a": 49.76,
+       "b": 58.76,
        "en": "Treat the fire, not just the smoke.",
        "he": "מטפלים באש, לא רק בעשן.",
        "sci": false
@@ -540,29 +540,30 @@
     {
      "n": 1,
      "title": "המכונית · איפה הבעיה",
-     "dur": 31.3,
+     "dur": 38.3,
      "v": "clips/t1115/c01.mp4",
      "a": {
-      "en": "clips/t1115/c01_en.m4a"
+      "en": "clips/t1115/c01_en.m4a",
+      "he": "clips/t1115/c01_he.m4a"
      },
      "cues": [
       {
        "a": 1.0,
-       "b": 7.25,
+       "b": 8.6,
        "en": "Lung function, told as stories. First question: where is the problem?",
        "he": "תפקודי ריאות, כסיפורים. שאלה ראשונה: איפה הבעיה?",
        "sci": false
       },
       {
-       "a": 8.2,
-       "b": 17.17,
+       "a": 9.55,
+       "b": 21.34,
        "en": "Breathing is a car: engine, body, and driver with wires. Find which one failed.",
        "he": "הנשימה היא מכונית: מנוע, מרכב ונהג עם חוטים. מוצאים מה התקלקל.",
        "sci": false
       },
       {
-       "a": 17.92,
-       "b": 30.86,
+       "a": 22.09,
+       "b": 37.84,
        "en": "IN SCIENCE: engine = lung · body = chest wall · driver + wires = nerves and muscles. Find the place → half the diagnosis.",
        "he": "במדע: מנוע = הריאה · מרכב = דופן החזה · נהג וחוטים = עצבים ושרירים. מוצאים את המקום ← חצי אבחנה.",
        "sci": true
@@ -572,36 +573,37 @@
     {
      "n": 2,
      "title": "העץ · מבנה ומחזור הדם",
-     "dur": 63.9,
+     "dur": 80.5,
      "v": "clips/t1115/c02.mp4",
      "a": {
-      "en": "clips/t1115/c02_en.m4a"
+      "en": "clips/t1115/c02_en.m4a",
+      "he": "clips/t1115/c02_he.m4a"
      },
      "cues": [
       {
        "a": 0.48,
-       "b": 10.86,
+       "b": 14.48,
        "en": "The airways are a tree: the trunk and branches only carry air; only the leaves trade gas.",
        "he": "דרכי האוויר הן עץ: הגזע והענפים רק מובילים אוויר; רק העלים מחליפים גזים.",
        "sci": false
       },
       {
-       "a": 11.21,
-       "b": 17.55,
+       "a": 14.83,
+       "b": 23.86,
        "en": "Spread out, the leaves cover a tennis court, behind a wall thinner than a soap bubble.",
        "he": "פרושים, העלים מכסים מגרש טניס, מאחורי קיר דק יותר מבועת סבון.",
        "sci": false
       },
       {
-       "a": 17.9,
-       "b": 29.32,
+       "a": 24.21,
+       "b": 38.98,
        "en": "Two water supplies: a gentle hose for the leaves, a high-pressure line for the wood. Dangerous leaks come from the high-pressure line.",
        "he": "שני צינורות מים: צינור עדין לעלים, וקו בלחץ גבוה לעץ. דליפה מסוכנת מגיעה מהקו בלחץ הגבוה.",
        "sci": false
       },
       {
-       "a": 30.07,
-       "b": 63.38,
+       "a": 39.73,
+       "b": 80.05,
        "en": "IN SCIENCE: 23 generations · 0–16 conduct (dead space) · 17+ exchange · ~300 million alveoli ≈ 70 m² · 0.3 µm · pulmonary 25/8 = exchange · bronchial = systemic → massive hemoptysis · diaphragm C3–C5.",
        "he": "במדע: 23 דורות · עד 16 הולכה (מרחב מת) · מ-17 שחלוף · ~300 מיליון נאדיות ≈ 70 מ\"ר · 0.3 מיקרון · ריאתי 25/8 = שחלוף · ברונכיאלי = סיסטמי ← דימום מסכן · סרעפת C3–C5.",
        "sci": true
@@ -611,43 +613,44 @@
     {
      "n": 3,
      "title": "משיכת חבל · נפחים, היענות, התנגדות",
-     "dur": 74.3,
+     "dur": 104.7,
      "v": "clips/t1115/c03.mp4",
      "a": {
-      "en": "clips/t1115/c03_en.m4a"
+      "en": "clips/t1115/c03_en.m4a",
+      "he": "clips/t1115/c03_he.m4a"
      },
      "cues": [
       {
-       "a": 0.47,
-       "b": 10.46,
+       "a": 0.48,
+       "b": 14.62,
        "en": "A tug of war: the lung pulls in, the chest wall pulls out. Where they balance, the rope stops.",
        "he": "משיכת חבל: הריאה מושכת פנימה, דופן החזה החוצה. איפה שהם מתאזנים, החבל נעצר.",
        "sci": false
       },
       {
-       "a": 10.81,
-       "b": 17.51,
+       "a": 14.97,
+       "b": 25.98,
        "en": "We breathe a small cupful around that point; some always stays inside, however hard we blow.",
        "he": "נושמים כוס קטנה סביב הנקודה הזאת; תמיד נשאר משהו בפנים, לא משנה כמה נושפים.",
        "sci": false
       },
       {
-       "a": 17.86,
-       "b": 25.67,
+       "a": 26.33,
+       "b": 36.27,
        "en": "An old worn-out balloon inflates too easily; a thick leather one barely moves.",
        "he": "בלון ישן ושחוק מתנפח בקלות מדי; בלון עור עבה כמעט לא זז.",
        "sci": false
       },
       {
-       "a": 26.02,
-       "b": 35.66,
+       "a": 36.62,
+       "b": 51.38,
        "en": "Halve a straw's width → 16× the effort. Many thin straws share the work – unless you're a baby.",
        "he": "חצי מרוחב הקש ← פי 16 מאמץ. הרבה קשיות דקות חולקות את העבודה – אלא אם אתה תינוק.",
        "sci": false
       },
       {
-       "a": 36.41,
-       "b": 73.83,
+       "a": 52.13,
+       "b": 104.27,
        "en": "IN SCIENCE: balance = FRC (steepest curve) · VT ~500 mL · TLC 5–7 L · RV ~¼ · compliance ↑ emphysema, ↓ fibrosis · Laplace + surfactant · R ∝ 1/r⁴ · small airways < 20% (adult), ~½ (infant) → bronchiolitis.",
        "he": "במדע: נקודת האיזון = FRC (העקומה הכי תלולה) · VT ~500 מ\"ל · TLC 5–7 ל' · RV ~רבע · היענות ↑ באמפיזמה, ↓ בפיברוזיס · לפלס + סורפקטנט · R ∝ 1/r⁴ · דרכים קטנות פחות מ-20% במבוגר, ~חצי בתינוק ← ברונכיוליטיס.",
        "sci": true
@@ -657,29 +660,30 @@
     {
      "n": 4,
      "title": "הגשר · דיפוזיה",
-     "dur": 51.7,
+     "dur": 68.8,
      "v": "clips/t1115/c04.mp4",
      "a": {
-      "en": "clips/t1115/c04_en.m4a"
+      "en": "clips/t1115/c04_en.m4a",
+      "he": "clips/t1115/c04_he.m4a"
      },
      "cues": [
       {
        "a": 0.47,
-       "b": 11.1,
+       "b": 14.26,
        "en": "Each red cell crosses a bridge and is fully loaded a third of the way: the rest is spare time.",
        "he": "כל תא אדום חוצה גשר ומתמלא כבר בשליש הדרך: השאר זמן רזרבי.",
        "sci": false
       },
       {
-       "a": 11.45,
-       "b": 25.57,
+       "a": 14.61,
+       "b": 31.86,
        "en": "Running → the spare time disappears: a thick bridge shows first on exercise. CO2 crosses 20× faster.",
        "he": "בריצה הזמן הרזרבי נעלם: גשר עבה מתגלה קודם במאמץ. CO2 עובר פי 20 מהר יותר.",
        "sci": false
       },
       {
-       "a": 26.32,
-       "b": 51.22,
+       "a": 32.62,
+       "b": 68.31,
        "en": "IN SCIENCE: transit 0.75 s · equilibrium 0.25 s → ⅔ reserve · exercise unmasks a thick membrane · CO2 diffuses ×20 · anemia: SaO2 normal, content ↓.",
        "he": "במדע: זמן מעבר 0.75 שנ' · שיווי משקל 0.25 ← ⅔ רזרבה · מאמץ חושף קרום עבה · CO2 מתפזר פי 20 · אנמיה: סטורציה תקינה, תכולה נמוכה.",
        "sci": true
@@ -689,36 +693,37 @@
     {
      "n": 5,
      "title": "עוגת יום ההולדת · ספירומטריה",
-     "dur": 60.2,
+     "dur": 86.1,
      "v": "clips/t1115/c05.mp4",
      "a": {
-      "en": "clips/t1115/c05_en.m4a"
+      "en": "clips/t1115/c05_en.m4a",
+      "he": "clips/t1115/c05_he.m4a"
      },
      "cues": [
       {
-       "a": 0.47,
-       "b": 7.78,
+       "a": 0.48,
+       "b": 11.98,
        "en": "Spirometry is a birthday cake: biggest breath, blow as hard and as long as you can.",
        "he": "ספירומטריה היא עוגת יום הולדת: שאיפה הכי גדולה, ונושפים הכי חזק והכי ארוך.",
        "sci": false
       },
       {
-       "a": 8.13,
-       "b": 16.63,
+       "a": 12.33,
+       "b": 24.22,
        "en": "Healthy: most candles go out in the first second. A weak first second vs the whole blow → narrow pipes.",
        "he": "בריא: רוב הנרות כבים בשנייה הראשונה. שנייה ראשונה חלשה ביחס לכל הנשיפה ← צינורות צרים.",
        "sci": false
       },
       {
-       "a": 16.98,
-       "b": 31.15,
+       "a": 24.57,
+       "b": 46.0,
        "en": "Small blow, normal first second? Don't decide yet – measure total capacity. +12% after medicine → asthma.",
        "he": "נשיפה קטנה עם שנייה ראשונה תקינה? לא להחליט – למדוד את הנפח הכולל. שיפור של 12% אחרי תרופה ← אסתמה.",
        "sci": false
       },
       {
-       "a": 31.9,
-       "b": 59.7,
+       "a": 46.75,
+       "b": 85.65,
        "en": "IN SCIENCE: FEV1 ≈ 80% · FEV1/FVC > 0.8 normal · low ratio = obstruction · low FVC + normal ratio → measure TLC before 'restriction' · > 12% after bronchodilator → asthma · normal spirometry + symptoms → exercise, then methacholine.",
        "he": "במדע: FEV1 ≈ 80% · FEV1/FVC מעל 0.8 תקין · יחס נמוך = חסימה · FVC נמוך + יחס תקין ← למדוד TLC לפני 'רסטריקציה' · מעל 12% אחרי מרחיב ← אסתמה · ספירומטריה תקינה + תסמינים ← מאמץ ואז מתכולין.",
        "sci": true
@@ -728,36 +733,37 @@
     {
      "n": 6,
      "title": "הבית · TLC ו-DLCO",
-     "dur": 67.5,
+     "dur": 96.6,
      "v": "clips/t1115/c06.mp4",
      "a": {
-      "en": "clips/t1115/c06_en.m4a"
+      "en": "clips/t1115/c06_en.m4a",
+      "he": "clips/t1115/c06_he.m4a"
      },
      "cues": [
       {
-       "a": 0.48,
-       "b": 10.72,
+       "a": 0.47,
+       "b": 16.88,
        "en": "Some air never leaves. A messenger only meets people in the open rooms.",
        "he": "חלק מהאוויר אף פעם לא יוצא. שליח פוגש רק את מי שבחדרים הפתוחים.",
        "sci": false
       },
       {
-       "a": 11.07,
-       "b": 18.02,
+       "a": 17.23,
+       "b": 28.06,
        "en": "Or squeeze the whole house and read the pressure: it counts everyone, even behind locked doors.",
        "he": "או לוחצים על כל הבית ומודדים לחץ: זה סופר את כולם, גם מאחורי דלתות נעולות.",
        "sci": false
       },
       {
-       "a": 18.37,
-       "b": 29.03,
+       "a": 28.41,
+       "b": 44.4,
        "en": "To test the wall: a tracer that sticks to red cells. Hold 10 s – how much crossed = how good the wall is.",
        "he": "לבדיקת הקיר: חומר מסמן שנדבק לתאים האדומים. עוצרים 10 שניות – כמה עבר = כמה הקיר טוב.",
        "sci": false
       },
       {
-       "a": 29.78,
-       "b": 67.07,
+       "a": 45.15,
+       "b": 96.1,
        "en": "IN SCIENCE: spirometry can't see RV → no TLC · helium dilution misses trapped air · plethysmography (Boyle) counts all gas · DLCO: CO, 10 s hold → membrane · ↓ fibrosis, emphysema, vascular disease, anemia · desaturation on stepper → diffusion.",
        "he": "במדע: ספירומטר לא רואה RV ← אין TLC · דילול הליום מפספס אוויר כלוא · פלתיסמוגרפיה (בויל) סופרת הכל · DLCO: ‏CO, עצירה 10 שנ' ← הקרום · יורד בפיברוזיס, אמפיזמה, מחלת כלי דם, אנמיה · ירידה בסטורציה במדרגה ← דיפוזיה.",
        "sci": true
@@ -767,43 +773,44 @@
     {
      "n": 7,
      "title": "ארבע דלתות · היפוקסמיה וגובה",
-     "dur": 91.0,
+     "dur": 116.6,
      "v": "clips/t1115/c07.mp4",
      "a": {
-      "en": "clips/t1115/c07_en.m4a"
+      "en": "clips/t1115/c07_en.m4a",
+      "he": "clips/t1115/c07_he.m4a"
      },
      "cues": [
       {
        "a": 0.48,
-       "b": 11.68,
+       "b": 14.16,
        "en": "Four ways O2 goes missing: 1. too few breaths (smoke piles up; O2 fixes it) · 2. a sticky bridge (worse on effort).",
        "he": "ארבע דרכים לאבד חמצן: 1. מעט נשימות (העשן מצטבר; חמצן מתקן) · 2. גשר דביק (גרוע במאמץ).",
        "sci": false
       },
       {
-       "a": 12.03,
-       "b": 23.4,
+       "a": 14.51,
+       "b": 29.99,
        "en": "3. mismatched tables (most common; O2 helps) · 4. blood that never meets air – even pure O2 won't fix it.",
        "he": "3. שולחנות לא מתואמים (הכי שכיח; חמצן עוזר) · 4. דם שלא פוגש אוויר – גם חמצן טהור לא מתקן.",
        "sci": false
       },
       {
-       "a": 23.75,
-       "b": 35.31,
+       "a": 30.34,
+       "b": 44.39,
        "en": "High mountain → thin air: at 5,000 m alveolar O2 nearly vanishes; added O2 brings it back.",
        "he": "הר גבוה ← אוויר דליל: ב-5,000 מ' החמצן בנאדית כמעט נעלם; תוספת חמצן מחזירה אותו.",
        "sci": false
       },
       {
-       "a": 36.06,
-       "b": 79.5,
+       "a": 45.14,
+       "b": 103.08,
        "en": "IN SCIENCE: hypoventilation (CO2 ↑; opioids, weak muscles; O2 fixes) · diffusion (exercise) · V/Q mismatch (most common; O2 fixes) · shunt (100% O2 won't) · PAO2 = 0.21×713 − PaCO2/0.8 ≈ 100 · 5,000 m: Pb 405 → ~28; 35% O2 → ~78.",
        "he": "במדע: היפוונטילציה (CO2 עולה; אופיאטים, שרירים; חמצן מתקן) · דיפוזיה (מאמץ) · חוסר התאמה V/Q (הכי שכיח; חמצן מתקן) · שאנט (גם 100% לא) · PAO2 = 0.21×713 − PaCO2/0.8 ≈ 100 · ב-5,000 מ': ‏405 ← ~28; עם 35% ← ~78.",
        "sci": true
       },
       {
-       "a": 80.45,
-       "b": 89.02,
+       "a": 104.03,
+       "b": 114.64,
        "en": "Find where the problem is – the numbers tell you the rest.",
        "he": "מוצאים איפה הבעיה – והמספרים מספרים את השאר.",
        "sci": false
@@ -826,7 +833,8 @@
      "dur": 58.6,
      "v": "clips/t1112/c01.mp4",
      "a": {
-      "en": "clips/t1112/c01_en.m4a"
+      "en": "clips/t1112/c01_en.m4a",
+      "he": "clips/t1112/c01_he.m4a"
      },
      "cues": [
       {
@@ -872,7 +880,8 @@
      "dur": 48.3,
      "v": "clips/t1112/c02.mp4",
      "a": {
-      "en": "clips/t1112/c02_en.m4a"
+      "en": "clips/t1112/c02_en.m4a",
+      "he": "clips/t1112/c02_he.m4a"
      },
      "cues": [
       {
@@ -911,7 +920,8 @@
      "dur": 60.5,
      "v": "clips/t1112/c03.mp4",
      "a": {
-      "en": "clips/t1112/c03_en.m4a"
+      "en": "clips/t1112/c03_en.m4a",
+      "he": "clips/t1112/c03_he.m4a"
      },
      "cues": [
       {
@@ -957,7 +967,8 @@
      "dur": 52.8,
      "v": "clips/t1112/c04.mp4",
      "a": {
-      "en": "clips/t1112/c04_en.m4a"
+      "en": "clips/t1112/c04_en.m4a",
+      "he": "clips/t1112/c04_he.m4a"
      },
      "cues": [
       {
@@ -989,7 +1000,8 @@
      "dur": 52.7,
      "v": "clips/t1112/c05.mp4",
      "a": {
-      "en": "clips/t1112/c05_en.m4a"
+      "en": "clips/t1112/c05_en.m4a",
+      "he": "clips/t1112/c05_he.m4a"
      },
      "cues": [
       {
@@ -1028,7 +1040,8 @@
      "dur": 75.7,
      "v": "clips/t1112/c06.mp4",
      "a": {
-      "en": "clips/t1112/c06_en.m4a"
+      "en": "clips/t1112/c06_en.m4a",
+      "he": "clips/t1112/c06_he.m4a"
      },
      "cues": [
       {
@@ -1074,7 +1087,8 @@
      "dur": 40.4,
      "v": "clips/t1112/c07.mp4",
      "a": {
-      "en": "clips/t1112/c07_en.m4a"
+      "en": "clips/t1112/c07_en.m4a",
+      "he": "clips/t1112/c07_he.m4a"
      },
      "cues": [
       {
@@ -1106,7 +1120,8 @@
      "dur": 66.8,
      "v": "clips/t1112/c08.mp4",
      "a": {
-      "en": "clips/t1112/c08_en.m4a"
+      "en": "clips/t1112/c08_en.m4a",
+      "he": "clips/t1112/c08_he.m4a"
      },
      "cues": [
       {
