@@ -361,236 +361,6 @@
    ]
   },
   {
-   "id": "t1119m",
-   "day": "19/11/2026",
-   "title": "מומים מולדים בריאה ובקנה – בסיפורים",
-   "title_en": "Congenital lung and tracheal malformations, told as stories",
-   "course": "מערכת הנשימה",
-   "poster": "clips/t1119m/poster.jpg",
-   "clips": [
-    {
-     "n": 1,
-     "title": "החדר הנסתר · ריאה מנותקת",
-     "dur": 116.5,
-     "v": {
-      "en": "clips/t1119m/c01_en.mp4",
-      "he": "clips/t1119m/c01_he.mp4"
-     },
-     "cues": [
-      {
-       "a": 1.0,
-       "b": 9.37,
-       "en": "Congenital lung + tracheal malformations, through the surgeon's eyes: what we see, when we operate, how.",
-       "he": "מומים מולדים בריאה ובקנה, בעיני המנתח: מה רואים, מתי מנתחים ואיך.",
-       "sci": false
-      },
-      {
-       "a": 10.32,
-       "b": 25.6,
-       "en": "A room with no door to the corridor, powered by the neighbor's line: lung with no airway, fed straight from the aorta.",
-       "he": "חדר בלי דלת למסדרון, שמקבל חשמל מהקו של השכן: ריאה בלי סימפון, שמוזנת ישר מהאאורטה.",
-       "sci": false
-      },
-      {
-       "a": 25.95,
-       "b": 44.45,
-       "en": "Inside the lobe → blood returns via pulmonary veins (intra-lobar). Own walls → via the azygos (extra-lobar). Most: left lower lobe.",
-       "he": "בתוך האונה ← הדם חוזר בורידי הריאה (אינטרה-לוברי). קירות משלו ← דרך האזיגוס (אקסטרה-לוברי). רובם: אונה תחתונה שמאלית.",
-       "sci": false
-      },
-      {
-       "a": 44.8,
-       "b": 63.56,
-       "en": "Poor drainage → recurrent infections. CT angiography shows the feeding artery. Surgery rule #1: find and tie the artery first.",
-       "he": "ניקוז גרוע ← זיהומים חוזרים. CT אנגיו מראה את העורק המזין. כלל ראשון בניתוח: קודם מוצאים וקושרים את העורק.",
-       "sci": false
-      },
-      {
-       "a": 64.31,
-       "b": 115.98,
-       "en": "IN SCIENCE: sequestration (Pryce 1946) = no bronchial connection + systemic artery from descending aorta · intra-lobar → pulmonary veins, recurrent infection, bronchorrhea → lobectomy / segmentectomy · extra-lobar → own pleura, azygos, prenatal → excise pedicle · mostly LLL · US Doppler → CT angiography · control the artery first.",
-       "he": "במדע: ריאה מנותקת (פרייס 1946) = בלי קשר לעץ הסימפונות + עורק סיסטמי מהאאורטה היורדת · אינטרה-לוברי ← ורידי הריאה, זיהומים חוזרים, ברונכוריאה ← לובקטומיה / סגמנטקטומיה · אקסטרה-לוברי ← פלאורה משלו, אזיגוס, טרום-לידתי ← כריתה וקשירת הפדיקל · רובם LLL · US דופלר ← CT אנגיו · קודם שולטים בעורק.",
-       "sci": true
-      }
-     ]
-    },
-    {
-     "n": 2,
-     "title": "השסתום החד-כיווני · CLE",
-     "dur": 68.6,
-     "v": {
-      "en": "clips/t1119m/c02_en.mp4",
-      "he": "clips/t1119m/c02_he.mp4"
-     },
-     "cues": [
-      {
-       "a": 0.48,
-       "b": 19.54,
-       "en": "A one-way valve: soft cartilage lets air in but not out → the lobe over-inflates and pushes the heart + other lung aside.",
-       "he": "שסתום חד-כיווני: סחוס רך מכניס אוויר ולא מוציא ← האונה מתנפחת ודוחקת את הלב והריאה השנייה.",
-       "sci": false
-      },
-      {
-       "a": 19.89,
-       "b": 37.44,
-       "en": "Looks like a pneumothorax, but vessels are still visible. Don't drain it. Opened, the lobe jumps out → lobectomy.",
-       "he": "נראה כמו חזה אוויר, אבל רואים כלי דם. לא מכניסים נקז. פותחים – והאונה קופצת החוצה ← לובקטומיה.",
-       "sci": false
-      },
-      {
-       "a": 38.19,
-       "b": 68.17,
-       "en": "IN SCIENCE: congenital lobar emphysema · weak cartilage → ball-valve air trapping · hyperinflated lobe (often LUL) → mediastinal shift + compression atelectasis · newborn distress · lung markings remain (≠ pneumothorax, don't drain) · bronchoscopy excludes obstruction · lobectomy.",
-       "he": "במדע: נפחת אונתית מולדת · סחוס חלש ← שסתום חד-כיווני, לכידת אוויר · אונה מנופחת (לרוב LUL) ← דחיקת מיצר ותמט לחיצה · מצוקה ביילוד · סימני ריאה נשמרים (≠ חזה אוויר, לא לנקז) · ברונכוסקופיה שוללת חסימה · לובקטומיה.",
-       "sci": true
-      }
-     ]
-    },
-    {
-     "n": 3,
-     "title": "ניילון בועות · CCAM",
-     "dur": 101.7,
-     "v": {
-      "en": "clips/t1119m/c03_en.mp4",
-      "he": "clips/t1119m/c03_he.mp4"
-     },
-     "cues": [
-      {
-       "a": 0.48,
-       "b": 19.56,
-       "en": "Bubble wrap instead of fine rooms: an overgrowth of the smallest airways (CCAM / CPAM) – the commonest – connected to airways and pulmonary blood.",
-       "he": "ניילון בועות במקום חדרים עדינים: שגשוג של דרכי האוויר הקטנות (CCAM / CPAM) – הכי שכיח – מחובר לסימפונות ולדם הריאתי.",
-       "sci": false
-      },
-      {
-       "a": 19.91,
-       "b": 40.31,
-       "en": "Big bubbles, small bubbles, or solid. They inflate and push, or get infected again and again. Some can turn malignant → remove, even if silent.",
-       "he": "בועות גדולות, קטנות, או גוש מוצק. הן מתנפחות ודוחקות, או מזדהמות שוב ושוב. חלק יכולות להפוך לממאירות ← כורתים, גם בלי תסמינים.",
-       "sci": false
-      },
-      {
-       "a": 41.06,
-       "b": 101.26,
-       "en": "IN SCIENCE: CCAM / CPAM (Ch'in & Tang 1949) = adenomatoid overgrowth of terminal structures · connected to bronchi, pulmonary blood · Stocker 1: cysts > 2 cm · 2: < 1 cm · 3: solid · mediastinal shift + recurrent pneumonia · prenatal US · lobectomy, even if asymptomatic (infection, malignancy) · bronchogenic / giant cysts → excision.",
-       "he": "במדע: CCAM / CPAM ‏(צ'ין וטאנג 1949) = שגשוג אדנומטואידי של מבנים סופיים · מחובר לסימפונות, דם ריאתי · סטוקר 1: ציסטות מעל 2 ס\"מ · 2: מתחת ל-1 ס\"מ · 3: מוצק · דחיקת מיצר + דלקות חוזרות · US טרום-לידתי · לובקטומיה גם בלי תסמינים (זיהום, ממאירות) · ציסטה ברונכוגנית / ענקית ← כריתה.",
-       "sci": true
-      }
-     ]
-    },
-    {
-     "n": 4,
-     "title": "צריך צוות · לקחי הניתוח",
-     "dur": 55.8,
-     "v": {
-      "en": "clips/t1119m/c04_en.mp4",
-      "he": "clips/t1119m/c04_he.mp4"
-     },
-     "cues": [
-      {
-       "a": 0.48,
-       "b": 20.4,
-       "en": "Lobectomy is safe even in newborns – the rest keeps growing. It takes a team: anesthesia + PICU, epidural before, physio after, follow-up for years.",
-       "he": "כריתת אונה בטוחה גם ביילוד – השאר ממשיך לגדול. צריך צוות: הרדמה + טיפול נמרץ, אפידורל לפני, פיזיותרפיה אחרי, מעקב לשנים.",
-       "sci": false
-      },
-      {
-       "a": 21.15,
-       "b": 55.31,
-       "en": "IN SCIENCE: anatomical resections safe in neonates · experienced anesthesia + PICU · pre-op epidural (even neonates) · post-op chest physiotherapy · long follow-up (malignancy, e.g. pleuropulmonary blastoma).",
-       "he": "במדע: כריתות אנטומיות בטוחות ביילודים · הרדמה ו-PICU מנוסים · אפידורל לפני הניתוח (גם ביילודים) · פיזיותרפיה נשימתית אחרי · מעקב ארוך (ממאירות, כמו pleuropulmonary blastoma).",
-       "sci": true
-      }
-     ]
-    },
-    {
-     "n": 5,
-     "title": "טבעות קשיחות · היצרות קנה",
-     "dur": 117.0,
-     "v": {
-      "en": "clips/t1119m/c05_en.mp4",
-      "he": "clips/t1119m/c05_he.mp4"
-     },
-     "cues": [
-      {
-       "a": 0.47,
-       "b": 16.94,
-       "en": "Normal tracheal rings are horseshoes with a soft back. Here: complete O-rings → a narrow, rigid pipe. Rare, dangerous – think of it.",
-       "he": "טבעות קנה רגילות הן פרסות עם גב רך. כאן: טבעות שלמות ← צינור צר וקשיח. נדיר ומסוכן – צריך לחשוב עליו.",
-       "sci": false
-      },
-      {
-       "a": 17.29,
-       "b": 36.94,
-       "en": "Suspect: wheeze from the first days, in AND out, no response to bronchodilators · blue spells · tracheal cough · crash after a mild cold · worse than the heart defect explains.",
-       "he": "חשד: צפצופים מהימים הראשונים, בשאיפה ובנשיפה, בלי תגובה למרחיבים · אירועי כחלון · שיעול קני · קריסה אחרי הצטננות · מצב גרוע ממה שמום הלב מסביר.",
-       "sci": false
-      },
-      {
-       "a": 37.29,
-       "b": 53.25,
-       "en": "In theatre: a tube that won't advance · a 'pig bronchus' · PA sling (the left pulmonary artery loops around the trachea) → 50% have complete rings.",
-       "he": "בחדר ניתוח: טובוס שלא מתקדם · 'pig bronchus' · PA sling (העורק הריאתי השמאלי עוטף את הקנה) ← ל-50% יש טבעות שלמות.",
-       "sci": false
-      },
-      {
-       "a": 54.0,
-       "b": 116.54,
-       "en": "IN SCIENCE: complete tracheal rings, no pars membranacea · early wheeze (day 1–4 mo), insp + exp, no bronchodilator response · tracheal cough, cyanotic spells, crash after URI · unexplained by heart defect · difficult intubation · pig bronchus · PA sling → 50% rings · Cooper-filter CXR, bronchoscopy, bronchography, CT angio, echo · operate: acute failure, severe recurrent distress, long segment ~60%.",
-       "he": "במדע: טבעות קנה שלמות, בלי דופן קרומית · צפצופים מוקדמים (יום 1 עד 4 חודשים), בשאיפה ובנשיפה, בלי תגובה למרחיבים · שיעול קני, כחלון, קריסה אחרי URI · לא מוסבר במום הלב · אינטובציה קשה · pig bronchus · PA sling ← 50% טבעות · צילום עם Cooper filter, ברונכוסקופיה, ברונכוגרפיה, CT אנגיו, אקו · ניתוח: כשל חריף, מצוקה חוזרת, סגמנט ארוך ~60%.",
-       "sci": true
-      }
-     ]
-    },
-    {
-     "n": 6,
-     "title": "מתקנים את הצינור · שחזור קנה",
-     "dur": 118.8,
-     "v": {
-      "en": "clips/t1119m/c06_en.mp4",
-      "he": "clips/t1119m/c06_he.mp4"
-     },
-     "cues": [
-      {
-       "a": 0.48,
-       "b": 17.96,
-       "en": "Short → cut out and sew the ends. Long → a pericardial patch widens it, but it sags and scars (~25% mortality).",
-       "he": "קצר ← כורתים ותופרים קצה לקצה. ארוך ← טלאי פריקרד מרחיב, אבל קורס ומצטלק (~25% תמותה).",
-       "sci": false
-      },
-      {
-       "a": 18.31,
-       "b": 36.94,
-       "en": "Better: the child's own trachea – an autograft patch, or the slide tracheoplasty: half as long, twice as wide.",
-       "he": "עדיף: הקנה של הילד עצמו – שתל עצמי, או slide tracheoplasty: חצי באורך, כפול ברוחב.",
-       "sci": false
-      },
-      {
-       "a": 37.29,
-       "b": 51.82,
-       "en": "Afterwards: bronchoscopic follow-up. New stridor → membrane / granulation → usually a balloon dilation.",
-       "he": "אחר כך: מעקב ברונכוסקופי. סטרידור חדש ← קרום / גרנולציות ← לרוב הרחבה בבלון.",
-       "sci": false
-      },
-      {
-       "a": 52.57,
-       "b": 103.36,
-       "en": "IN SCIENCE: short → resection + end-to-end anastomosis · long → pericardial patch (malacia, granulation, ~25% mortality) · tracheal autograft (own cartilage) · slide tracheoplasty (½ length, ×2 circumference, native tissue, on CPB) · fix heart defects + PA sling together · bronchoscopic follow-up · new stridor → balloon.",
-       "he": "במדע: קצר ← כריתה והשקה קצה לקצה · ארוך ← טלאי פריקרד (מלציה, גרנולציות, ~25% תמותה) · שתל עצמי (סחוס של הילד) · slide tracheoplasty (חצי אורך, היקף כפול, רקמה עצמית, במעקף לב-ריאה) · מתקנים מום לב ו-PA sling באותו ניתוח · מעקב ברונכוסקופי · סטרידור חדש ← בלון.",
-       "sci": true
-      },
-      {
-       "a": 104.31,
-       "b": 116.81,
-       "en": "Know the picture – know when to operate.",
-       "he": "מכירים את התמונה – יודעים מתי לנתח.",
-       "sci": false
-      }
-     ]
-    }
-   ]
-  },
-  {
    "id": "t1119t",
    "day": "19/11/2026",
    "title": "כירורגיית חזה והשתלת ריאה – בסיפורים",
@@ -1076,6 +846,236 @@
        "b": 125.34,
        "en": "Check the one-way valve first. Watch, aspirate or drain. Patch it when it keeps coming back.",
        "he": "קודם בודקים שסתום חד-כיווני. השגחה, שאיבה או נקז. מתקנים כשזה חוזר.",
+       "sci": false
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "t1119m",
+   "day": "19/11/2026",
+   "title": "מומים מולדים בריאה ובקנה – בסיפורים",
+   "title_en": "Congenital lung and tracheal malformations, told as stories",
+   "course": "מערכת הנשימה",
+   "poster": "clips/t1119m/poster.jpg",
+   "clips": [
+    {
+     "n": 1,
+     "title": "החדר הנסתר · ריאה מנותקת",
+     "dur": 150.6,
+     "v": {
+      "en": "clips/t1119m/c01_en.mp4",
+      "he": "clips/t1119m/c01_he.mp4"
+     },
+     "cues": [
+      {
+       "a": 1.0,
+       "b": 9.37,
+       "en": "Congenital lung + tracheal malformations, through the surgeon's eyes: what we see, when we operate, how.",
+       "he": "מומים מולדים בריאה ובקנה, בעיני המנתח: מה רואים, מתי מנתחים ואיך.",
+       "sci": false
+      },
+      {
+       "a": 10.32,
+       "b": 25.6,
+       "en": "A room with no door to the corridor, powered by the neighbor's line: lung with no airway, fed straight from the aorta.",
+       "he": "חדר בלי דלת למסדרון, שמקבל חשמל מהקו של השכן: ריאה בלי סימפון, שמוזנת ישר מהאאורטה.",
+       "sci": false
+      },
+      {
+       "a": 25.95,
+       "b": 44.45,
+       "en": "Inside the lobe → blood returns via pulmonary veins (intra-lobar). Own walls → via the azygos (extra-lobar). Most: left lower lobe.",
+       "he": "בתוך האונה ← הדם חוזר בורידי הריאה (אינטרה-לוברי). קירות משלו ← דרך האזיגוס (אקסטרה-לוברי). רובם: אונה תחתונה שמאלית.",
+       "sci": false
+      },
+      {
+       "a": 44.8,
+       "b": 63.56,
+       "en": "Poor drainage → recurrent infections. CT angiography shows the feeding artery. Surgery rule #1: find and tie the artery first.",
+       "he": "ניקוז גרוע ← זיהומים חוזרים. CT אנגיו מראה את העורק המזין. כלל ראשון בניתוח: קודם מוצאים וקושרים את העורק.",
+       "sci": false
+      },
+      {
+       "a": 64.31,
+       "b": 150.16,
+       "en": "IN SCIENCE: sequestration (Pryce 1946) = no bronchial connection + systemic artery from descending aorta · intra-lobar → pulmonary veins, recurrent infection, bronchorrhea → lobectomy / segmentectomy · extra-lobar → own pleura, azygos, prenatal → excise pedicle · mostly LLL · US Doppler → CT angiography · control the artery first.",
+       "he": "במדע: ריאה מנותקת (פרייס 1946) = בלי קשר לעץ הסימפונות + עורק סיסטמי מהאאורטה היורדת · אינטרה-לוברי ← ורידי הריאה, זיהומים חוזרים, ברונכוריאה ← לובקטומיה / סגמנטקטומיה · אקסטרה-לוברי ← פלאורה משלו, אזיגוס, טרום-לידתי ← כריתה וקשירת הפדיקל · רובם LLL · US דופלר ← CT אנגיו · קודם שולטים בעורק.",
+       "sci": true
+      }
+     ]
+    },
+    {
+     "n": 2,
+     "title": "השסתום החד-כיווני · CLE",
+     "dur": 93.1,
+     "v": {
+      "en": "clips/t1119m/c02_en.mp4",
+      "he": "clips/t1119m/c02_he.mp4"
+     },
+     "cues": [
+      {
+       "a": 0.47,
+       "b": 19.54,
+       "en": "A one-way valve: soft cartilage lets air in but not out → the lobe over-inflates and pushes the heart + other lung aside.",
+       "he": "שסתום חד-כיווני: סחוס רך מכניס אוויר ולא מוציא ← האונה מתנפחת ודוחקת את הלב והריאה השנייה.",
+       "sci": false
+      },
+      {
+       "a": 19.89,
+       "b": 37.44,
+       "en": "Looks like a pneumothorax, but vessels are still visible. Don't drain it. Opened, the lobe jumps out → lobectomy.",
+       "he": "נראה כמו חזה אוויר, אבל רואים כלי דם. לא מכניסים נקז. פותחים – והאונה קופצת החוצה ← לובקטומיה.",
+       "sci": false
+      },
+      {
+       "a": 38.19,
+       "b": 92.61,
+       "en": "IN SCIENCE: congenital lobar emphysema · weak cartilage → ball-valve air trapping · hyperinflated lobe (often LUL) → mediastinal shift + compression atelectasis · newborn distress · lung markings remain (≠ pneumothorax, don't drain) · bronchoscopy excludes obstruction · lobectomy.",
+       "he": "במדע: נפחת אונתית מולדת · סחוס חלש ← שסתום חד-כיווני, לכידת אוויר · אונה מנופחת (לרוב LUL) ← דחיקת מיצר ותמט לחיצה · מצוקה ביילוד · סימני ריאה נשמרים (≠ חזה אוויר, לא לנקז) · ברונכוסקופיה שוללת חסימה · לובקטומיה.",
+       "sci": true
+      }
+     ]
+    },
+    {
+     "n": 3,
+     "title": "ניילון בועות · CCAM",
+     "dur": 118.6,
+     "v": {
+      "en": "clips/t1119m/c03_en.mp4",
+      "he": "clips/t1119m/c03_he.mp4"
+     },
+     "cues": [
+      {
+       "a": 0.47,
+       "b": 19.56,
+       "en": "Bubble wrap instead of fine rooms: an overgrowth of the smallest airways (CCAM / CPAM) – the commonest – connected to airways and pulmonary blood.",
+       "he": "ניילון בועות במקום חדרים עדינים: שגשוג של דרכי האוויר הקטנות (CCAM / CPAM) – הכי שכיח – מחובר לסימפונות ולדם הריאתי.",
+       "sci": false
+      },
+      {
+       "a": 19.91,
+       "b": 40.31,
+       "en": "Big bubbles, small bubbles, or solid. They inflate and push, or get infected again and again. Some can turn malignant → remove, even if silent.",
+       "he": "בועות גדולות, קטנות, או גוש מוצק. הן מתנפחות ודוחקות, או מזדהמות שוב ושוב. חלק יכולות להפוך לממאירות ← כורתים, גם בלי תסמינים.",
+       "sci": false
+      },
+      {
+       "a": 41.06,
+       "b": 118.12,
+       "en": "IN SCIENCE: CCAM / CPAM (Ch'in & Tang 1949) = adenomatoid overgrowth of terminal structures · connected to bronchi, pulmonary blood · Stocker 1: cysts > 2 cm · 2: < 1 cm · 3: solid · mediastinal shift + recurrent pneumonia · prenatal US · lobectomy, even if asymptomatic (infection, malignancy) · bronchogenic / giant cysts → excision.",
+       "he": "במדע: CCAM / CPAM ‏(צ'ין וטאנג 1949) = שגשוג אדנומטואידי של מבנים סופיים · מחובר לסימפונות, דם ריאתי · סטוקר 1: ציסטות מעל 2 ס\"מ · 2: מתחת ל-1 ס\"מ · 3: מוצק · דחיקת מיצר + דלקות חוזרות · US טרום-לידתי · לובקטומיה גם בלי תסמינים (זיהום, ממאירות) · ציסטה ברונכוגנית / ענקית ← כריתה.",
+       "sci": true
+      }
+     ]
+    },
+    {
+     "n": 4,
+     "title": "צריך צוות · לקחי הניתוח",
+     "dur": 67.0,
+     "v": {
+      "en": "clips/t1119m/c04_en.mp4",
+      "he": "clips/t1119m/c04_he.mp4"
+     },
+     "cues": [
+      {
+       "a": 0.47,
+       "b": 20.4,
+       "en": "Lobectomy is safe even in newborns – the rest keeps growing. It takes a team: anesthesia + PICU, epidural before, physio after, follow-up for years.",
+       "he": "כריתת אונה בטוחה גם ביילוד – השאר ממשיך לגדול. צריך צוות: הרדמה + טיפול נמרץ, אפידורל לפני, פיזיותרפיה אחרי, מעקב לשנים.",
+       "sci": false
+      },
+      {
+       "a": 21.15,
+       "b": 66.57,
+       "en": "IN SCIENCE: anatomical resections safe in neonates · experienced anesthesia + PICU · pre-op epidural (even neonates) · post-op chest physiotherapy · long follow-up (malignancy, e.g. pleuropulmonary blastoma).",
+       "he": "במדע: כריתות אנטומיות בטוחות ביילודים · הרדמה ו-PICU מנוסים · אפידורל לפני הניתוח (גם ביילודים) · פיזיותרפיה נשימתית אחרי · מעקב ארוך (ממאירות, כמו pleuropulmonary blastoma).",
+       "sci": true
+      }
+     ]
+    },
+    {
+     "n": 5,
+     "title": "טבעות קשיחות · היצרות קנה",
+     "dur": 145.6,
+     "v": {
+      "en": "clips/t1119m/c05_en.mp4",
+      "he": "clips/t1119m/c05_he.mp4"
+     },
+     "cues": [
+      {
+       "a": 0.47,
+       "b": 16.94,
+       "en": "Normal tracheal rings are horseshoes with a soft back. Here: complete O-rings → a narrow, rigid pipe. Rare, dangerous – think of it.",
+       "he": "טבעות קנה רגילות הן פרסות עם גב רך. כאן: טבעות שלמות ← צינור צר וקשיח. נדיר ומסוכן – צריך לחשוב עליו.",
+       "sci": false
+      },
+      {
+       "a": 17.29,
+       "b": 36.95,
+       "en": "Suspect: wheeze from the first days, in AND out, no response to bronchodilators · blue spells · tracheal cough · crash after a mild cold · worse than the heart defect explains.",
+       "he": "חשד: צפצופים מהימים הראשונים, בשאיפה ובנשיפה, בלי תגובה למרחיבים · אירועי כחלון · שיעול קני · קריסה אחרי הצטננות · מצב גרוע ממה שמום הלב מסביר.",
+       "sci": false
+      },
+      {
+       "a": 37.3,
+       "b": 53.25,
+       "en": "In theatre: a tube that won't advance · a 'pig bronchus' · PA sling (the left pulmonary artery loops around the trachea) → 50% have complete rings.",
+       "he": "בחדר ניתוח: טובוס שלא מתקדם · 'pig bronchus' · PA sling (העורק הריאתי השמאלי עוטף את הקנה) ← ל-50% יש טבעות שלמות.",
+       "sci": false
+      },
+      {
+       "a": 54.0,
+       "b": 145.09,
+       "en": "IN SCIENCE: complete tracheal rings, no pars membranacea · early wheeze (day 1–4 mo), insp + exp, no bronchodilator response · tracheal cough, cyanotic spells, crash after URI · unexplained by heart defect · difficult intubation · pig bronchus · PA sling → 50% rings · Cooper-filter CXR, bronchoscopy, bronchography, CT angio, echo · operate: acute failure, severe recurrent distress, long segment ~60%.",
+       "he": "במדע: טבעות קנה שלמות, בלי דופן קרומית · צפצופים מוקדמים (יום 1 עד 4 חודשים), בשאיפה ובנשיפה, בלי תגובה למרחיבים · שיעול קני, כחלון, קריסה אחרי URI · לא מוסבר במום הלב · אינטובציה קשה · pig bronchus · PA sling ← 50% טבעות · צילום עם Cooper filter, ברונכוסקופיה, ברונכוגרפיה, CT אנגיו, אקו · ניתוח: כשל חריף, מצוקה חוזרת, סגמנט ארוך ~60%.",
+       "sci": true
+      }
+     ]
+    },
+    {
+     "n": 6,
+     "title": "מתקנים את הצינור · שחזור קנה",
+     "dur": 149.4,
+     "v": {
+      "en": "clips/t1119m/c06_en.mp4",
+      "he": "clips/t1119m/c06_he.mp4"
+     },
+     "cues": [
+      {
+       "a": 0.48,
+       "b": 17.96,
+       "en": "Short → cut out and sew the ends. Long → a pericardial patch widens it, but it sags and scars (~25% mortality).",
+       "he": "קצר ← כורתים ותופרים קצה לקצה. ארוך ← טלאי פריקרד מרחיב, אבל קורס ומצטלק (~25% תמותה).",
+       "sci": false
+      },
+      {
+       "a": 18.31,
+       "b": 36.94,
+       "en": "Better: the child's own trachea – an autograft patch, or the slide tracheoplasty: half as long, twice as wide.",
+       "he": "עדיף: הקנה של הילד עצמו – שתל עצמי, או slide tracheoplasty: חצי באורך, כפול ברוחב.",
+       "sci": false
+      },
+      {
+       "a": 37.29,
+       "b": 51.82,
+       "en": "Afterwards: bronchoscopic follow-up. New stridor → membrane / granulation → usually a balloon dilation.",
+       "he": "אחר כך: מעקב ברונכוסקופי. סטרידור חדש ← קרום / גרנולציות ← לרוב הרחבה בבלון.",
+       "sci": false
+      },
+      {
+       "a": 52.57,
+       "b": 133.96,
+       "en": "IN SCIENCE: short → resection + end-to-end anastomosis · long → pericardial patch (malacia, granulation, ~25% mortality) · tracheal autograft (own cartilage) · slide tracheoplasty (½ length, ×2 circumference, native tissue, on CPB) · fix heart defects + PA sling together · bronchoscopic follow-up · new stridor → balloon.",
+       "he": "במדע: קצר ← כריתה והשקה קצה לקצה · ארוך ← טלאי פריקרד (מלציה, גרנולציות, ~25% תמותה) · שתל עצמי (סחוס של הילד) · slide tracheoplasty (חצי אורך, היקף כפול, רקמה עצמית, במעקף לב-ריאה) · מתקנים מום לב ו-PA sling באותו ניתוח · מעקב ברונכוסקופי · סטרידור חדש ← בלון.",
+       "sci": true
+      },
+      {
+       "a": 134.91,
+       "b": 147.41,
+       "en": "Know the picture – know when to operate.",
+       "he": "מכירים את התמונה – יודעים מתי לנתח.",
        "sci": false
       }
      ]
