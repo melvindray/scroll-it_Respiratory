@@ -1093,7 +1093,7 @@
     {
      "n": 1,
      "title": "מסוע המזוודות · הריסים",
-     "dur": 105.1,
+     "dur": 129.9,
      "v": {
       "en": "clips/t1118/c01_en.mp4",
       "he": "clips/t1118/c01_he.mp4"
@@ -1129,7 +1129,7 @@
       },
       {
        "a": 56.96,
-       "b": 104.61,
+       "b": 129.41,
        "en": "IN SCIENCE: ~200 cilia/cell · 8–14 Hz · 9+2 + dynein · outer arm = force + rhythm · inner arm = bend shape · periciliary water from CFTR (Cl⁻ + HCO₃⁻) · primary cilium 9+0 = sensor · nodal cilium = left–right (absent → random).",
        "he": "במדע: ~200 ריסים לתא · 8–14 הרץ · 9+2 + דינאין · זרוע חיצונית = כוח וקצב · פנימית = צורת הכיפוף · מים פריציליאריים מ-CFTR ‏(Cl⁻ + HCO₃⁻) · ריס ראשוני 9+0 = חיישן · ריס נודלי = ימין–שמאל (חסר ← אקראי).",
        "sci": true
@@ -1139,7 +1139,7 @@
     {
      "n": 2,
      "title": "הבור בכביש · ברונכיאקטזיס",
-     "dur": 100.0,
+     "dur": 125.6,
      "v": {
       "en": "clips/t1118/c02_en.mp4",
       "he": "clips/t1118/c02_he.mp4"
@@ -1168,7 +1168,7 @@
       },
       {
        "a": 39.6,
-       "b": 99.57,
+       "b": 125.08,
        "en": "IN SCIENCE: bronchiectasis = permanent dilation · focal → obstruction · diffuse → systemic/infectious · 25–50% idiopathic · vicious cycle: clearance ↓ → Pseudomonas → proteases → elastin, muscle, cartilage lost · exacerbation = more, purulent sputum (fever, infiltrate may be absent) · CT: bronchus ≥ 1.5× artery, no tapering, < 1 cm from pleura · infection control + bronchial hygiene · dornase: CF only.",
        "he": "במדע: ברונכיאקטזיס = הרחבה קבועה · מוקדי ← חסימה · מפושט ← מערכתי/זיהומי · 25–50% אידיופתי · מעגל: פינוי ↓ ← פסאודומונס ← פרוטאזות ← אובדן אלסטין, שריר, סחוס · החמרה = יותר ליחה מוגלתית (חום ותסנין יכולים להיעדר) · CT: סימפון ≥ פי 1.5 מהעורק, בלי היצרות, פחות מ-1 ס\"מ מהפלאורה · זיהום + היגיינת סימפונות · דורנאז: רק ב-CF.",
        "sci": true
@@ -1178,14 +1178,14 @@
     {
      "n": 3,
      "title": "אין מים · סיסטיק פיברוזיס",
-     "dur": 166.6,
+     "dur": 211.9,
      "v": {
       "en": "clips/t1118/c03_en.mp4",
       "he": "clips/t1118/c03_he.mp4"
      },
      "cues": [
       {
-       "a": 0.48,
+       "a": 0.47,
        "b": 12.97,
        "en": "No water: water comes through a gate in the wall. Without it, the bags stick and the oars are caught in glue.",
        "he": "אין מים: המים עוברים דרך שער בקיר. בלעדיו, המזוודות נדבקות והמשוטים נתקעים בדבק.",
@@ -1214,7 +1214,7 @@
       },
       {
        "a": 59.83,
-       "b": 166.17,
+       "b": 211.46,
        "en": "IN SCIENCE: CF = autosomal recessive · CFTR = passive Cl⁻/HCO₃⁻ channel (ATP gates) · class I no protein (W1282X, Ashkenazi) · class II F508del misfolded (most common) · class III won't open (G551D) · lung: S. aureus, H. influenzae, Pseudomonas (mucoid = worse) · pancreas: ↓ ADEK, CF diabetes > 30% adults · meconium ileus · ~99% men infertile: absent vas deferens · IRT → genetics → sweat Cl⁻ ≥ 60 · potentiator ivacaftor (III) · correctors (II) · triple: one F508del → > 90%, FEV1 +14% · exacerbation: IV aminoglycoside + β-lactam × 14 d.",
        "he": "במדע: CF = רצסיבי אוטוזומלי · CFTR = תעלה פסיבית ל-Cl⁻/HCO₃⁻ ‏(ATP רק פותח) · קלאס I אין חלבון (W1282X, אשכנזים) · קלאס II ‏F508del קיפול שגוי (הכי שכיח) · קלאס III לא נפתח (G551D) · ריאות: סטפ', המופילוס, פסאודומונס (מוקואידי = גרוע) · לבלב: ↓ ADEK, סוכרת CF מעל 30% · מקוניום איליאוס · ~99% מהגברים עקרים: חסר vas deferens · IRT ← גנטיקה ← כלוריד בזיעה ≥ 60 · פוטנציאטור איווקאפטור (III) · קורקטורים (II) · משולב: F508del אחד ← מעל 90%, FEV1 +14% · החמרה: אמינוגליקוזיד + בטא-לקטם לווריד × 14 יום.",
        "sci": true
@@ -1224,7 +1224,7 @@
     {
      "n": 4,
      "title": "מנועים שבורים · PCD",
-     "dur": 102.6,
+     "dur": 126.9,
      "v": {
       "en": "clips/t1118/c04_en.mp4",
       "he": "clips/t1118/c04_he.mp4"
@@ -1246,14 +1246,14 @@
       },
       {
        "a": 29.35,
-       "b": 37.23,
+       "b": 37.22,
        "en": "The sperm's tail is an oar: here the sperm is present but can't swim.",
        "he": "זנב הזרע הוא משוט: כאן הזרע קיים אבל לא שוחה.",
        "sci": false
       },
       {
-       "a": 37.98,
-       "b": 102.16,
+       "a": 37.97,
+       "b": 126.41,
        "en": "IN SCIENCE: PCD: term newborn with distress · wet cough + rhinitis < 6 months · otitis media with effusion = best vs CF · ~½ situs inversus (Kartagener) – but only ~¼ of situs inversus = PCD · immotile sperm · nasal NO < 77 ×2, age ≥ 5, CF excluded · EM normal ~30% · genetics first line (~70%) · daily clearance, never suppress cough, azithromycin 3×/week.",
        "he": "במדע: PCD: יילוד במועד עם מצוקה · שיעול לח + נזלת לפני 6 חודשים · נוזל באוזן התיכונה = מבדיל מ-CF · ~חצי סיטוס אינברסוס (קרטגנר) – אבל רק ~רבע מסיטוס אינברסוס = PCD · זרע לא תנועתי · NO באף פחות מ-77 פעמיים, מגיל 5, אחרי שלילת CF · מיקרוסקופ אלקטרונים תקין ב-~30% · גנטיקה קו ראשון (~70%) · פינוי יומי, לא לדכא שיעול, אזיתרומיצין 3 פעמים בשבוע.",
        "sci": true
@@ -1263,7 +1263,7 @@
     {
      "n": 5,
      "title": "מלכודות המבחן · CF מול PCD",
-     "dur": 64.5,
+     "dur": 97.4,
      "v": {
       "en": "clips/t1118/c05_en.mp4",
       "he": "clips/t1118/c05_he.mp4"
@@ -1285,14 +1285,14 @@
       },
       {
        "a": 25.03,
-       "b": 49.01,
+       "b": 81.92,
        "en": "IN SCIENCE: CF → upper lobes · absent vas deferens · sweat Cl⁻ | PCD → RML + lingula · immotile sperm · nasal NO | potentiator opens, corrector folds | dornase: CF yes, other bronchiectasis no.",
        "he": "במדע: CF ← אונות עליונות · חסר vas deferens · כלוריד בזיעה | PCD ← אונה אמצעית + לינגולה · זרע לא תנועתי · NO באף | פוטנציאטור פותח, קורקטור מקפל | דורנאז: כן ב-CF, לא בברונכיאקטזיס אחר.",
        "sci": true
       },
       {
-       "a": 49.96,
-       "b": 62.5,
+       "a": 82.87,
+       "b": 95.41,
        "en": "One belt, three jams: pipe · water · motors. Know which one.",
        "he": "מסוע אחד, שלוש תקלות: צינור · מים · מנועים. יודעים איזו – יודעים את התשובה.",
        "sci": false
