@@ -1843,7 +1843,7 @@
     {
      "n": 1,
      "title": "הגשר הנפתח · הגדרה",
-     "dur": 62.9,
+     "dur": 71.9,
      "v": {
       "en": "clips/t1116/c01_en.mp4",
       "he": "clips/t1116/c01_he.mp4"
@@ -1872,7 +1872,7 @@
       },
       {
        "a": 37.79,
-       "b": 62.38,
+       "b": 71.43,
        "en": "IN SCIENCE: one word – VARIABLE · symptoms that come and go: wheeze, dyspnea, chest tightness, cough · + documented variable expiratory airflow limitation = asthma.",
        "he": "במדע: מילה אחת – משתנה · תסמינים שבאים והולכים: צפצופים, קוצר נשימה, לחץ בחזה, שיעול · + חסימה משתנה מתועדת = אסתמה.",
        "sci": true
@@ -1882,14 +1882,14 @@
     {
      "n": 2,
      "title": "צינור הגינה · מה מצר",
-     "dur": 46.7,
+     "dur": 64.0,
      "v": {
       "en": "clips/t1116/c02_en.mp4",
       "he": "clips/t1116/c02_he.mp4"
      },
      "cues": [
       {
-       "a": 0.48,
+       "a": 0.47,
        "b": 10.56,
        "en": "Three ways to narrow a hose: a hand squeezes · the wall swells · mud fills it.",
        "he": "שלוש דרכים להצר צינור: יד לוחצת · הדופן מתנפחת · בוץ ממלא אותו.",
@@ -1904,7 +1904,7 @@
       },
       {
        "a": 23.89,
-       "b": 46.2,
+       "b": 63.57,
        "en": "IN SCIENCE: hand = smooth muscle (bronchospasm) · swollen wall = inflammatory edema · mud = mucus · R ∝ 1/r⁴ → ½ radius = ×16 · small airways in children.",
        "he": "במדע: יד = שריר חלק (ברונכוספזם) · דופן נפוחה = בצקת דלקתית · בוץ = ריר · R ∝ 1/r⁴ ← חצי רדיוס = פי 16 · דרכי אוויר קטנות בילדים.",
        "sci": true
@@ -1914,7 +1914,7 @@
     {
      "n": 3,
      "title": "האזעקה · דלקת T2",
-     "dur": 94.4,
+     "dur": 120.3,
      "v": {
       "en": "clips/t1116/c03_en.mp4",
       "he": "clips/t1116/c03_he.mp4"
@@ -1943,7 +1943,7 @@
       },
       {
        "a": 46.26,
-       "b": 93.89,
+       "b": 119.85,
        "en": "IN SCIENCE: T2 inflammation · epithelium → alarmins TSLP, IL-25, IL-33 → Th2 · IL-4/13 → IgE → mast cells · IL-5 → eosinophils (bone marrow) · IL-13 → mucus + NO (FeNO) · minutes: mast cells · hours: eosinophils · years: remodeling → fixed obstruction.",
        "he": "במדע: דלקת T2 · אפיתל ← אלרמינים TSLP, ‏IL-25, ‏IL-33 ← Th2 · ‏IL-4/13 ← IgE ← תאי פיטום · ‏IL-5 ← אאוזינופילים (מח עצם) · ‏IL-13 ← ריר + NO ‏(FeNO) · דקות: תאי פיטום · שעות: אאוזינופילים · שנים: רה-מודלינג ← חסימה קבועה.",
        "sci": true
@@ -1953,14 +1953,14 @@
     {
      "n": 4,
      "title": "משמרת לילה · הקליניקה",
-     "dur": 68.8,
+     "dur": 81.1,
      "v": {
       "en": "clips/t1116/c04_en.mp4",
       "he": "clips/t1116/c04_he.mp4"
      },
      "cues": [
       {
-       "a": 0.47,
+       "a": 0.48,
        "b": 15.09,
        "en": "Asthma loves the night shift: the guards sleep → night cough. Coughs all day, sleeps quietly? Probably not asthma.",
        "he": "אסתמה אוהבת משמרת לילה: השומרים ישנים ← שיעול בלילה. משתעל כל היום וישן בשקט? כנראה לא אסתמה.",
@@ -1982,7 +1982,7 @@
       },
       {
        "a": 41.76,
-       "b": 68.31,
+       "b": 80.59,
        "en": "IN SCIENCE: night cough (low adrenaline + cortisol) · exercise: at the end of effort · silent chest = almost no flow = emergency · toddler, sudden wheeze → foreign body.",
        "he": "במדע: שיעול לילי (אדרנלין וקורטיזול נמוכים) · מאמץ: בסוף המאמץ · חזה שקט = כמעט אין זרימה = חירום · פעוט עם צפצוף פתאומי ← גוף זר.",
        "sci": true
@@ -1992,7 +1992,7 @@
     {
      "n": 5,
      "title": "הבלשים · אבחנה",
-     "dur": 81.2,
+     "dur": 96.5,
      "v": {
       "en": "clips/t1116/c05_en.mp4",
       "he": "clips/t1116/c05_he.mp4"
@@ -2014,14 +2014,14 @@
       },
       {
        "a": 34.42,
-       "b": 45.12,
+       "b": 45.11,
        "en": "The trap: symptoms now + normal spirometry + no response → not asthma. Look elsewhere.",
        "he": "המלכודת: תסמינים עכשיו + ספירומטריה תקינה + אין תגובה ← לא אסתמה. מחפשים במקום אחר.",
        "sci": false
       },
       {
-       "a": 45.87,
-       "b": 80.72,
+       "a": 45.86,
+       "b": 95.98,
        "en": "IN SCIENCE: spirometry from age 6 · reversibility: FEV1 ↑ ≥ 12% (+ ≥ 200 mL in adults) · methacholine = sensitive (negative rules out) · exercise = specific (positive rules in) · high FeNO supports T2, normal doesn't exclude.",
        "he": "במדע: ספירומטריה מגיל 6 · הפיכות: FEV1 עולה ב-12% לפחות (+ 200 מ\"ל במבוגרים) · מתכולין = רגיש (שלילי שולל) · מאמץ = ספציפי (חיובי מאשר) · FeNO גבוה תומך ב-T2, תקין לא שולל.",
        "sci": true
@@ -2031,14 +2031,14 @@
     {
      "n": 6,
      "title": "שריפה בחדר · טיפול",
-     "dur": 100.9,
+     "dur": 124.4,
      "v": {
       "en": "clips/t1116/c06_en.mp4",
       "he": "clips/t1116/c06_he.mp4"
      },
      "cues": [
       {
-       "a": 0.47,
+       "a": 0.48,
        "b": 14.53,
        "en": "A fire in a smoky room: the fan opens the window fast – but the fire burns on. The extinguisher treats the fire.",
        "he": "שריפה בחדר מלא עשן: המאוורר פותח חלון מהר – אבל האש ממשיכה. המטף מטפל באש עצמה.",
@@ -2046,7 +2046,7 @@
       },
       {
        "a": 14.88,
-       "b": 31.33,
+       "b": 31.32,
        "en": "Never the fan alone, never the long-acting fan alone. From 12: one device, extinguisher + fan, for relief and maintenance.",
        "he": "אף פעם לא מאוורר לבד, ואף פעם לא מאוורר ארוך לבד. מגיל 12: מכשיר אחד, מטף + מאוורר, להקלה ולאחזקה.",
        "sci": false
@@ -2060,7 +2060,7 @@
       },
       {
        "a": 47.66,
-       "b": 100.45,
+       "b": 123.94,
        "en": "IN SCIENCE: fan = bronchodilator (fast, no anti-inflammatory) · extinguisher = ICS (the foundation) · never SABA alone, never LABA alone (↑ mortality) · ≥ 12 y: budesonide-formoterol MART · steps 1–2 low dose as needed · step 3 low MART · step 4 medium MART · ~55% fewer severe attacks vs SABA · before step-up: technique, adherence, exposures, comorbidities.",
        "he": "במדע: מאוורר = מרחיב סימפונות (מהיר, לא נוגע בדלקת) · מטף = סטרואיד בשאיפה (הבסיס) · אף פעם לא SABA לבד, לא LABA לבד (↑ תמותה) · מגיל 12: בודסוניד-פורמוטרול MART · שלבים 1–2 מינון נמוך לפי הצורך · שלב 3 ‏MART נמוך · שלב 4 ‏MART בינוני · ~55% פחות התקפים קשים לעומת SABA · לפני העלאה: טכניקה, היענות, חשיפות, מחלות נלוות.",
        "sci": true
@@ -2070,14 +2070,14 @@
     {
      "n": 7,
      "title": "הצלפים · ביולוגיים",
-     "dur": 57.2,
+     "dur": 86.4,
      "v": {
       "en": "clips/t1116/c07_en.mp4",
       "he": "clips/t1116/c07_he.mp4"
      },
      "cues": [
       {
-       "a": 0.48,
+       "a": 0.47,
        "b": 13.22,
        "en": "Still burning at the top step? Snipers – each blocks one point of the alarm chain. Pick by the kind of fire.",
        "he": "עדיין בוער בשלב העליון? צלפים – כל אחד חוסם נקודה אחת בשרשרת האזעקה. בוחרים לפי סוג האש.",
@@ -2092,7 +2092,7 @@
       },
       {
        "a": 21.34,
-       "b": 56.69,
+       "b": 85.88,
        "en": "IN SCIENCE: step 5 → add LAMA, phenotype, biologic · allergic since childhood → anti-IgE · high eosinophils, adult onset → anti-IL-5 · steroid-dependent + eczema → dupilumab · low T2 → tezepelumab (anti-TSLP) · ≥ 4 months · never stop ICS.",
        "he": "במדע: שלב 5 ← LAMA, פנוטיפ, ביולוגי · אלרגי מילדות ← אנטי IgE · אאוזינופילים גבוהים, הופעה בבגרות ← אנטי IL-5 · תלות בסטרואידים + אקזמה ← דופילומאב · T2 נמוך ← טזפלומאב (אנטי TSLP) · 4 חודשים לפחות · לא מפסיקים ICS.",
        "sci": true
@@ -2102,14 +2102,14 @@
     {
      "n": 8,
      "title": "הרץ · התקף חריף",
-     "dur": 60.8,
+     "dur": 79.2,
      "v": {
       "en": "clips/t1116/c08_en.mp4",
       "he": "clips/t1116/c08_he.mp4"
      },
      "cues": [
       {
-       "a": 0.48,
+       "a": 0.47,
        "b": 11.8,
        "en": "Acute attack – watch the runner: breathing fast, he blows off smoke – his smoke level should be low.",
        "he": "בהתקף חריף – מסתכלים על הרץ: נושם מהר ומוציא עשן – רמת העשן שלו אמורה להיות נמוכה.",
@@ -2124,14 +2124,14 @@
       },
       {
        "a": 21.58,
-       "b": 48.81,
+       "b": 67.23,
        "en": "IN SCIENCE: monitor respiratory rate · O2 · SABA + ipratropium every 20 min (1st hour) · systemic steroids · then IV magnesium · tachypnea should lower PCO2: normal PCO2 = fatigue → act.",
        "he": "במדע: לעקוב אחרי קצב הנשימה · חמצן · SABA + איפרטרופיום כל 20 דק' (שעה ראשונה) · סטרואידים סיסטמיים · ואז מגנזיום לווריד · טכיפנאה אמורה להוריד PCO2: ערך תקין = עייפות ← לפעול.",
        "sci": true
       },
       {
-       "a": 49.76,
-       "b": 58.76,
+       "a": 68.18,
+       "b": 77.18,
        "en": "Treat the fire, not just the smoke.",
        "he": "מטפלים באש, לא רק בעשן.",
        "sci": false
