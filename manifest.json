@@ -1302,243 +1302,6 @@
    ]
   },
   {
-   "id": "t1117p",
-   "day": "17/11/2026",
-   "title": "דלקות ריאה בילדים – בסיפורים",
-   "title_en": "Pneumonia in children, told as stories",
-   "course": "מערכת הנשימה",
-   "poster": "clips/t1117p/poster.jpg",
-   "clips": [
-    {
-     "n": 1,
-     "title": "פורצים מלמעלה · פתוגנזה",
-     "dur": 92.9,
-     "v": {
-      "en": "clips/t1117p/c01_en.mp4",
-      "he": "clips/t1117p/c01_he.mp4"
-     },
-     "cues": [
-      {
-       "a": 1.0,
-       "b": 13.3,
-       "en": "Pediatric pneumonia: the #1 single killer under 5 worldwide – yet most of it is viral.",
-       "he": "דלקת ריאות בילדים: הגורם הבודד המוביל למוות מתחת לגיל 5 – ורובה ויראלית.",
-       "sci": false
-      },
-      {
-       "a": 14.25,
-       "b": 32.57,
-       "en": "The lung is downstairs. The burglars live upstairs (nose, throat) and come down in tiny sips – micro-aspiration.",
-       "he": "הריאה היא הקומה התחתונה. הפורצים גרים למעלה (אף, לוע) ויורדים בלגימות קטנות – מיקרו-אספירציה.",
-       "sci": false
-      },
-      {
-       "a": 32.92,
-       "b": 50.49,
-       "en": "Viruses walk floor by floor · a broken stair (swallowing, reflux, malformation) lets a flood down · rarely via the pipes (blood).",
-       "he": "וירוסים יורדים קומה אחרי קומה · מדרגה שבורה (בליעה, ריפלוקס, מום) ← שיטפון · לעתים נדירות דרך הצנרת (הדם).",
-       "sci": false
-      },
-      {
-       "a": 51.24,
-       "b": 92.44,
-       "en": "IN SCIENCE: upper airway colonization → lower airway · micro-aspiration = main bacterial route · viruses: contiguous spread · big aspiration: swallowing, GERD, malformations · hematogenous rare (S. aureus, IV catheter) · mostly viral · RSV #1 · coinfection ~75%.",
-       "he": "במדע: התיישבות בדרכי נשימה עליונות ← תחתונות · מיקרו-אספירציה = הדרך העיקרית לחיידקים · וירוסים: התפשטות רציפה · אספירציה גדולה: בליעה, GERD, מומים · המטוגני נדיר (S. aureus, צנתר) · רובן ויראליות · RSV מוביל · זיהום משולב ~75%.",
-       "sci": true
-      }
-     ]
-    },
-    {
-     "n": 2,
-     "title": "האזעקות · סימנים קליניים",
-     "dur": 96.0,
-     "v": {
-      "en": "clips/t1117p/c02_en.mp4",
-      "he": "clips/t1117p/c02_he.mp4"
-     },
-     "cues": [
-      {
-       "a": 0.47,
-       "b": 16.83,
-       "en": "Fever = an alarm that rings for everything (sensitive). Grunting + chest indrawing = the real fire alarms (specific).",
-       "he": "חום = אזעקה שמצלצלת על הכל (רגיש). אנקה + שקיעת בית החזה = אזעקות האש האמיתיות (ספציפי).",
-       "sci": false
-      },
-      {
-       "a": 17.18,
-       "b": 29.41,
-       "en": "No cough → almost never pneumonia. Count breaths: tachypnea is the best sign – by age.",
-       "he": "אין שיעול ← כמעט אף פעם לא דלקת ריאות. סופרים נשימות: טכיפנאה היא הסימן הכי טוב – לפי גיל.",
-       "sci": false
-      },
-      {
-       "a": 29.76,
-       "b": 43.99,
-       "en": "Wheeze → virus, or mycoplasma / chlamydia. Atypical: slow start, headache, dry cough.",
-       "he": "צפצופים ← וירוס, או מיקופלזמה / כלמידיה. אטיפי: התחלה איטית, כאב ראש, שיעול יבש.",
-       "sci": false
-      },
-      {
-       "a": 44.74,
-       "b": 95.55,
-       "en": "IN SCIENCE: fever = most sensitive · grunting + retractions = most specific · no cough → 0.28% · WHO: tachypnea + chest indrawing · RR ≥ 60 (< 2 mo), ≥ 50 (2–12 mo), ≥ 40 (1–5 y) · > crackles · danger signs: can't drink, vomiting, stridor, lethargy · wheeze → virus / Mycoplasma / Chlamydia.",
-       "he": "במדע: חום = הכי רגיש · אנקה ורטרקציות = הכי ספציפיים · בלי שיעול ← 0.28% · WHO: טכיפנאה + שקיעת בית החזה · 60 (עד חודשיים), 50 (2–12 חודשים), 40 (1–5 שנים) · רגישה יותר מחרחורים · סימני סכנה: לא שותה, הקאות, סטרידור, ליתרגיה · צפצופים ← וירוס / מיקופלזמה / כלמידיה.",
-       "sci": true
-      }
-     ]
-    },
-    {
-     "n": 3,
-     "title": "לצלם או לא · מעבדה והדמיה",
-     "dur": 100.3,
-     "v": {
-      "en": "clips/t1117p/c03_en.mp4",
-      "he": "clips/t1117p/c03_he.mp4"
-     },
-     "cues": [
-      {
-       "a": 0.47,
-       "b": 16.08,
-       "en": "In the community: no bloods, no photo. Cough + fever + fine crackles = the diagnosis. Labs overlap.",
-       "he": "בקהילה: בלי בדיקות דם ובלי צילום. שיעול + חום + חרחורים עדינים = האבחנה. המעבדה חופפת.",
-       "sci": false
-      },
-      {
-       "a": 16.43,
-       "b": 30.91,
-       "en": "In hospital: an X-ray. A white block in a lobe = consolidation. A thin triangle may be a closed door (atelectasis, mucus plug).",
-       "he": "באשפוז: צילום. בלוק לבן באונה = קונסולידציה. משולש דק יכול להיות דלת סגורה (אטלקטזיס, פקק ריר).",
-       "sci": false
-      },
-      {
-       "a": 31.26,
-       "b": 40.44,
-       "en": "Repeat X-ray only if: round pneumonia · lobar collapse · complicated · getting worse.",
-       "he": "צילום חוזר רק אם: דלקת עגולה · קריסת אונה · מסובך · החמרה.",
-       "sci": false
-      },
-      {
-       "a": 41.19,
-       "b": 99.86,
-       "en": "IN SCIENCE: no routine bloods in CAP · WBC / CRP / procalcitonin overlap · procalcitonin → when to stop antibiotics · CXR standard if hospitalized · WHO: consolidation (± air bronchograms) or interstitial + CRP > 40 or effusion · occult: fever + WBC > 20,000 → 26% · triangle = atelectasis (mucus plug) · repeat CXR: round, lobar collapse, complicated, worse.",
-       "he": "במדע: בלי בדיקות דם שגרתיות ב-CAP · WBC / CRP / פרוקלציטונין חופפים · פרוקלציטונין ← מתי להפסיק אנטיביוטיקה · צילום באשפוז · WHO: קונסולידציה (± air bronchograms) או אינטרסטיציאלי + CRP מעל 40 או תפליט · סמויה: חום + WBC מעל 20,000 ← 26% · משולש = אטלקטזיס (פקק ריר) · צילום חוזר: עגולה, קריסת אונה, מסובכת, החמרה.",
-       "sci": true
-      }
-     ]
-    },
-    {
-     "n": 4,
-     "title": "מסדר זיהוי · מחולל וטיפול לפי גיל",
-     "dur": 128.6,
-     "v": {
-      "en": "clips/t1117p/c04_en.mp4",
-      "he": "clips/t1117p/c04_he.mp4"
-     },
-     "cues": [
-      {
-       "a": 0.48,
-       "b": 14.3,
-       "en": "The culprit depends on age. Newborn: birth-canal bugs (GBS, gut gram-negatives) → IV ampicillin + gentamicin.",
-       "he": "האשם תלוי בגיל. יילוד: חיידקי תעלת הלידה (GBS, גרם-שליליים) ← אמפיצילין + גנטמיצין לווריד.",
-       "sci": false
-      },
-      {
-       "a": 14.65,
-       "b": 40.41,
-       "en": "3 wk–3 mo: chlamydia (sticky eyes), pertussis → macrolide · 4 mo–5 y: viruses, then pneumococcus → amoxicillin 5–10 d · school age: mycoplasma.",
-       "he": "3 שבועות–3 חודשים: כלמידיה (דלקת עיניים), שעלת ← מקרוליד · 4 חודשים–5 שנים: וירוסים, ואז פנאומוקוק ← אמוקסיצילין 5–10 ימים · גיל בית ספר: מיקופלזמה.",
-       "sci": false
-      },
-      {
-       "a": 40.76,
-       "b": 61.12,
-       "en": "Most stay home. Admit if: low saturation, cyanosis, very fast breathing, grunting, apnea, can't feed, oral failure, family can't cope.",
-       "he": "רובם נשארים בבית. מאשפזים אם: סטורציה נמוכה, כחלון, נשימה מהירה מאוד, אנקה, הפסקות נשימה, לא אוכל, כשל טיפול, משפחה לא מסתדרת.",
-       "sci": false
-      },
-      {
-       "a": 61.87,
-       "b": 128.15,
-       "en": "IN SCIENCE: newborn: GBS + enteric GN → IV ampicillin + gentamicin · 3 wk–3 mo: C. trachomatis, pertussis → macrolide · 4 mo–5 y: viruses → S. pneumoniae → amoxicillin 5–10 d · school: Mycoplasma, C. pneumoniae · IV: penicillin / amox-clav · MRSA → vancomycin · admit: SpO2 < 90–92%, cyanosis, RR > 70 (infant) / > 50, grunting, apnea, can't feed, oral failure, family · failure → ICU, NIPPV.",
-       "he": "במדע: יילוד: GBS + גרם-שליליים ← אמפיצילין + גנטמיצין · 3 שבועות–3 חודשים: C. trachomatis, שעלת ← מקרוליד · 4 חודשים–5 שנים: וירוסים ← פנאומוקוק ← אמוקסיצילין 5–10 ימים · בית ספר: מיקופלזמה · IV: פניצילין / אוגמנטין · MRSA ← ונקומיצין · אשפוז: סטורציה מתחת ל-90–92%, כחלון, נשימה מעל 70 (תינוק) / 50, אנקה, אפנאה, לא אוכל, כשל, משפחה · כשל נשימתי ← טיפול נמרץ, NIPPV.",
-       "sci": true
-      }
-     ]
-    },
-    {
-     "n": 5,
-     "title": "נזקי האש · סיבוכים",
-     "dur": 120.2,
-     "v": {
-      "en": "clips/t1117p/c05_en.mp4",
-      "he": "clips/t1117p/c05_he.mp4"
-     },
-     "cues": [
-      {
-       "a": 0.47,
-       "b": 15.88,
-       "en": "Sometimes the fire damages the house: the wall rots (necrosis) and leaves an empty bubble (pneumatocele) – heals in months.",
-       "he": "לפעמים האש פוגעת בבית: הקיר נרקב (נמק) ומשאיר בועה ריקה (פנאומטוצל) – נרפאת בתוך חודשים.",
-       "sci": false
-      },
-      {
-       "a": 16.23,
-       "b": 32.29,
-       "en": "Water leaks into the gap around the lung (effusion). Bugs get in → pus (empyema). Thin → antibiotics; growing → a drain.",
-       "he": "מים דולפים לחלל סביב הריאה (תפליט). חיידקים נכנסים ← מוגלה (אמפיימה). דק ← אנטיביוטיקה; גדל ← נקז.",
-       "sci": false
-      },
-      {
-       "a": 32.64,
-       "b": 43.97,
-       "en": "Or a thick-walled room full of pus and air (abscess, air-fluid level) → weeks of IV antibiotics.",
-       "he": "או חדר עם קירות עבים מלא מוגלה ואוויר (מורסה, מפלס אוויר-נוזל) ← שבועות של אנטיביוטיקה לווריד.",
-       "sci": false
-      },
-      {
-       "a": 44.72,
-       "b": 119.76,
-       "en": "IN SCIENCE: necrotizing pneumonia → pneumatoceles, BPF, abscess · S. pneumoniae, S. aureus, Klebsiella, Pseudomonas, MRSA (PVL) · pneumatocele resolves 4–6 mo · exudate: protein > 0.5, LDH > 0.6, low glucose, pH < 7.2 · < 10 mm → antibiotics · growing → drain ± fibrinolytics · failure → VATS · abscess: thick wall + air-fluid level → IV 4–6 wk.",
-       "he": "במדע: דלקת נמקית ← פנאומטוצלים, פיסטולה, מורסה · פנאומוקוק, S. aureus, קלבסיאלה, פסאודומונס, MRSA ‏(PVL) · פנאומטוצל נעלם ב-4–6 חודשים · אקסודט: חלבון מעל 0.5, LDH מעל 0.6, גלוקוז נמוך, pH מתחת ל-7.2 · פחות מ-10 מ\"מ ← אנטיביוטיקה · גדל ← נקז ± פיברינוליטיקה · כשל ← VATS · מורסה: דופן עבה + מפלס ← IV ‏4–6 שבועות.",
-       "sci": true
-      }
-     ]
-    },
-    {
-     "n": 6,
-     "title": "מגינים · מניעה",
-     "dur": 77.7,
-     "v": {
-      "en": "clips/t1117p/c06_en.mp4",
-      "he": "clips/t1117p/c06_he.mp4"
-     },
-     "cues": [
-      {
-       "a": 0.48,
-       "b": 19.33,
-       "en": "Shields: vaccines (pneumococcus, Hib, flu, pertussis) + one RSV antibody shot. No smoke, no vaping, good nutrition.",
-       "he": "מגינים: חיסונים (פנאומוקוק, Hib, שפעת, שעלת) + זריקת נוגדן אחת נגד RSV. בלי עישון, בלי וייפ, תזונה טובה.",
-       "sci": false
-      },
-      {
-       "a": 20.08,
-       "b": 63.52,
-       "en": "IN SCIENCE: risks: passive smoke, vaping (EVALI), malnutrition · flu vaccine > 6 mo · nirsevimab (RSV, long-acting mAb, 1 dose) · PCV + Hib · pertussis · prognosis: full recovery, < 1/1000 deaths (rich countries) · adenovirus → bronchiolitis obliterans · wheeze after RSV.",
-       "he": "במדע: סיכונים: עישון פסיבי, וייפ (EVALI), תת-תזונה · חיסון שפעת מעל 6 חודשים · נירסבימאב (RSV, נוגדן ארוך טווח, מנה אחת) · PCV + Hib · שעלת · פרוגנוזה: החלמה מלאה, פחות מ-1 ל-1000 · אדנווירוס ← ברונכיוליטיס אובליטרנס · צפצופים אחרי RSV.",
-       "sci": true
-      },
-      {
-       "a": 64.47,
-       "b": 75.68,
-       "en": "Most of it is viral – and most children go home.",
-       "he": "רובה ויראלית – ורוב הילדים הולכים הביתה.",
-       "sci": false
-      }
-     ]
-    }
-   ]
-  },
-  {
    "id": "t1117b",
    "day": "17/11/2026",
    "title": "BPD – מחלת ריאות כרונית של פגות – בסיפורים",
@@ -1826,6 +1589,243 @@
        "b": 104.71,
        "en": "Not just a damaged lung – a lung that stopped being built. Protect it, feed it, let it grow.",
        "he": "לא רק ריאה פגועה – ריאה שהפסיקה להיבנות. מגינים, מזינים, ונותנים לגדול.",
+       "sci": false
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "t1117p",
+   "day": "17/11/2026",
+   "title": "דלקות ריאה בילדים – בסיפורים",
+   "title_en": "Pneumonia in children, told as stories",
+   "course": "מערכת הנשימה",
+   "poster": "clips/t1117p/poster.jpg",
+   "clips": [
+    {
+     "n": 1,
+     "title": "פורצים מלמעלה · פתוגנזה",
+     "dur": 109.7,
+     "v": {
+      "en": "clips/t1117p/c01_en.mp4",
+      "he": "clips/t1117p/c01_he.mp4"
+     },
+     "cues": [
+      {
+       "a": 1.0,
+       "b": 13.3,
+       "en": "Pediatric pneumonia: the #1 single killer under 5 worldwide – yet most of it is viral.",
+       "he": "דלקת ריאות בילדים: הגורם הבודד המוביל למוות מתחת לגיל 5 – ורובה ויראלית.",
+       "sci": false
+      },
+      {
+       "a": 14.25,
+       "b": 32.57,
+       "en": "The lung is downstairs. The burglars live upstairs (nose, throat) and come down in tiny sips – micro-aspiration.",
+       "he": "הריאה היא הקומה התחתונה. הפורצים גרים למעלה (אף, לוע) ויורדים בלגימות קטנות – מיקרו-אספירציה.",
+       "sci": false
+      },
+      {
+       "a": 32.92,
+       "b": 50.49,
+       "en": "Viruses walk floor by floor · a broken stair (swallowing, reflux, malformation) lets a flood down · rarely via the pipes (blood).",
+       "he": "וירוסים יורדים קומה אחרי קומה · מדרגה שבורה (בליעה, ריפלוקס, מום) ← שיטפון · לעתים נדירות דרך הצנרת (הדם).",
+       "sci": false
+      },
+      {
+       "a": 51.24,
+       "b": 109.23,
+       "en": "IN SCIENCE: upper airway colonization → lower airway · micro-aspiration = main bacterial route · viruses: contiguous spread · big aspiration: swallowing, GERD, malformations · hematogenous rare (S. aureus, IV catheter) · mostly viral · RSV #1 · coinfection ~75%.",
+       "he": "במדע: התיישבות בדרכי נשימה עליונות ← תחתונות · מיקרו-אספירציה = הדרך העיקרית לחיידקים · וירוסים: התפשטות רציפה · אספירציה גדולה: בליעה, GERD, מומים · המטוגני נדיר (S. aureus, צנתר) · רובן ויראליות · RSV מוביל · זיהום משולב ~75%.",
+       "sci": true
+      }
+     ]
+    },
+    {
+     "n": 2,
+     "title": "האזעקות · סימנים קליניים",
+     "dur": 109.0,
+     "v": {
+      "en": "clips/t1117p/c02_en.mp4",
+      "he": "clips/t1117p/c02_he.mp4"
+     },
+     "cues": [
+      {
+       "a": 0.47,
+       "b": 16.83,
+       "en": "Fever = an alarm that rings for everything (sensitive). Grunting + chest indrawing = the real fire alarms (specific).",
+       "he": "חום = אזעקה שמצלצלת על הכל (רגיש). אנקה + שקיעת בית החזה = אזעקות האש האמיתיות (ספציפי).",
+       "sci": false
+      },
+      {
+       "a": 17.18,
+       "b": 29.41,
+       "en": "No cough → almost never pneumonia. Count breaths: tachypnea is the best sign – by age.",
+       "he": "אין שיעול ← כמעט אף פעם לא דלקת ריאות. סופרים נשימות: טכיפנאה היא הסימן הכי טוב – לפי גיל.",
+       "sci": false
+      },
+      {
+       "a": 29.76,
+       "b": 43.99,
+       "en": "Wheeze → virus, or mycoplasma / chlamydia. Atypical: slow start, headache, dry cough.",
+       "he": "צפצופים ← וירוס, או מיקופלזמה / כלמידיה. אטיפי: התחלה איטית, כאב ראש, שיעול יבש.",
+       "sci": false
+      },
+      {
+       "a": 44.74,
+       "b": 108.51,
+       "en": "IN SCIENCE: fever = most sensitive · grunting + retractions = most specific · no cough → 0.28% · WHO: tachypnea + chest indrawing · RR ≥ 60 (< 2 mo), ≥ 50 (2–12 mo), ≥ 40 (1–5 y) · > crackles · danger signs: can't drink, vomiting, stridor, lethargy · wheeze → virus / Mycoplasma / Chlamydia.",
+       "he": "במדע: חום = הכי רגיש · אנקה ורטרקציות = הכי ספציפיים · בלי שיעול ← 0.28% · WHO: טכיפנאה + שקיעת בית החזה · 60 (עד חודשיים), 50 (2–12 חודשים), 40 (1–5 שנים) · רגישה יותר מחרחורים · סימני סכנה: לא שותה, הקאות, סטרידור, ליתרגיה · צפצופים ← וירוס / מיקופלזמה / כלמידיה.",
+       "sci": true
+      }
+     ]
+    },
+    {
+     "n": 3,
+     "title": "לצלם או לא · מעבדה והדמיה",
+     "dur": 116.5,
+     "v": {
+      "en": "clips/t1117p/c03_en.mp4",
+      "he": "clips/t1117p/c03_he.mp4"
+     },
+     "cues": [
+      {
+       "a": 0.47,
+       "b": 16.08,
+       "en": "In the community: no bloods, no photo. Cough + fever + fine crackles = the diagnosis. Labs overlap.",
+       "he": "בקהילה: בלי בדיקות דם ובלי צילום. שיעול + חום + חרחורים עדינים = האבחנה. המעבדה חופפת.",
+       "sci": false
+      },
+      {
+       "a": 16.43,
+       "b": 30.91,
+       "en": "In hospital: an X-ray. A white block in a lobe = consolidation. A thin triangle may be a closed door (atelectasis, mucus plug).",
+       "he": "באשפוז: צילום. בלוק לבן באונה = קונסולידציה. משולש דק יכול להיות דלת סגורה (אטלקטזיס, פקק ריר).",
+       "sci": false
+      },
+      {
+       "a": 31.26,
+       "b": 40.44,
+       "en": "Repeat X-ray only if: round pneumonia · lobar collapse · complicated · getting worse.",
+       "he": "צילום חוזר רק אם: דלקת עגולה · קריסת אונה · מסובך · החמרה.",
+       "sci": false
+      },
+      {
+       "a": 41.19,
+       "b": 115.99,
+       "en": "IN SCIENCE: no routine bloods in CAP · WBC / CRP / procalcitonin overlap · procalcitonin → when to stop antibiotics · CXR standard if hospitalized · WHO: consolidation (± air bronchograms) or interstitial + CRP > 40 or effusion · occult: fever + WBC > 20,000 → 26% · triangle = atelectasis (mucus plug) · repeat CXR: round, lobar collapse, complicated, worse.",
+       "he": "במדע: בלי בדיקות דם שגרתיות ב-CAP · WBC / CRP / פרוקלציטונין חופפים · פרוקלציטונין ← מתי להפסיק אנטיביוטיקה · צילום באשפוז · WHO: קונסולידציה (± air bronchograms) או אינטרסטיציאלי + CRP מעל 40 או תפליט · סמויה: חום + WBC מעל 20,000 ← 26% · משולש = אטלקטזיס (פקק ריר) · צילום חוזר: עגולה, קריסת אונה, מסובכת, החמרה.",
+       "sci": true
+      }
+     ]
+    },
+    {
+     "n": 4,
+     "title": "מסדר זיהוי · מחולל וטיפול לפי גיל",
+     "dur": 158.0,
+     "v": {
+      "en": "clips/t1117p/c04_en.mp4",
+      "he": "clips/t1117p/c04_he.mp4"
+     },
+     "cues": [
+      {
+       "a": 0.47,
+       "b": 14.3,
+       "en": "The culprit depends on age. Newborn: birth-canal bugs (GBS, gut gram-negatives) → IV ampicillin + gentamicin.",
+       "he": "האשם תלוי בגיל. יילוד: חיידקי תעלת הלידה (GBS, גרם-שליליים) ← אמפיצילין + גנטמיצין לווריד.",
+       "sci": false
+      },
+      {
+       "a": 14.65,
+       "b": 40.41,
+       "en": "3 wk–3 mo: chlamydia (sticky eyes), pertussis → macrolide · 4 mo–5 y: viruses, then pneumococcus → amoxicillin 5–10 d · school age: mycoplasma.",
+       "he": "3 שבועות–3 חודשים: כלמידיה (דלקת עיניים), שעלת ← מקרוליד · 4 חודשים–5 שנים: וירוסים, ואז פנאומוקוק ← אמוקסיצילין 5–10 ימים · גיל בית ספר: מיקופלזמה.",
+       "sci": false
+      },
+      {
+       "a": 40.76,
+       "b": 61.11,
+       "en": "Most stay home. Admit if: low saturation, cyanosis, very fast breathing, grunting, apnea, can't feed, oral failure, family can't cope.",
+       "he": "רובם נשארים בבית. מאשפזים אם: סטורציה נמוכה, כחלון, נשימה מהירה מאוד, אנקה, הפסקות נשימה, לא אוכל, כשל טיפול, משפחה לא מסתדרת.",
+       "sci": false
+      },
+      {
+       "a": 61.86,
+       "b": 157.49,
+       "en": "IN SCIENCE: newborn: GBS + enteric GN → IV ampicillin + gentamicin · 3 wk–3 mo: C. trachomatis, pertussis → macrolide · 4 mo–5 y: viruses → S. pneumoniae → amoxicillin 5–10 d · school: Mycoplasma, C. pneumoniae · IV: penicillin / amox-clav · MRSA → vancomycin · admit: SpO2 < 90–92%, cyanosis, RR > 70 (infant) / > 50, grunting, apnea, can't feed, oral failure, family · failure → ICU, NIPPV.",
+       "he": "במדע: יילוד: GBS + גרם-שליליים ← אמפיצילין + גנטמיצין · 3 שבועות–3 חודשים: C. trachomatis, שעלת ← מקרוליד · 4 חודשים–5 שנים: וירוסים ← פנאומוקוק ← אמוקסיצילין 5–10 ימים · בית ספר: מיקופלזמה · IV: פניצילין / אוגמנטין · MRSA ← ונקומיצין · אשפוז: סטורציה מתחת ל-90–92%, כחלון, נשימה מעל 70 (תינוק) / 50, אנקה, אפנאה, לא אוכל, כשל, משפחה · כשל נשימתי ← טיפול נמרץ, NIPPV.",
+       "sci": true
+      }
+     ]
+    },
+    {
+     "n": 5,
+     "title": "נזקי האש · סיבוכים",
+     "dur": 129.2,
+     "v": {
+      "en": "clips/t1117p/c05_en.mp4",
+      "he": "clips/t1117p/c05_he.mp4"
+     },
+     "cues": [
+      {
+       "a": 0.48,
+       "b": 15.88,
+       "en": "Sometimes the fire damages the house: the wall rots (necrosis) and leaves an empty bubble (pneumatocele) – heals in months.",
+       "he": "לפעמים האש פוגעת בבית: הקיר נרקב (נמק) ומשאיר בועה ריקה (פנאומטוצל) – נרפאת בתוך חודשים.",
+       "sci": false
+      },
+      {
+       "a": 16.23,
+       "b": 32.29,
+       "en": "Water leaks into the gap around the lung (effusion). Bugs get in → pus (empyema). Thin → antibiotics; growing → a drain.",
+       "he": "מים דולפים לחלל סביב הריאה (תפליט). חיידקים נכנסים ← מוגלה (אמפיימה). דק ← אנטיביוטיקה; גדל ← נקז.",
+       "sci": false
+      },
+      {
+       "a": 32.64,
+       "b": 43.97,
+       "en": "Or a thick-walled room full of pus and air (abscess, air-fluid level) → weeks of IV antibiotics.",
+       "he": "או חדר עם קירות עבים מלא מוגלה ואוויר (מורסה, מפלס אוויר-נוזל) ← שבועות של אנטיביוטיקה לווריד.",
+       "sci": false
+      },
+      {
+       "a": 44.72,
+       "b": 128.68,
+       "en": "IN SCIENCE: necrotizing pneumonia → pneumatoceles, BPF, abscess · S. pneumoniae, S. aureus, Klebsiella, Pseudomonas, MRSA (PVL) · pneumatocele resolves 4–6 mo · exudate: protein > 0.5, LDH > 0.6, low glucose, pH < 7.2 · < 10 mm → antibiotics · growing → drain ± fibrinolytics · failure → VATS · abscess: thick wall + air-fluid level → IV 4–6 wk.",
+       "he": "במדע: דלקת נמקית ← פנאומטוצלים, פיסטולה, מורסה · פנאומוקוק, S. aureus, קלבסיאלה, פסאודומונס, MRSA ‏(PVL) · פנאומטוצל נעלם ב-4–6 חודשים · אקסודט: חלבון מעל 0.5, LDH מעל 0.6, גלוקוז נמוך, pH מתחת ל-7.2 · פחות מ-10 מ\"מ ← אנטיביוטיקה · גדל ← נקז ± פיברינוליטיקה · כשל ← VATS · מורסה: דופן עבה + מפלס ← IV ‏4–6 שבועות.",
+       "sci": true
+      }
+     ]
+    },
+    {
+     "n": 6,
+     "title": "מגינים · מניעה",
+     "dur": 92.7,
+     "v": {
+      "en": "clips/t1117p/c06_en.mp4",
+      "he": "clips/t1117p/c06_he.mp4"
+     },
+     "cues": [
+      {
+       "a": 0.48,
+       "b": 19.33,
+       "en": "Shields: vaccines (pneumococcus, Hib, flu, pertussis) + one RSV antibody shot. No smoke, no vaping, good nutrition.",
+       "he": "מגינים: חיסונים (פנאומוקוק, Hib, שפעת, שעלת) + זריקת נוגדן אחת נגד RSV. בלי עישון, בלי וייפ, תזונה טובה.",
+       "sci": false
+      },
+      {
+       "a": 20.08,
+       "b": 78.5,
+       "en": "IN SCIENCE: risks: passive smoke, vaping (EVALI), malnutrition · flu vaccine > 6 mo · nirsevimab (RSV, long-acting mAb, 1 dose) · PCV + Hib · pertussis · prognosis: full recovery, < 1/1000 deaths (rich countries) · adenovirus → bronchiolitis obliterans · wheeze after RSV.",
+       "he": "במדע: סיכונים: עישון פסיבי, וייפ (EVALI), תת-תזונה · חיסון שפעת מעל 6 חודשים · נירסבימאב (RSV, נוגדן ארוך טווח, מנה אחת) · PCV + Hib · שעלת · פרוגנוזה: החלמה מלאה, פחות מ-1 ל-1000 · אדנווירוס ← ברונכיוליטיס אובליטרנס · צפצופים אחרי RSV.",
+       "sci": true
+      },
+      {
+       "a": 79.45,
+       "b": 90.66,
+       "en": "Most of it is viral – and most children go home.",
+       "he": "רובה ויראלית – ורוב הילדים הולכים הביתה.",
        "sci": false
       }
      ]
