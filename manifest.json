@@ -591,300 +591,6 @@
    ]
   },
   {
-   "id": "t1119p",
-   "day": "19/11/2026",
-   "title": "חזה אוויר (CBL) – בסיפורים",
-   "title_en": "Pneumothorax (case-based), told as stories",
-   "course": "מערכת הנשימה",
-   "poster": "clips/t1119p/poster.jpg",
-   "clips": [
-    {
-     "n": 1,
-     "title": "הפנצ'ר · בדיקה",
-     "dur": 101.3,
-     "v": {
-      "en": "clips/t1119p/c01_en.mp4",
-      "he": "clips/t1119p/c01_he.mp4"
-     },
-     "cues": [
-      {
-       "a": 1.0,
-       "b": 13.31,
-       "en": "A 22-year-old soldier, running: sudden sharp left chest pain, worse on breathing in. The story of a flat tire.",
-       "he": "חייל בן 22 רץ בשטח: כאב חד פתאומי בצד שמאל, מחמיר בשאיפה. הסיפור של פנצ'ר.",
-       "sci": false
-      },
-      {
-       "a": 14.27,
-       "b": 28.72,
-       "en": "A bike tire: lung = inner tube, chest wall = rim. A tiny hole lets air into the gap (pleural space) – the tube goes soft.",
-       "he": "צמיג של אופניים: ריאה = פנימית, דופן החזה = חישוק. חור קטן מכניס אוויר לרווח (חלל הפלאורה) – הפנימית מתרככת.",
-       "sci": false
-      },
-      {
-       "a": 29.07,
-       "b": 48.11,
-       "en": "Tap: a drum (hyperresonance). Listen: faint breath sounds. Hand: weak fremitus. Our soldier: BP 140/70, pulse 72, SpO2 95% – stable.",
-       "he": "הקשה: תוף (היפר-רזוננס). האזנה: קולות נשימה מוחלשים. מישוש: פרמיטוס מוחלש. החייל: ל\"ד 140/70, דופק 72, סטורציה 95% – יציב.",
-       "sci": false
-      },
-      {
-       "a": 48.86,
-       "b": 100.8,
-       "en": "IN SCIENCE: sudden pleuritic pain + tachypnea + unilateral ↓ breath sounds → primary spontaneous pneumothorax · ↓ expansion, ↓ fremitus, hyperresonance, ↓ breath sounds, ± subcutaneous emphysema · always check tension: tracheal deviation (late), JVD, tachycardia, hypotension · DDx: PE, pneumonia, pericarditis, rib, Boerhaave.",
-       "he": "במדע: כאב פלאוריטי פתאומי + טכיפנאה + קולות מוחלשים בצד אחד ← חזה אוויר ספונטני ראשוני · ↓ התפשטות, ↓ פרמיטוס, היפר-רזוננס, ↓ קולות נשימה, ± אמפיזמה תת-עורית · תמיד לחפש tension: סטיית קנה (מאוחר), גודש ורידי צוואר, טכיקרדיה, תת-לחץ · אבחנה מבדלת: PE, דלקת ריאות, פריקרדיטיס, צלע, בורהאבה.",
-       "sci": true
-      }
-     ]
-    },
-    {
-     "n": 2,
-     "title": "הצילום · צילום ואולטרסאונד",
-     "dur": 96.2,
-     "v": {
-      "en": "clips/t1119p/c02_en.mp4",
-      "he": "clips/t1119p/c02_he.mp4"
-     },
-     "cues": [
-      {
-       "a": 0.48,
-       "b": 17.39,
-       "en": "Upright PA CXR: a thin white line (visceral pleura) with no lung markings beyond. A 2 cm gap at the hilum ≈ 50% of the volume.",
-       "he": "צילום PA בעמידה: קו לבן דק (הפלאורה הוויסצרלית) ומעבר לו אין סימני ריאה. רווח של 2 ס\"מ בגובה ההילוס ≈ 50% מהנפח.",
-       "sci": false
-      },
-      {
-       "a": 17.74,
-       "b": 34.87,
-       "en": "Ultrasound: no lung sliding, a barcode sign, and the lung point marks the edge. CT only when unsure or before surgery.",
-       "he": "אולטרסאונד: אין החלקת ריאה, סימן ברקוד, וה-lung point מסמן את הגבול. CT רק כשלא בטוחים או לפני ניתוח.",
-       "sci": false
-      },
-      {
-       "a": 35.62,
-       "b": 95.75,
-       "en": "IN SCIENCE: upright PA CXR: visceral pleural line, no markings beyond · supine: deep sulcus sign · BTS large ≥ 2 cm at hilum (~50%) · ACCP large ≥ 3 cm apex · BTS 2023: symptoms > size · US: no sliding, no B-lines, barcode, lung point · CT: bulla vs PTX, planning · unstable → treat first.",
-       "he": "במדע: צילום PA בעמידה: קו פלאורה ויסצרלית, בלי סימני ריאה מעבר · בשכיבה: deep sulcus sign · BTS גדול ≥ 2 ס\"מ בהילוס (~50%) · ACCP גדול ≥ 3 ס\"מ בקודקוד · BTS 2023: תסמינים לפני גודל · US: אין החלקה, אין B-lines, ברקוד, lung point · CT: בולה מול חזה אוויר, תכנון · לא יציב ← מטפלים קודם.",
-       "sci": true
-      }
-     ]
-    },
-    {
-     "n": 3,
-     "title": "השסתום · tension",
-     "dur": 95.5,
-     "v": {
-      "en": "clips/t1119p/c03_en.mp4",
-      "he": "clips/t1119p/c03_he.mp4"
-     },
-     "cues": [
-      {
-       "a": 0.47,
-       "b": 22.07,
-       "en": "The dangerous version: a one-way valve – air in with every breath, never out. Pressure climbs, shoves the mediastinum, kinks the venae cavae → no venous return.",
-       "he": "הגרסה המסוכנת: שסתום חד-כיווני – אוויר נכנס בכל נשימה ולא יוצא. הלחץ עולה, דוחק את המיצר, מקפל את הוורידים הנבובים ← אין החזר ורידי.",
-       "sci": false
-      },
-      {
-       "a": 22.42,
-       "b": 37.68,
-       "en": "Diagnose it clinically, not by X-ray: needle now, then a drain. Even a small one can be tension: pressure, not size.",
-       "he": "מאבחנים קלינית, לא בצילום: מחט עכשיו, ואז נקז. גם קטן יכול להיות בלחץ: לחץ, לא גודל.",
-       "sci": false
-      },
-      {
-       "a": 38.43,
-       "b": 95.07,
-       "en": "IN SCIENCE: one-way valve → positive, rising pleural pressure → mediastinal shift, caval compression, ↓ venous return → obstructive shock → PEA · tachycardia, hypotension, JVD, hypoxemia, tracheal deviation · risk: ventilation, trauma, procedures, clamped drain · clinical diagnosis · needle: 4th–5th ICS anterior to mid-axillary (adult) or 2nd ICS MCL → chest drain.",
-       "he": "במדע: שסתום חד-כיווני ← לחץ פלאורלי חיובי ועולה ← דחיקת מיצר, לחיצת הוורידים הנבובים, ↓ החזר ורידי ← הלם חסימתי ← PEA · טכיקרדיה, תת-לחץ, גודש ורידי צוואר, היפוקסמיה, סטיית קנה · סיכון: הנשמה, טראומה, פעולות, נקז מהודק · אבחנה קלינית · מחט: מרווח 4–5 לפני הקו האמצעי-בית-שחי (מבוגר) או מרווח 2 בקו האמצעי-בריחי ← נקז.",
-       "sci": true
-      }
-     ]
-    },
-    {
-     "n": 4,
-     "title": "למה זה קרה · סיבות",
-     "dur": 100.0,
-     "v": {
-      "en": "clips/t1119p/c04_en.mp4",
-      "he": "clips/t1119p/c04_he.mp4"
-     },
-     "cues": [
-      {
-       "a": 0.48,
-       "b": 17.89,
-       "en": "Tall, thin young man: little blisters (blebs) at the apex, where the stretch is greatest, pop on their own. Smoking, incl. cannabis, raises the risk.",
-       "he": "צעיר גבוה ורזה: שלפוחיות קטנות (blebs) בקודקוד, היכן שהמתיחה הכי גדולה, מתפוצצות מעצמן. עישון, כולל קנאביס, מעלה סיכון.",
-       "sci": false
-      },
-      {
-       "a": 18.24,
-       "b": 38.92,
-       "en": "An old worn tube (COPD, CF, infection, cysts, cancer): even a small leak is dangerous. Or holes from outside: trauma, or our own needles (iatrogenic).",
-       "he": "פנימית ישנה ושחוקה (COPD, ‏CF, זיהום, ציסטות, סרטן): גם דליפה קטנה מסוכנת. או חורים מבחוץ: טראומה, או המחטים שלנו (יאטרוגני).",
-       "sci": false
-      },
-      {
-       "a": 39.67,
-       "b": 99.5,
-       "en": "IN SCIENCE: PSP: no lung disease · tall thin men 15–35 · apical blebs · smoking + cannabis · family, Marfan, Birt-Hogg-Dubé · SSP: COPD (commonest), asthma, CF, TB, PCP, fibrosis, LAM, LCH, cancer · catamenial (endometriosis, right) · traumatic: penetrating / blunt · iatrogenic: subclavian line, thoracentesis, biopsy, barotrauma, CPR.",
-       "he": "במדע: PSP: בלי מחלת ריאה · גברים גבוהים ורזים 15–35 · blebs בקודקוד · עישון + קנאביס · משפחה, מרפן, BHD · SSP: ‏COPD (הכי שכיח), אסתמה, CF, שחפת, PCP, פיברוזיס, LAM, ‏LCH, סרטן · קטמניאלי (אנדומטריוזיס, ימין) · טראומטי: חודר / קהה · יאטרוגני: צנתר תת-בריחי, ניקור, ביופסיה, ברוטראומה, החייאה.",
-       "sci": true
-      }
-     ]
-    },
-    {
-     "n": 5,
-     "title": "מה עושים · טיפול",
-     "dur": 129.2,
-     "v": {
-      "en": "clips/t1119p/c05_en.mp4",
-      "he": "clips/t1119p/c05_he.mp4"
-     },
-     "cues": [
-      {
-       "a": 0.48,
-       "b": 23.76,
-       "en": "Four questions: tension? young or old tube? real symptoms? size? A young man who feels fine: watch – air absorbs alone; O2 speeds it ×3–4.",
-       "he": "ארבע שאלות: tension? צעיר או ישן? תסמינים אמיתיים? גודל? צעיר שמרגיש טוב: השגחה – האוויר נספג לבד; חמצן מאיץ פי 3–4.",
-       "sci": false
-      },
-      {
-       "a": 24.11,
-       "b": 39.81,
-       "en": "Struggling: needle aspiration, or a small drain – even an ambulatory one to go home. Old tube (SSP): admit, usually a drain.",
-       "he": "סובל: שאיבה במחט, או נקז קטן – אפילו אמבולטורי לבית. פנימית ישנה (SSP): אשפוז, ולרוב נקז.",
-       "sci": false
-      },
-      {
-       "a": 40.16,
-       "b": 53.9,
-       "en": "Discharge: stop smoking · no flying until fully re-expanded · no diving for life · ~1 in 3 recur.",
-       "he": "בשחרור: להפסיק לעשן · לא לטוס עד שהריאה חזרה לגמרי · בלי צלילה לכל החיים · ~שליש חוזרים.",
-       "sci": false
-      },
-      {
-       "a": 54.65,
-       "b": 128.68,
-       "en": "IN SCIENCE: order: tension → PSP / SSP → symptoms → size + preference · PSP, few symptoms: observe; resorbs 1.5–2%/day; high-flow O2 ×3–4 (care in CO2 retainers) · PSP + symptoms: needle aspiration 14–16G · ambulatory Heimlich device · small-bore ≤ 14 Fr · SSP: admit, O2, drain · stop smoking · no flying until re-expanded · no diving (unless bilateral pleurectomy) · recurrence ~30%, then ~50%.",
-       "he": "במדע: סדר: tension ← PSP / SSP ← תסמינים ← גודל + העדפה · PSP בלי תסמינים: השגחה; נספג 1.5–2% ביום; חמצן בזרימה גבוהה ×3–4 (זהירות באוגרי CO2) · PSP עם תסמינים: שאיבה 14–16G · מכשיר אמבולטורי עם היימליך · נקז דק ≤ 14 Fr · SSP: אשפוז, חמצן, נקז · הפסקת עישון · לא לטוס עד התפשטות · בלי צלילה (אלא אם פלאורקטומיה דו-צדדית) · הישנות ~30%, ואז ~50%.",
-       "sci": true
-      }
-     ]
-    },
-    {
-     "n": 6,
-     "title": "הנקז · ושסתום היימליך",
-     "dur": 154.5,
-     "v": {
-      "en": "clips/t1119p/c06_en.mp4",
-      "he": "clips/t1119p/c06_he.mp4"
-     },
-     "cues": [
-      {
-       "a": 0.48,
-       "b": 21.71,
-       "en": "The safe triangle: arm up, between latissimus dorsi and pectoralis major, above the nipple line. Go over the top of the lower rib – vessels and nerve run under each rib.",
-       "he": "המשולש הבטוח: יד מורמת, בין הלטיסימוס לפקטורליס, מעל קו הפטמה. נכנסים מעל הצלע התחתונה – כלי הדם והעצב עוברים מתחת לכל צלע.",
-       "sci": false
-      },
-      {
-       "a": 22.06,
-       "b": 45.36,
-       "en": "Blunt + finger sweep, never a trocar. Point to the apex for air. Water seal below the chest: swinging = open, bubbling = air leak. Never clamp a bubbling drain.",
-       "he": "קהה + בדיקה באצבע, אף פעם לא טרוקר. לכיוון הקודקוד לאוויר. חותם מים מתחת לחזה: תנודה = פתוח, בעבוע = דליפה. לא מהדקים נקז מבעבע.",
-       "sci": false
-      },
-      {
-       "a": 45.71,
-       "b": 62.34,
-       "en": "Or a Heimlich valve: a rubber flutter sleeve opens to let air out, closes on inspiration – he can go home. Arrow away from the patient.",
-       "he": "או שסתום היימליך: שרוול גומי נפתח להוציא אוויר ונסגר בשאיפה – אפשר הביתה. החץ הרחק מהמטופל.",
-       "sci": false
-      },
-      {
-       "a": 63.09,
-       "b": 154.07,
-       "en": "IN SCIENCE: small-bore Seldinger for PSP · large-bore for blood / pus / trauma · safe triangle: pec major, lat dorsi, 5th ICS, axilla · above the lower rib · blunt + finger sweep, no trocar · apical for air · water seal ~2 cm, below chest · swinging = patent · bubbling = leak · no routine suction (−10 to −20 cm H2O) · re-expansion edema · never clamp a bubbling drain · remove: re-expanded + ~24 h no bubbles → CXR · leak > 3–5 d → surgeon · Heimlich: air only, ambulatory, arrow away.",
-       "he": "במדע: נקז דק בשיטת סלדינגר ל-PSP · עבה לדם / מוגלה / טראומה · משולש בטוח: פקטורליס, לטיסימוס, מרווח 5, בית השחי · מעל הצלע התחתונה · קהה + אצבע, בלי טרוקר · לקודקוד לאוויר · חותם מים ~2 ס\"מ, מתחת לחזה · תנודה = פתוח · בעבוע = דליפה · בלי יניקה שגרתית (−10 עד −20) · בצקת התפשטות מחדש · לא מהדקים נקז מבעבע · הוצאה: התפשטות + ~24 שעות בלי בעבוע ← צילום · דליפה מעל 3–5 ימים ← כירורג · היימליך: אוויר בלבד, אמבולטורי, החץ החוצה.",
-       "sci": true
-      }
-     ]
-    },
-    {
-     "n": 7,
-     "title": "מה משתבש · סיבוכים",
-     "dur": 103.5,
-     "v": {
-      "en": "clips/t1119p/c07_en.mp4",
-      "he": "clips/t1119p/c07_he.mp4"
-     },
-     "cues": [
-      {
-       "a": 0.48,
-       "b": 21.93,
-       "en": "Wrong place: under the skin, in a fissure, in the lung, or too low into liver / spleen. Bleeding from a vessel under the rib – first ask: on blood thinners?",
-       "he": "מקום שגוי: מתחת לעור, בסדק, בריאה, או נמוך מדי לכבד / טחול. דימום מכלי מתחת לצלע – קודם שואלים: מקבל מדללי דם?",
-       "sci": false
-      },
-      {
-       "a": 22.28,
-       "b": 42.58,
-       "en": "Air under the skin crackles, absorbs ~3 days after the leak stops. A lung down for days can flood if it re-opens too fast. A blocked or clamped drain → tension.",
-       "he": "אוויר מתחת לעור מקרקר, נספג ~3 ימים אחרי שהדליפה נעצרת. ריאה שקרסה ימים עלולה להתמלא בנוזל אם נפתחת מהר. נקז חסום או מהודק ← tension.",
-       "sci": false
-      },
-      {
-       "a": 43.33,
-       "b": 102.99,
-       "en": "IN SCIENCE: immediate: malposition (subcutaneous, fissure, parenchyma, abdomen), organ injury (trocar, low), bleeding (intercostal, internal mammary) – ask about anticoagulants · early: subcutaneous emphysema (resolves), re-expansion edema (> 72 h collapse), blockage / kinking, tension (clamped drain, reversed valve) · late: infection / empyema, neuralgia, long thoracic nerve, recurrence.",
-       "he": "במדע: מיידי: מיקום שגוי (תת-עורי, סדק, פרנכימה, בטן), פגיעה באיברים (טרוקר, נמוך), דימום (בין-צלעי, internal mammary) – לשאול על מדללים · מוקדם: אמפיזמה תת-עורית (חולפת), בצקת התפשטות (קריסה מעל 72 שעות), חסימה, tension (נקז מהודק, שסתום הפוך) · מאוחר: זיהום / אמפיימה, נוירלגיה, long thoracic, הישנות.",
-       "sci": true
-      }
-     ]
-    },
-    {
-     "n": 8,
-     "title": "תיקון סופי · VATS",
-     "dur": 126.3,
-     "v": {
-      "en": "clips/t1119p/c08_en.mp4",
-      "he": "clips/t1119p/c08_he.mp4"
-     },
-     "cues": [
-      {
-       "a": 0.48,
-       "b": 18.89,
-       "en": "Patch for good when: leak > 3–5 days · second episode same side · the other side · both sides · bleeding · pilots, divers.",
-       "he": "מתקנים סופית כש: דליפה מעל 3–5 ימים · פעם שנייה באותו צד · הצד השני · דו-צדדי · דימום · טייסים, צוללנים.",
-       "sci": false
-      },
-      {
-       "a": 19.24,
-       "b": 40.2,
-       "en": "VATS: a camera through 2–3 small holes, one-lung ventilation. Staple off the apical blebs, then roughen the lining (pleurodesis) so the lung sticks – no gap left.",
-       "he": "VATS: מצלמה דרך 2–3 חורים קטנים, הנשמת ריאה אחת. מסירים בסיכות את ה-blebs בקודקוד, ואז משפשפים את הפלאורה (פלאורודזיס) כדי שהריאה תידבק – בלי רווח.",
-       "sci": false
-      },
-      {
-       "a": 40.95,
-       "b": 108.52,
-       "en": "IN SCIENCE: surgery: leak > 3–5 d / no re-expansion · ipsilateral recurrence · first contralateral · bilateral · hemopneumothorax · pilots, divers · findings: apical blebs / bullae, adhesions, endometriosis · VATS + one-lung ventilation (double-lumen tube) · stapled wedge resection + pleurodesis (abrasion, apical pleurectomy – lowest recurrence, talc) · recurrence ≤ ~5%.",
-       "he": "במדע: ניתוח: דליפה מעל 3–5 ימים / אין התפשטות · הישנות באותו צד · ראשון בצד השני · דו-צדדי · המופנאומותורקס · טייסים, צוללנים · ממצאים: blebs / בולות בקודקוד, הידבקויות, אנדומטריוזיס · VATS + הנשמת ריאה אחת (טובוס כפול) · כריתת טריז בסיכות + פלאורודזיס (שפשוף, פלאורקטומיה בקודקוד – הכי פחות הישנות, טלק) · הישנות ≤ ~5%.",
-       "sci": true
-      },
-      {
-       "a": 109.48,
-       "b": 124.27,
-       "en": "Check the one-way valve first. Watch, aspirate or drain. Patch it when it keeps coming back.",
-       "he": "קודם בודקים שסתום חד-כיווני. השגחה, שאיבה או נקז. מתקנים כשזה חוזר.",
-       "sci": false
-      }
-     ]
-    }
-   ]
-  },
-  {
    "id": "t1119t",
    "day": "19/11/2026",
    "title": "כירורגיית חזה והשתלת ריאה – בסיפורים",
@@ -1076,6 +782,300 @@
        "b": 118.33,
        "en": "Right door · right stations · right engine · right crew.",
        "he": "הדלת הנכונה · התחנות הנכונות · המנוע הנכון · הצוות הנכון.",
+       "sci": false
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "t1119p",
+   "day": "19/11/2026",
+   "title": "חזה אוויר (CBL) – בסיפורים",
+   "title_en": "Pneumothorax (case-based), told as stories",
+   "course": "מערכת הנשימה",
+   "poster": "clips/t1119p/poster.jpg",
+   "clips": [
+    {
+     "n": 1,
+     "title": "הפנצ'ר · בדיקה",
+     "dur": 107.0,
+     "v": {
+      "en": "clips/t1119p/c01_en.mp4",
+      "he": "clips/t1119p/c01_he.mp4"
+     },
+     "cues": [
+      {
+       "a": 1.0,
+       "b": 13.31,
+       "en": "A 22-year-old soldier, running: sudden sharp left chest pain, worse on breathing in. The story of a flat tire.",
+       "he": "חייל בן 22 רץ בשטח: כאב חד פתאומי בצד שמאל, מחמיר בשאיפה. הסיפור של פנצ'ר.",
+       "sci": false
+      },
+      {
+       "a": 14.27,
+       "b": 28.72,
+       "en": "A bike tire: lung = inner tube, chest wall = rim. A tiny hole lets air into the gap (pleural space) – the tube goes soft.",
+       "he": "צמיג של אופניים: ריאה = פנימית, דופן החזה = חישוק. חור קטן מכניס אוויר לרווח (חלל הפלאורה) – הפנימית מתרככת.",
+       "sci": false
+      },
+      {
+       "a": 29.07,
+       "b": 48.11,
+       "en": "Tap: a drum (hyperresonance). Listen: faint breath sounds. Hand: weak fremitus. Our soldier: BP 140/70, pulse 72, SpO2 95% – stable.",
+       "he": "הקשה: תוף (היפר-רזוננס). האזנה: קולות נשימה מוחלשים. מישוש: פרמיטוס מוחלש. החייל: ל\"ד 140/70, דופק 72, סטורציה 95% – יציב.",
+       "sci": false
+      },
+      {
+       "a": 48.86,
+       "b": 106.56,
+       "en": "IN SCIENCE: sudden pleuritic pain + tachypnea + unilateral ↓ breath sounds → primary spontaneous pneumothorax · ↓ expansion, ↓ fremitus, hyperresonance, ↓ breath sounds, ± subcutaneous emphysema · always check tension: tracheal deviation (late), JVD, tachycardia, hypotension · DDx: PE, pneumonia, pericarditis, rib, Boerhaave.",
+       "he": "במדע: כאב פלאוריטי פתאומי + טכיפנאה + קולות מוחלשים בצד אחד ← חזה אוויר ספונטני ראשוני · ↓ התפשטות, ↓ פרמיטוס, היפר-רזוננס, ↓ קולות נשימה, ± אמפיזמה תת-עורית · תמיד לחפש tension: סטיית קנה (מאוחר), גודש ורידי צוואר, טכיקרדיה, תת-לחץ · אבחנה מבדלת: PE, דלקת ריאות, פריקרדיטיס, צלע, בורהאבה.",
+       "sci": true
+      }
+     ]
+    },
+    {
+     "n": 2,
+     "title": "הצילום · צילום ואולטרסאונד",
+     "dur": 110.1,
+     "v": {
+      "en": "clips/t1119p/c02_en.mp4",
+      "he": "clips/t1119p/c02_he.mp4"
+     },
+     "cues": [
+      {
+       "a": 0.47,
+       "b": 17.39,
+       "en": "Upright PA CXR: a thin white line (visceral pleura) with no lung markings beyond. A 2 cm gap at the hilum ≈ 50% of the volume.",
+       "he": "צילום PA בעמידה: קו לבן דק (הפלאורה הוויסצרלית) ומעבר לו אין סימני ריאה. רווח של 2 ס\"מ בגובה ההילוס ≈ 50% מהנפח.",
+       "sci": false
+      },
+      {
+       "a": 17.74,
+       "b": 34.87,
+       "en": "Ultrasound: no lung sliding, a barcode sign, and the lung point marks the edge. CT only when unsure or before surgery.",
+       "he": "אולטרסאונד: אין החלקת ריאה, סימן ברקוד, וה-lung point מסמן את הגבול. CT רק כשלא בטוחים או לפני ניתוח.",
+       "sci": false
+      },
+      {
+       "a": 35.62,
+       "b": 109.58,
+       "en": "IN SCIENCE: upright PA CXR: visceral pleural line, no markings beyond · supine: deep sulcus sign · BTS large ≥ 2 cm at hilum (~50%) · ACCP large ≥ 3 cm apex · BTS 2023: symptoms > size · US: no sliding, no B-lines, barcode, lung point · CT: bulla vs PTX, planning · unstable → treat first.",
+       "he": "במדע: צילום PA בעמידה: קו פלאורה ויסצרלית, בלי סימני ריאה מעבר · בשכיבה: deep sulcus sign · BTS גדול ≥ 2 ס\"מ בהילוס (~50%) · ACCP גדול ≥ 3 ס\"מ בקודקוד · BTS 2023: תסמינים לפני גודל · US: אין החלקה, אין B-lines, ברקוד, lung point · CT: בולה מול חזה אוויר, תכנון · לא יציב ← מטפלים קודם.",
+       "sci": true
+      }
+     ]
+    },
+    {
+     "n": 3,
+     "title": "השסתום · tension",
+     "dur": 114.7,
+     "v": {
+      "en": "clips/t1119p/c03_en.mp4",
+      "he": "clips/t1119p/c03_he.mp4"
+     },
+     "cues": [
+      {
+       "a": 0.47,
+       "b": 22.07,
+       "en": "The dangerous version: a one-way valve – air in with every breath, never out. Pressure climbs, shoves the mediastinum, kinks the venae cavae → no venous return.",
+       "he": "הגרסה המסוכנת: שסתום חד-כיווני – אוויר נכנס בכל נשימה ולא יוצא. הלחץ עולה, דוחק את המיצר, מקפל את הוורידים הנבובים ← אין החזר ורידי.",
+       "sci": false
+      },
+      {
+       "a": 22.42,
+       "b": 37.68,
+       "en": "Diagnose it clinically, not by X-ray: needle now, then a drain. Even a small one can be tension: pressure, not size.",
+       "he": "מאבחנים קלינית, לא בצילום: מחט עכשיו, ואז נקז. גם קטן יכול להיות בלחץ: לחץ, לא גודל.",
+       "sci": false
+      },
+      {
+       "a": 38.43,
+       "b": 114.25,
+       "en": "IN SCIENCE: one-way valve → positive, rising pleural pressure → mediastinal shift, caval compression, ↓ venous return → obstructive shock → PEA · tachycardia, hypotension, JVD, hypoxemia, tracheal deviation · risk: ventilation, trauma, procedures, clamped drain · clinical diagnosis · needle: 4th–5th ICS anterior to mid-axillary (adult) or 2nd ICS MCL → chest drain.",
+       "he": "במדע: שסתום חד-כיווני ← לחץ פלאורלי חיובי ועולה ← דחיקת מיצר, לחיצת הוורידים הנבובים, ↓ החזר ורידי ← הלם חסימתי ← PEA · טכיקרדיה, תת-לחץ, גודש ורידי צוואר, היפוקסמיה, סטיית קנה · סיכון: הנשמה, טראומה, פעולות, נקז מהודק · אבחנה קלינית · מחט: מרווח 4–5 לפני הקו האמצעי-בית-שחי (מבוגר) או מרווח 2 בקו האמצעי-בריחי ← נקז.",
+       "sci": true
+      }
+     ]
+    },
+    {
+     "n": 4,
+     "title": "למה זה קרה · סיבות",
+     "dur": 121.6,
+     "v": {
+      "en": "clips/t1119p/c04_en.mp4",
+      "he": "clips/t1119p/c04_he.mp4"
+     },
+     "cues": [
+      {
+       "a": 0.48,
+       "b": 17.89,
+       "en": "Tall, thin young man: little blisters (blebs) at the apex, where the stretch is greatest, pop on their own. Smoking, incl. cannabis, raises the risk.",
+       "he": "צעיר גבוה ורזה: שלפוחיות קטנות (blebs) בקודקוד, היכן שהמתיחה הכי גדולה, מתפוצצות מעצמן. עישון, כולל קנאביס, מעלה סיכון.",
+       "sci": false
+      },
+      {
+       "a": 18.24,
+       "b": 38.92,
+       "en": "An old worn tube (COPD, CF, infection, cysts, cancer): even a small leak is dangerous. Or holes from outside: trauma, or our own needles (iatrogenic).",
+       "he": "פנימית ישנה ושחוקה (COPD, ‏CF, זיהום, ציסטות, סרטן): גם דליפה קטנה מסוכנת. או חורים מבחוץ: טראומה, או המחטים שלנו (יאטרוגני).",
+       "sci": false
+      },
+      {
+       "a": 39.67,
+       "b": 121.12,
+       "en": "IN SCIENCE: PSP: no lung disease · tall thin men 15–35 · apical blebs · smoking + cannabis · family, Marfan, Birt-Hogg-Dubé · SSP: COPD (commonest), asthma, CF, TB, PCP, fibrosis, LAM, LCH, cancer · catamenial (endometriosis, right) · traumatic: penetrating / blunt · iatrogenic: subclavian line, thoracentesis, biopsy, barotrauma, CPR.",
+       "he": "במדע: PSP: בלי מחלת ריאה · גברים גבוהים ורזים 15–35 · blebs בקודקוד · עישון + קנאביס · משפחה, מרפן, BHD · SSP: ‏COPD (הכי שכיח), אסתמה, CF, שחפת, PCP, פיברוזיס, LAM, ‏LCH, סרטן · קטמניאלי (אנדומטריוזיס, ימין) · טראומטי: חודר / קהה · יאטרוגני: צנתר תת-בריחי, ניקור, ביופסיה, ברוטראומה, החייאה.",
+       "sci": true
+      }
+     ]
+    },
+    {
+     "n": 5,
+     "title": "מה עושים · טיפול",
+     "dur": 141.8,
+     "v": {
+      "en": "clips/t1119p/c05_en.mp4",
+      "he": "clips/t1119p/c05_he.mp4"
+     },
+     "cues": [
+      {
+       "a": 0.47,
+       "b": 23.76,
+       "en": "Four questions: tension? young or old tube? real symptoms? size? A young man who feels fine: watch – air absorbs alone; O2 speeds it ×3–4.",
+       "he": "ארבע שאלות: tension? צעיר או ישן? תסמינים אמיתיים? גודל? צעיר שמרגיש טוב: השגחה – האוויר נספג לבד; חמצן מאיץ פי 3–4.",
+       "sci": false
+      },
+      {
+       "a": 24.11,
+       "b": 39.81,
+       "en": "Struggling: needle aspiration, or a small drain – even an ambulatory one to go home. Old tube (SSP): admit, usually a drain.",
+       "he": "סובל: שאיבה במחט, או נקז קטן – אפילו אמבולטורי לבית. פנימית ישנה (SSP): אשפוז, ולרוב נקז.",
+       "sci": false
+      },
+      {
+       "a": 40.16,
+       "b": 53.9,
+       "en": "Discharge: stop smoking · no flying until fully re-expanded · no diving for life · ~1 in 3 recur.",
+       "he": "בשחרור: להפסיק לעשן · לא לטוס עד שהריאה חזרה לגמרי · בלי צלילה לכל החיים · ~שליש חוזרים.",
+       "sci": false
+      },
+      {
+       "a": 54.65,
+       "b": 141.37,
+       "en": "IN SCIENCE: order: tension → PSP / SSP → symptoms → size + preference · PSP, few symptoms: observe; resorbs 1.5–2%/day; high-flow O2 ×3–4 (care in CO2 retainers) · PSP + symptoms: needle aspiration 14–16G · ambulatory Heimlich device · small-bore ≤ 14 Fr · SSP: admit, O2, drain · stop smoking · no flying until re-expanded · no diving (unless bilateral pleurectomy) · recurrence ~30%, then ~50%.",
+       "he": "במדע: סדר: tension ← PSP / SSP ← תסמינים ← גודל + העדפה · PSP בלי תסמינים: השגחה; נספג 1.5–2% ביום; חמצן בזרימה גבוהה ×3–4 (זהירות באוגרי CO2) · PSP עם תסמינים: שאיבה 14–16G · מכשיר אמבולטורי עם היימליך · נקז דק ≤ 14 Fr · SSP: אשפוז, חמצן, נקז · הפסקת עישון · לא לטוס עד התפשטות · בלי צלילה (אלא אם פלאורקטומיה דו-צדדית) · הישנות ~30%, ואז ~50%.",
+       "sci": true
+      }
+     ]
+    },
+    {
+     "n": 6,
+     "title": "הנקז · ושסתום היימליך",
+     "dur": 171.7,
+     "v": {
+      "en": "clips/t1119p/c06_en.mp4",
+      "he": "clips/t1119p/c06_he.mp4"
+     },
+     "cues": [
+      {
+       "a": 0.48,
+       "b": 21.71,
+       "en": "The safe triangle: arm up, between latissimus dorsi and pectoralis major, above the nipple line. Go over the top of the lower rib – vessels and nerve run under each rib.",
+       "he": "המשולש הבטוח: יד מורמת, בין הלטיסימוס לפקטורליס, מעל קו הפטמה. נכנסים מעל הצלע התחתונה – כלי הדם והעצב עוברים מתחת לכל צלע.",
+       "sci": false
+      },
+      {
+       "a": 22.06,
+       "b": 45.36,
+       "en": "Blunt + finger sweep, never a trocar. Point to the apex for air. Water seal below the chest: swinging = open, bubbling = air leak. Never clamp a bubbling drain.",
+       "he": "קהה + בדיקה באצבע, אף פעם לא טרוקר. לכיוון הקודקוד לאוויר. חותם מים מתחת לחזה: תנודה = פתוח, בעבוע = דליפה. לא מהדקים נקז מבעבע.",
+       "sci": false
+      },
+      {
+       "a": 45.71,
+       "b": 62.34,
+       "en": "Or a Heimlich valve: a rubber flutter sleeve opens to let air out, closes on inspiration – he can go home. Arrow away from the patient.",
+       "he": "או שסתום היימליך: שרוול גומי נפתח להוציא אוויר ונסגר בשאיפה – אפשר הביתה. החץ הרחק מהמטופל.",
+       "sci": false
+      },
+      {
+       "a": 63.09,
+       "b": 171.18,
+       "en": "IN SCIENCE: small-bore Seldinger for PSP · large-bore for blood / pus / trauma · safe triangle: pec major, lat dorsi, 5th ICS, axilla · above the lower rib · blunt + finger sweep, no trocar · apical for air · water seal ~2 cm, below chest · swinging = patent · bubbling = leak · no routine suction (−10 to −20 cm H2O) · re-expansion edema · never clamp a bubbling drain · remove: re-expanded + ~24 h no bubbles → CXR · leak > 3–5 d → surgeon · Heimlich: air only, ambulatory, arrow away.",
+       "he": "במדע: נקז דק בשיטת סלדינגר ל-PSP · עבה לדם / מוגלה / טראומה · משולש בטוח: פקטורליס, לטיסימוס, מרווח 5, בית השחי · מעל הצלע התחתונה · קהה + אצבע, בלי טרוקר · לקודקוד לאוויר · חותם מים ~2 ס\"מ, מתחת לחזה · תנודה = פתוח · בעבוע = דליפה · בלי יניקה שגרתית (−10 עד −20) · בצקת התפשטות מחדש · לא מהדקים נקז מבעבע · הוצאה: התפשטות + ~24 שעות בלי בעבוע ← צילום · דליפה מעל 3–5 ימים ← כירורג · היימליך: אוויר בלבד, אמבולטורי, החץ החוצה.",
+       "sci": true
+      }
+     ]
+    },
+    {
+     "n": 7,
+     "title": "מה משתבש · סיבוכים",
+     "dur": 111.4,
+     "v": {
+      "en": "clips/t1119p/c07_en.mp4",
+      "he": "clips/t1119p/c07_he.mp4"
+     },
+     "cues": [
+      {
+       "a": 0.48,
+       "b": 21.93,
+       "en": "Wrong place: under the skin, in a fissure, in the lung, or too low into liver / spleen. Bleeding from a vessel under the rib – first ask: on blood thinners?",
+       "he": "מקום שגוי: מתחת לעור, בסדק, בריאה, או נמוך מדי לכבד / טחול. דימום מכלי מתחת לצלע – קודם שואלים: מקבל מדללי דם?",
+       "sci": false
+      },
+      {
+       "a": 22.28,
+       "b": 42.58,
+       "en": "Air under the skin crackles, absorbs ~3 days after the leak stops. A lung down for days can flood if it re-opens too fast. A blocked or clamped drain → tension.",
+       "he": "אוויר מתחת לעור מקרקר, נספג ~3 ימים אחרי שהדליפה נעצרת. ריאה שקרסה ימים עלולה להתמלא בנוזל אם נפתחת מהר. נקז חסום או מהודק ← tension.",
+       "sci": false
+      },
+      {
+       "a": 43.33,
+       "b": 110.94,
+       "en": "IN SCIENCE: immediate: malposition (subcutaneous, fissure, parenchyma, abdomen), organ injury (trocar, low), bleeding (intercostal, internal mammary) – ask about anticoagulants · early: subcutaneous emphysema (resolves), re-expansion edema (> 72 h collapse), blockage / kinking, tension (clamped drain, reversed valve) · late: infection / empyema, neuralgia, long thoracic nerve, recurrence.",
+       "he": "במדע: מיידי: מיקום שגוי (תת-עורי, סדק, פרנכימה, בטן), פגיעה באיברים (טרוקר, נמוך), דימום (בין-צלעי, internal mammary) – לשאול על מדללים · מוקדם: אמפיזמה תת-עורית (חולפת), בצקת התפשטות (קריסה מעל 72 שעות), חסימה, tension (נקז מהודק, שסתום הפוך) · מאוחר: זיהום / אמפיימה, נוירלגיה, long thoracic, הישנות.",
+       "sci": true
+      }
+     ]
+    },
+    {
+     "n": 8,
+     "title": "תיקון סופי · VATS",
+     "dur": 127.3,
+     "v": {
+      "en": "clips/t1119p/c08_en.mp4",
+      "he": "clips/t1119p/c08_he.mp4"
+     },
+     "cues": [
+      {
+       "a": 0.48,
+       "b": 18.89,
+       "en": "Patch for good when: leak > 3–5 days · second episode same side · the other side · both sides · bleeding · pilots, divers.",
+       "he": "מתקנים סופית כש: דליפה מעל 3–5 ימים · פעם שנייה באותו צד · הצד השני · דו-צדדי · דימום · טייסים, צוללנים.",
+       "sci": false
+      },
+      {
+       "a": 19.24,
+       "b": 40.2,
+       "en": "VATS: a camera through 2–3 small holes, one-lung ventilation. Staple off the apical blebs, then roughen the lining (pleurodesis) so the lung sticks – no gap left.",
+       "he": "VATS: מצלמה דרך 2–3 חורים קטנים, הנשמת ריאה אחת. מסירים בסיכות את ה-blebs בקודקוד, ואז משפשפים את הפלאורה (פלאורודזיס) כדי שהריאה תידבק – בלי רווח.",
+       "sci": false
+      },
+      {
+       "a": 40.95,
+       "b": 109.59,
+       "en": "IN SCIENCE: surgery: leak > 3–5 d / no re-expansion · ipsilateral recurrence · first contralateral · bilateral · hemopneumothorax · pilots, divers · findings: apical blebs / bullae, adhesions, endometriosis · VATS + one-lung ventilation (double-lumen tube) · stapled wedge resection + pleurodesis (abrasion, apical pleurectomy – lowest recurrence, talc) · recurrence ≤ ~5%.",
+       "he": "במדע: ניתוח: דליפה מעל 3–5 ימים / אין התפשטות · הישנות באותו צד · ראשון בצד השני · דו-צדדי · המופנאומותורקס · טייסים, צוללנים · ממצאים: blebs / בולות בקודקוד, הידבקויות, אנדומטריוזיס · VATS + הנשמת ריאה אחת (טובוס כפול) · כריתת טריז בסיכות + פלאורודזיס (שפשוף, פלאורקטומיה בקודקוד – הכי פחות הישנות, טלק) · הישנות ≤ ~5%.",
+       "sci": true
+      },
+      {
+       "a": 110.54,
+       "b": 125.34,
+       "en": "Check the one-way valve first. Watch, aspirate or drain. Patch it when it keeps coming back.",
+       "he": "קודם בודקים שסתום חד-כיווני. השגחה, שאיבה או נקז. מתקנים כשזה חוזר.",
        "sci": false
       }
      ]
