@@ -2151,7 +2151,7 @@
     {
      "n": 1,
      "title": "המכונית · איפה הבעיה",
-     "dur": 38.3,
+     "dur": 59.0,
      "v": {
       "en": "clips/t1115/c01_en.mp4",
       "he": "clips/t1115/c01_he.mp4"
@@ -2173,7 +2173,7 @@
       },
       {
        "a": 22.09,
-       "b": 37.84,
+       "b": 58.56,
        "en": "IN SCIENCE: engine = lung · body = chest wall · driver + wires = nerves and muscles. Find the place → half the diagnosis.",
        "he": "במדע: מנוע = הריאה · מרכב = דופן החזה · נהג וחוטים = עצבים ושרירים. מוצאים את המקום ← חצי אבחנה.",
        "sci": true
@@ -2183,7 +2183,7 @@
     {
      "n": 2,
      "title": "העץ · מבנה ומחזור הדם",
-     "dur": 80.5,
+     "dur": 111.6,
      "v": {
       "en": "clips/t1115/c02_en.mp4",
       "he": "clips/t1115/c02_he.mp4"
@@ -2205,14 +2205,14 @@
       },
       {
        "a": 24.21,
-       "b": 38.98,
+       "b": 38.99,
        "en": "Two water supplies: a gentle hose for the leaves, a high-pressure line for the wood. Dangerous leaks come from the high-pressure line.",
        "he": "שני צינורות מים: צינור עדין לעלים, וקו בלחץ גבוה לעץ. דליפה מסוכנת מגיעה מהקו בלחץ הגבוה.",
        "sci": false
       },
       {
-       "a": 39.73,
-       "b": 80.05,
+       "a": 39.74,
+       "b": 111.09,
        "en": "IN SCIENCE: 23 generations · 0–16 conduct (dead space) · 17+ exchange · ~300 million alveoli ≈ 70 m² · 0.3 µm · pulmonary 25/8 = exchange · bronchial = systemic → massive hemoptysis · diaphragm C3–C5.",
        "he": "במדע: 23 דורות · עד 16 הולכה (מרחב מת) · מ-17 שחלוף · ~300 מיליון נאדיות ≈ 70 מ\"ר · 0.3 מיקרון · ריאתי 25/8 = שחלוף · ברונכיאלי = סיסטמי ← דימום מסכן · סרעפת C3–C5.",
        "sci": true
@@ -2222,14 +2222,14 @@
     {
      "n": 3,
      "title": "משיכת חבל · נפחים, היענות, התנגדות",
-     "dur": 104.7,
+     "dur": 138.0,
      "v": {
       "en": "clips/t1115/c03_en.mp4",
       "he": "clips/t1115/c03_he.mp4"
      },
      "cues": [
       {
-       "a": 0.48,
+       "a": 0.47,
        "b": 14.62,
        "en": "A tug of war: the lung pulls in, the chest wall pulls out. Where they balance, the rope stops.",
        "he": "משיכת חבל: הריאה מושכת פנימה, דופן החזה החוצה. איפה שהם מתאזנים, החבל נעצר.",
@@ -2258,7 +2258,7 @@
       },
       {
        "a": 52.13,
-       "b": 104.27,
+       "b": 137.49,
        "en": "IN SCIENCE: balance = FRC (steepest curve) · VT ~500 mL · TLC 5–7 L · RV ~¼ · compliance ↑ emphysema, ↓ fibrosis · Laplace + surfactant · R ∝ 1/r⁴ · small airways < 20% (adult), ~½ (infant) → bronchiolitis.",
        "he": "במדע: נקודת האיזון = FRC (העקומה הכי תלולה) · VT ~500 מ\"ל · TLC 5–7 ל' · RV ~רבע · היענות ↑ באמפיזמה, ↓ בפיברוזיס · לפלס + סורפקטנט · R ∝ 1/r⁴ · דרכים קטנות פחות מ-20% במבוגר, ~חצי בתינוק ← ברונכיוליטיס.",
        "sci": true
@@ -2268,7 +2268,7 @@
     {
      "n": 4,
      "title": "הגשר · דיפוזיה",
-     "dur": 68.8,
+     "dur": 90.0,
      "v": {
       "en": "clips/t1115/c04_en.mp4",
       "he": "clips/t1115/c04_he.mp4"
@@ -2289,8 +2289,8 @@
        "sci": false
       },
       {
-       "a": 32.62,
-       "b": 68.31,
+       "a": 32.61,
+       "b": 89.52,
        "en": "IN SCIENCE: transit 0.75 s · equilibrium 0.25 s → ⅔ reserve · exercise unmasks a thick membrane · CO2 diffuses ×20 · anemia: SaO2 normal, content ↓.",
        "he": "במדע: זמן מעבר 0.75 שנ' · שיווי משקל 0.25 ← ⅔ רזרבה · מאמץ חושף קרום עבה · CO2 מתפזר פי 20 · אנמיה: סטורציה תקינה, תכולה נמוכה.",
        "sci": true
@@ -2300,14 +2300,14 @@
     {
      "n": 5,
      "title": "עוגת יום ההולדת · ספירומטריה",
-     "dur": 86.1,
+     "dur": 110.3,
      "v": {
       "en": "clips/t1115/c05_en.mp4",
       "he": "clips/t1115/c05_he.mp4"
      },
      "cues": [
       {
-       "a": 0.48,
+       "a": 0.47,
        "b": 11.98,
        "en": "Spirometry is a birthday cake: biggest breath, blow as hard and as long as you can.",
        "he": "ספירומטריה היא עוגת יום הולדת: שאיפה הכי גדולה, ונושפים הכי חזק והכי ארוך.",
@@ -2329,7 +2329,7 @@
       },
       {
        "a": 46.75,
-       "b": 85.65,
+       "b": 109.87,
        "en": "IN SCIENCE: FEV1 ≈ 80% · FEV1/FVC > 0.8 normal · low ratio = obstruction · low FVC + normal ratio → measure TLC before 'restriction' · > 12% after bronchodilator → asthma · normal spirometry + symptoms → exercise, then methacholine.",
        "he": "במדע: FEV1 ≈ 80% · FEV1/FVC מעל 0.8 תקין · יחס נמוך = חסימה · FVC נמוך + יחס תקין ← למדוד TLC לפני 'רסטריקציה' · מעל 12% אחרי מרחיב ← אסתמה · ספירומטריה תקינה + תסמינים ← מאמץ ואז מתכולין.",
        "sci": true
@@ -2339,14 +2339,14 @@
     {
      "n": 6,
      "title": "הבית · TLC ו-DLCO",
-     "dur": 96.6,
+     "dur": 111.6,
      "v": {
       "en": "clips/t1115/c06_en.mp4",
       "he": "clips/t1115/c06_he.mp4"
      },
      "cues": [
       {
-       "a": 0.47,
+       "a": 0.48,
        "b": 16.88,
        "en": "Some air never leaves. A messenger only meets people in the open rooms.",
        "he": "חלק מהאוויר אף פעם לא יוצא. שליח פוגש רק את מי שבחדרים הפתוחים.",
@@ -2361,14 +2361,14 @@
       },
       {
        "a": 28.41,
-       "b": 44.4,
+       "b": 44.41,
        "en": "To test the wall: a tracer that sticks to red cells. Hold 10 s – how much crossed = how good the wall is.",
        "he": "לבדיקת הקיר: חומר מסמן שנדבק לתאים האדומים. עוצרים 10 שניות – כמה עבר = כמה הקיר טוב.",
        "sci": false
       },
       {
-       "a": 45.15,
-       "b": 96.1,
+       "a": 45.16,
+       "b": 111.09,
        "en": "IN SCIENCE: spirometry can't see RV → no TLC · helium dilution misses trapped air · plethysmography (Boyle) counts all gas · DLCO: CO, 10 s hold → membrane · ↓ fibrosis, emphysema, vascular disease, anemia · desaturation on stepper → diffusion.",
        "he": "במדע: ספירומטר לא רואה RV ← אין TLC · דילול הליום מפספס אוויר כלוא · פלתיסמוגרפיה (בויל) סופרת הכל · DLCO: ‏CO, עצירה 10 שנ' ← הקרום · יורד בפיברוזיס, אמפיזמה, מחלת כלי דם, אנמיה · ירידה בסטורציה במדרגה ← דיפוזיה.",
        "sci": true
@@ -2378,14 +2378,14 @@
     {
      "n": 7,
      "title": "ארבע דלתות · היפוקסמיה וגובה",
-     "dur": 116.6,
+     "dur": 138.8,
      "v": {
       "en": "clips/t1115/c07_en.mp4",
       "he": "clips/t1115/c07_he.mp4"
      },
      "cues": [
       {
-       "a": 0.48,
+       "a": 0.47,
        "b": 14.16,
        "en": "Four ways O2 goes missing: 1. too few breaths (smoke piles up; O2 fixes it) · 2. a sticky bridge (worse on effort).",
        "he": "ארבע דרכים לאבד חמצן: 1. מעט נשימות (העשן מצטבר; חמצן מתקן) · 2. גשר דביק (גרוע במאמץ).",
@@ -2407,14 +2407,14 @@
       },
       {
        "a": 45.14,
-       "b": 103.08,
+       "b": 125.22,
        "en": "IN SCIENCE: hypoventilation (CO2 ↑; opioids, weak muscles; O2 fixes) · diffusion (exercise) · V/Q mismatch (most common; O2 fixes) · shunt (100% O2 won't) · PAO2 = 0.21×713 − PaCO2/0.8 ≈ 100 · 5,000 m: Pb 405 → ~28; 35% O2 → ~78.",
        "he": "במדע: היפוונטילציה (CO2 עולה; אופיאטים, שרירים; חמצן מתקן) · דיפוזיה (מאמץ) · חוסר התאמה V/Q (הכי שכיח; חמצן מתקן) · שאנט (גם 100% לא) · PAO2 = 0.21×713 − PaCO2/0.8 ≈ 100 · ב-5,000 מ': ‏405 ← ~28; עם 35% ← ~78.",
        "sci": true
       },
       {
-       "a": 104.03,
-       "b": 114.64,
+       "a": 126.17,
+       "b": 136.78,
        "en": "Find where the problem is – the numbers tell you the rest.",
        "he": "מוצאים איפה הבעיה – והמספרים מספרים את השאר.",
        "sci": false
