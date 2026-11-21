@@ -895,7 +895,7 @@
     {
      "n": 1,
      "title": "דלתות לבית · חתכים",
-     "dur": 98.8,
+     "dur": 116.3,
      "v": {
       "en": "clips/t1119t/c01_en.mp4",
       "he": "clips/t1119t/c01_he.mp4"
@@ -924,7 +924,7 @@
       },
       {
        "a": 56.16,
-       "b": 98.59,
+       "b": 116.1,
        "en": "IN SCIENCE: sites: chest wall · lungs + trachea · esophagus · pericardium · mediastinum · diaphragm · sympathetic chain · incisions: posterolateral thoracotomy (classic) · anterolateral · axillary · median sternotomy · clamshell (bilateral, lung Tx) · VATS (video) · RATS (robot).",
        "he": "במדע: אתרים: דופן החזה · ריאות וקנה · ושט · פריקרד · מיצר · סרעפת · שרשרת סימפתטית · חתכים: תורקוטומיה פוסטרו-לטרלית (קלאסי) · אנטרו-לטרלית · אקסילרית · סטרנוטומיה · clamshell (דו-צדדי, השתלה) · VATS (וידאו) · RATS (רובוט).",
        "sci": true
@@ -934,7 +934,7 @@
     {
      "n": 2,
      "title": "התחנות · דירוג בלוטות",
-     "dur": 75.9,
+     "dur": 93.3,
      "v": {
       "en": "clips/t1119t/c02_en.mp4",
       "he": "clips/t1119t/c02_he.mp4"
@@ -956,7 +956,7 @@
       },
       {
        "a": 35.95,
-       "b": 75.7,
+       "b": 93.16,
        "en": "IN SCIENCE: nodal staging by numbered thoracic lymph node stations · mediastinoscopy (cervical incision) · EBUS: ultrasound-guided transbronchial needle aspiration · survival ↓ with each clinical stage (8th edition IASLC TNM) · details: lung tumor lecture.",
        "he": "במדע: דירוג בלוטות לפי תחנות ממוספרות · מדיאסטינוסקופיה (חתך צווארי) · EBUS: שאיבה במחט דרך הסימפון בהנחיית אולטרסאונד · הישרדות יורדת עם כל שלב (מהדורה 8, IASLC TNM) · פירוט: הרצאת גידולי ריאה.",
        "sci": true
@@ -966,7 +966,7 @@
     {
      "n": 3,
      "title": "מנוע חדש · מי מושתל",
-     "dur": 126.1,
+     "dur": 136.3,
      "v": {
       "en": "clips/t1119t/c03_en.mp4",
       "he": "clips/t1119t/c03_he.mp4"
@@ -987,7 +987,7 @@
        "sci": false
       },
       {
-       "a": 46.26,
+       "a": 46.27,
        "b": 64.31,
        "en": "Excluded: cancer < 5 years · smokers · prednisone > 20 mg/day · age ~75 (?) · ventilator does NOT exclude.",
        "he": "לא נכנסים: סרטן ב-5 השנים האחרונות · מעשנים · פרדניזון מעל 20 מ\"ג ליום · גיל ~75 (?) · הנשמה מלאכותית לא שוללת.",
@@ -995,7 +995,7 @@
       },
       {
        "a": 64.66,
-       "b": 125.9,
+       "b": 136.16,
        "en": "IN SCIENCE: indications: pulmonary fibrosis · septic (CF) · pulmonary vascular (highest waiting-list death) · obstructive · recipient: severe disease, therapy failed, ADL limited, < 24 mo, no significant IHD, ambulatory + rehab, nutrition, psychosocial support · excluded: malignancy < 5 y, smoking, prednisone > 20 mg/d · age > 75 ? · ventilator ≠ exclusion.",
        "he": "במדע: אינדיקציות: פיברוזיס · ספטית (CF) · כלי דם ריאתיים (תמותה גבוהה ברשימה) · חסימתית · מקבל: מחלה קשה, טיפול נכשל, מגבלה ב-ADL, פחות מ-24 חודשים, בלי IHD משמעותי, הולך ומסוגל לשיקום, תזונה, תמיכה · שלילה: ממאירות ב-5 שנים, עישון, פרדניזון מעל 20 מ\"ג · גיל מעל 75 ? · הנשמה ≠ שלילה.",
        "sci": true
@@ -1005,7 +1005,7 @@
     {
      "n": 4,
      "title": "המנוע החלופי · תורם ו-EVLP",
-     "dur": 98.9,
+     "dur": 120.5,
      "v": {
       "en": "clips/t1119t/c04_en.mp4",
       "he": "clips/t1119t/c04_he.mp4"
@@ -1033,8 +1033,8 @@
        "sci": false
       },
       {
-       "a": 50.02,
-       "b": 98.77,
+       "a": 50.03,
+       "b": 120.36,
        "en": "IN SCIENCE: donor: < 75 y · no lung disease · normal serial CXR · PaO2 > 300 mmHg (FiO2 1.0, PEEP 5) · normal bronchoscopy · HBV + HIV negative · ABO + size match · EVLP = ex vivo lung perfusion: assess ± recondition marginal lungs.",
        "he": "במדע: תורם: מתחת ל-75 · בלי מחלת ריאה · צילומי חזה סדרתיים תקינים · PaO2 מעל 300 (FiO2 1.0, PEEP 5) · ברונכוסקופיה תקינה · HBV ו-HIV שליליים · התאמת ABO וגודל · EVLP = פרפוזיה מחוץ לגוף: הערכה ולפעמים שיקום ריאות גבוליות.",
        "sci": true
@@ -1044,7 +1044,7 @@
     {
      "n": 5,
      "title": "צוות הפיט · השתלות בישראל",
-     "dur": 96.5,
+     "dur": 120.3,
      "v": {
       "en": "clips/t1119t/c05_en.mp4",
       "he": "clips/t1119t/c05_he.mp4"
@@ -1066,14 +1066,14 @@
       },
       {
        "a": 38.58,
-       "b": 82.89,
+       "b": 106.75,
        "en": "IN SCIENCE: teamwork: pulmonologist · anesthetist · ICU · coordinator · thoracic surgeon · physiotherapist · Israel: 1992 single lung · 1993 heart-lung · 2000 program · ~800 by 2020 · post-COVID: awake VV-ECMO as bridge to bilateral Tx (up to 190 days).",
        "he": "במדע: עבודת צוות: רופא ריאות · מרדים · טיפול נמרץ · מתאם · מנתח חזה · פיזיותרפיסט · ישראל: 1992 ריאה בודדת · 1993 לב-ריאה · 2000 תוכנית · ~800 עד 2020 · אחרי קורונה: ECMO ורידי-ורידי בהכרה כגשר להשתלה דו-צדדית (עד 190 יום).",
        "sci": true
       },
       {
-       "a": 83.84,
-       "b": 94.47,
+       "a": 107.7,
+       "b": 118.33,
        "en": "Right door · right stations · right engine · right crew.",
        "he": "הדלת הנכונה · התחנות הנכונות · המנוע הנכון · הצוות הנכון.",
        "sci": false
