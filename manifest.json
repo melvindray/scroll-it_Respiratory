@@ -1302,300 +1302,6 @@
    ]
   },
   {
-   "id": "t1117b",
-   "day": "17/11/2026",
-   "title": "BPD – מחלת ריאות כרונית של פגות – בסיפורים",
-   "title_en": "BPD, chronic lung disease of prematurity, told as stories",
-   "course": "מערכת הנשימה",
-   "poster": "clips/t1117b/poster.jpg",
-   "clips": [
-    {
-     "n": 1,
-     "title": "אתר הבנייה · התפתחות הריאה",
-     "dur": 121.0,
-     "v": {
-      "en": "clips/t1117b/c01_en.mp4",
-      "he": "clips/t1117b/c01_he.mp4"
-     },
-     "cues": [
-      {
-       "a": 1.0,
-       "b": 11.94,
-       "en": "BPD: a baby moves into a house still being built.",
-       "he": "BPD: תינוק עובר לגור בבית שעוד בבנייה.",
-       "sci": false
-      },
-      {
-       "a": 12.89,
-       "b": 34.01,
-       "en": "The lung is built in stages: first only pipes; then the first rooms + a soap factory → viability ~22–24 weeks.",
-       "he": "הריאה נבנית בשלבים: קודם רק צינורות; ואז החדרים הראשונים + מפעל סבון ← חיות סביב שבוע 22–24.",
-       "sci": false
-      },
-      {
-       "a": 34.36,
-       "b": 51.98,
-       "en": "Walls thin out, more soap; from week 36 rooms multiply: 50 million at birth → 300 million in adults.",
-       "he": "הקירות מתדקקים, יותר סבון; משבוע 36 החדרים מתרבים: 50 מיליון בלידה ← 300 מיליון במבוגר.",
-       "sci": false
-      },
-      {
-       "a": 52.33,
-       "b": 64.14,
-       "en": "Born at 27+3: thick walls, few rooms, little soap, a soft frame with weak muscles.",
-       "he": "נולדה ב-27+3: קירות עבים, מעט חדרים, מעט סבון, שלד רך ושרירים חלשים.",
-       "sci": false
-      },
-      {
-       "a": 64.89,
-       "b": 120.53,
-       "en": "IN SCIENCE: embryonic 4–7 wk · pseudoglandular 5–17 (no exchange) · canalicular 16–26 (acinus, type I/II, surfactant → viability) · saccular 24–38 · alveolar 36 wk → 2–3 y · ~50 M alveoli at term → ~300 M adult · 27 wk: thick septa, immature surfactant, soft chest wall.",
-       "he": "במדע: אמבריונלי 4–7 שבועות · פסאודוגלנדולרי 5–17 (אין שחלוף) · קנליקולרי 16–26 (אצינוס, תאי I/II, סורפקטנט ← חיות) · סקולרי 24–38 · אלוואולרי משבוע 36 עד גיל 2–3 · ~50 מיליון בלידה ← ~300 מיליון · שבוע 27: מחיצות עבות, סורפקטנט לא בשל, בית חזה רך.",
-       "sci": true
-      }
-     ]
-    },
-    {
-     "n": 2,
-     "title": "בועות סבון · סורפקטנט ו-RDS",
-     "dur": 104.8,
-     "v": {
-      "en": "clips/t1117b/c02_en.mp4",
-      "he": "clips/t1117b/c02_he.mp4"
-     },
-     "cues": [
-      {
-       "a": 0.47,
-       "b": 16.72,
-       "en": "Each room is a soap bubble. No soap (surfactant) → small bubbles pop → the lung shrinks, gets stiff, blood passes empty rooms.",
-       "he": "כל חדר הוא בועת סבון. בלי סבון (סורפקטנט) ← בועות קטנות מתפוצצות ← הריאה מתכווצת, נוקשה, הדם עובר בחדרים ריקים.",
-       "sci": false
-      },
-      {
-       "a": 17.07,
-       "b": 33.67,
-       "en": "First hours: fast breathing, grunting (self-made pressure), retractions, nasal flaring, cyanosis. X-ray: frosted glass.",
-       "he": "שעות ראשונות: נשימה מהירה, אנקה (לחץ עצמי), רטרקציות, הרחבת נחיריים, כחלון. צילום: זכוכית חלבית.",
-       "sci": false
-      },
-      {
-       "a": 34.02,
-       "b": 46.16,
-       "en": "Fix: steroids to the mother, gentle pressure (CPAP) from the delivery room, surfactant into the lungs – as gently as possible.",
-       "he": "תיקון: סטרואידים לאם, לחץ עדין (CPAP) מחדר הלידה, סורפקטנט לתוך הריאות – בעדינות.",
-       "sci": false
-      },
-      {
-       "a": 46.91,
-       "b": 104.33,
-       "en": "IN SCIENCE: surfactant from type II cells (~90% lipid, 10% SP-A–D) · Laplace: small alveoli collapse · RDS: atelectasis, ↓ FRC + compliance, V/Q mismatch, shunt → hypoxemia, hypercapnia, acidosis · grunting = self-PEEP · CXR: ground glass, air bronchograms, low volume · antenatal steroids · CPAP · early surfactant · non-invasive.",
-       "he": "במדע: סורפקטנט מתאי type II ‏(~90% שומן, 10% חלבונים) · לפלס: נאדיות קטנות קורסות · RDS: אטלקטזיס, ↓ FRC והיענות, V/Q, שאנט ← היפוקסמיה, היפרקפניה, חמצת · אנקה = PEEP עצמי · צילום: זכוכית חלבית, air bronchograms, נפח נמוך · סטרואידים לפני לידה · CPAP · סורפקטנט מוקדם · לא פולשני.",
-       "sci": true
-      }
-     ]
-    },
-    {
-     "n": 3,
-     "title": "ישן מול חדש",
-     "dur": 63.8,
-     "v": {
-      "en": "clips/t1117b/c03_en.mp4",
-      "he": "clips/t1117b/c03_he.mp4"
-     },
-     "cues": [
-      {
-       "a": 0.47,
-       "b": 22.07,
-       "en": "Old BPD: a finished house wrecked by storms (pressure, O2 → scars). New BPD: construction stopped – few big rooms, bad blood pipes.",
-       "he": "BPD ישן: בית גמור שנהרס בסערות (לחץ, חמצן ← צלקות). BPD חדש: הבנייה נעצרה – מעט חדרים גדולים, צנרת דם פגומה.",
-       "sci": false
-      },
-      {
-       "a": 22.82,
-       "b": 63.32,
-       "en": "IN SCIENCE: old BPD (Northway 1967): bigger preemies, aggressive ventilation + O2 → airway injury, metaplasia, fibrosis · new BPD (24–28 wk, < 1,000 g): arrested alveolar + vascular development → fewer, larger alveoli (simplification), little fibrosis, dysplastic vessels.",
-       "he": "במדע: BPD ישן (נורת'וויי 1967): פגים גדולים, הנשמה אגרסיבית + חמצן ← פגיעה בדרכי אוויר, מטפלזיה, פיברוזיס · BPD חדש (24–28 שבועות, מתחת ל-1,000 גרם): עצירה בהתפתחות נאדיות וכלי דם ← מעט נאדיות גדולות (simplification), מעט פיברוזיס, כלי דם דיספלסטיים.",
-       "sci": true
-      }
-     ]
-    },
-    {
-     "n": 4,
-     "title": "המכות · פתוגנזה",
-     "dur": 94.6,
-     "v": {
-      "en": "clips/t1117b/c04_en.mp4",
-      "he": "clips/t1117b/c04_he.mp4"
-     },
-     "cues": [
-      {
-       "a": 0.48,
-       "b": 20.83,
-       "en": "Hits before birth: womb infection, weak placenta, smoking. After: the ventilator stretches, too much O2 rusts, infection, too much fluid, too little food.",
-       "he": "מכות לפני הלידה: זיהום ברחם, שליה חלשה, עישון. אחרי: המנשם מותח, חמצן מחליד, זיהום, עודף נוזלים, מעט אוכל.",
-       "sci": false
-      },
-      {
-       "a": 21.18,
-       "b": 41.1,
-       "en": "An open back door (PDA) floods the lung. Result: few rooms, thick airway muscle, soft airways (malacia), tight vessels → right heart strain.",
-       "he": "דלת אחורית פתוחה (PDA) מציפה את הריאה. התוצאה: מעט חדרים, שריר עבה סביב דרכי האוויר, דרכי אוויר רכות (מלציה), כלי דם צרים ← עומס על הלב הימני.",
-       "sci": false
-      },
-      {
-       "a": 41.85,
-       "b": 94.12,
-       "en": "IN SCIENCE: biggest risks: low GA + weight · male sex · antenatal: chorioamnionitis, placental insufficiency/IUGR, smoking, IL-1β, IL-6, TNF-α · postnatal: volutrauma, atelectrauma, O2 free radicals, sepsis, PDA, fluid overload, poor nutrition · tissue: few large alveoli, smooth-muscle hypertrophy, malacia, pulmonary hypertension, viral vulnerability.",
-       "he": "במדע: הסיכון החזק: גיל הריון ומשקל נמוכים · מין זכר · לפני לידה: כוריואמניוניטיס, אי-ספיקת שליה/IUGR, עישון, IL-1β, ‏IL-6, ‏TNF-α · אחרי: ווליוטראומה, אטלקטראומה, רדיקלים חופשיים, ספסיס, PDA, עודף נוזלים, תת-תזונה · ברקמה: מעט נאדיות גדולות, היפרטרופיה של שריר חלק, מלציה, יל\"ד ריאתי, פגיעות לוירוסים.",
-       "sci": true
-      }
-     ]
-    },
-    {
-     "n": 5,
-     "title": "הסרגל · הגדרות",
-     "dur": 94.4,
-     "v": {
-      "en": "clips/t1117b/c05_en.mp4",
-      "he": "clips/t1117b/c05_he.mp4"
-     },
-     "cues": [
-      {
-       "a": 0.48,
-       "b": 23.29,
-       "en": "Checked at 36 weeks corrected age. Old ruler: how much O2. Newest ruler: only HOW it gets in – nasal cannula · more flow / pressure mask · tube.",
-       "he": "בודקים בגיל מתוקן 36 שבועות. הסרגל הישן: כמה חמצן. החדש: רק איך הוא נכנס – משקפיים · זרימה גבוהה / מסכת לחץ · טובוס.",
-       "sci": false
-      },
-      {
-       "a": 23.64,
-       "b": 34.47,
-       "en": "The more effort needed to oxygenate, the sicker the lung: not how much O2, but how you get it.",
-       "he": "ככל שצריך יותר מאמץ לחמצן, הריאה חולה יותר: לא כמה חמצן, אלא איך מקבלים אותו.",
-       "sci": false
-      },
-      {
-       "a": 35.22,
-       "b": 93.95,
-       "en": "IN SCIENCE: assess at 36 wk PMA · NIH 2001: O2 ≥ 28 days → mild (room air), moderate (< 30%), severe (≥ 30% or positive pressure) · NICHD 2018: + imaging, 3 days, grades I–III + IIIA (death) · Jensen 2019: support type only: ≤ 2 L/min → 1 · > 2 L / NIPPV → 2 · invasive → 3 · best predictor · always state definition + age.",
-       "he": "במדע: הערכה בגיל 36 שבועות PMA · NIH 2001: חמצן ≥ 28 ימים ← קל (אוויר חדר), בינוני (פחות מ-30%), קשה (≥ 30% או לחץ חיובי) · NICHD 2018: + דימות, 3 ימים, דרגות I–III + IIIA ‏(מוות) · ג'נסן 2019: רק סוג התמיכה: עד 2 ל' ← 1 · מעל 2 ל' / NIPPV ← 2 · פולשני ← 3 · מנבא הכי טוב · תמיד לציין הגדרה וגיל.",
-       "sci": true
-      }
-     ]
-    },
-    {
-     "n": 6,
-     "title": "להגן ולגדל · טיפול",
-     "dur": 123.8,
-     "v": {
-      "en": "clips/t1117b/c06_en.mp4",
-      "he": "clips/t1117b/c06_he.mp4"
-     },
-     "cues": [
-      {
-       "a": 0.47,
-       "b": 16.0,
-       "en": "No cure: protect the lung and let it grow. Gentle breaths, some extra CO2 allowed, just enough O2, not too much water.",
-       "he": "אין תרופה: מגינים על הריאה ונותנים לה לגדול. נשימות עדינות, קצת CO2 מותר, חמצן במידה, לא יותר מדי מים.",
-       "sci": false
-      },
-      {
-       "a": 16.35,
-       "b": 38.43,
-       "en": "Diuretics help briefly (kidney stones). Inhalers only if they help this child. Short low-dose steroids (DART) to wean – early high doses harm the brain.",
-       "he": "משתנים עוזרים לזמן קצר (אבנים בכליה). משאפים רק אם עוזרים לילד. סטרואידים קצרים במינון נמוך (DART) לגמילה – מוקדם וגבוה פוגע במוח.",
-       "sci": false
-      },
-      {
-       "a": 38.78,
-       "b": 52.0,
-       "en": "Close the PDA: paracetamol → ibuprofen (2 courses) → catheter. Plenty of calories + protein: the lung grows with the body.",
-       "he": "סוגרים את ה-PDA: אקמול ← נורופן (2 קורסים) ← צנתור. הרבה קלוריות וחלבון: הריאה גדלה עם הגוף.",
-       "sci": false
-      },
-      {
-       "a": 52.75,
-       "b": 123.32,
-       "en": "IN SCIENCE: non-invasive first · volume-targeted ventilation + permissive hypercapnia · SpO2 90–95% (92–95% with PH) · fluid restriction · furosemide (transient) · thiazide + spironolactone · side effects: electrolytes, nephrocalcinosis, hearing, bone · bronchodilators for wheeze · ICS not routine · DART: 10 days low-dose dexamethasone (0.89 mg/kg) · PDA: paracetamol / ibuprofen ×2 → catheter · calories + protein · azithromycin, vitamin A.",
-       "he": "במדע: לא פולשני קודם · הנשמה מכוונת נפח + היפרקפניה מותרת · סטורציה 90–95% (92–95% עם יל\"ד ריאתי) · הגבלת נוזלים · פוסיד (זמני) · תיאזיד + ספירונולקטון · תופעות: מלחים, נפרוקלצינוזיס, שמיעה, עצם · מרחיבים לצפצופים · ICS לא שגרתי · DART: ‏10 ימים דקסמתזון נמוך (0.89 מ\"ג/ק\"ג) · PDA: אקמול / נורופן ×2 ← צנתור · קלוריות וחלבון · אזיתרומיצין, ויטמין A.",
-       "sci": true
-      }
-     ]
-    },
-    {
-     "n": 7,
-     "title": "מניעה",
-     "dur": 97.4,
-     "v": {
-      "en": "clips/t1117b/c07_en.mp4",
-      "he": "clips/t1117b/c07_he.mp4"
-     },
-     "cues": [
-      {
-       "a": 0.48,
-       "b": 16.74,
-       "en": "Best: don't be born early. Otherwise: steroids + magnesium to the mother, CPAP from the first breath, surfactant via a thin tube (LISA).",
-       "he": "הכי טוב: לא להיוולד מוקדם. אחרת: סטרואידים + מגנזיום לאם, CPAP מהנשימה הראשונה, סורפקטנט בצנתר דק (LISA).",
-       "sci": false
-      },
-      {
-       "a": 17.09,
-       "b": 37.62,
-       "en": "In the NICU: caffeine – the one drug proven to prevent some BPD. At home: one RSV antibody shot, vaccines, flu for parents, no smoke, an echo for pulmonary hypertension.",
-       "he": "בפגייה: קפאין – התרופה היחידה שהוכחה כמונעת מעט BPD. בבית: זריקת נוגדן ל-RSV, חיסונים, שפעת להורים, בלי עשן, אקו ליל\"ד ריאתי.",
-       "sci": false
-      },
-      {
-       "a": 38.37,
-       "b": 96.88,
-       "en": "IN SCIENCE: prevent preterm birth · antenatal steroids (↓ RDS, mortality, IVH) · Mg²⁺ neuroprotection · CPAP from delivery room · LISA / MIST · NICU: volume-targeted ventilation · caffeine (CAP trial: ↓ BPD) · vitamin A · avoid excess O2 + fluid · infections · home: O2, RSV mAb (nirsevimab, t½ ~150 d), vaccines, no smoke, echo at 36 wk.",
-       "he": "במדע: מניעת לידה מוקדמת · סטרואידים (↓ RDS, תמותה, IVH) · מגנזיום להגנה נוירולוגית · CPAP מחדר הלידה · LISA / MIST · בפגייה: הנשמה מכוונת נפח · קפאין (CAP: ↓ BPD) · ויטמין A · בלי עודף חמצן ונוזלים · מניעת זיהומים · בבית: חמצן, נוגדן ל-RSV (נירסבימאב, מחצית חיים ~150 יום), חיסונים, בלי עשן, אקו בשבוע 36.",
-       "sci": true
-      }
-     ]
-    },
-    {
-     "n": 8,
-     "title": "הגבעה · פרוגנוזה",
-     "dur": 106.7,
-     "v": {
-      "en": "clips/t1117b/c08_en.mp4",
-      "he": "clips/t1117b/c08_he.mp4"
-     },
-     "cues": [
-      {
-       "a": 0.48,
-       "b": 18.8,
-       "en": "Lung function is a walk down a hill: everyone slides yearly. BPD starts lower → may reach the bottom early (early COPD).",
-       "he": "תפקוד הריאה הוא הליכה במורד גבעה: כולם יורדים קצת כל שנה. BPD מתחיל נמוך יותר ← עלול להגיע לתחתית מוקדם (COPD מוקדם).",
-       "sci": false
-      },
-      {
-       "a": 19.15,
-       "b": 42.05,
-       "en": "First 2 years: more admissions (RSV), wheeze, possible pulmonary hypertension, slower development. Most do well – our girl: off O2 at 1, first grade without daily inhalers.",
-       "he": "שנתיים ראשונות: יותר אשפוזים (RSV), צפצופים, אולי יל\"ד ריאתי, התפתחות איטית. רובם מסתדרים – הילדה שלנו: בלי חמצן בגיל שנה, כיתה א' בלי משאפים קבועים.",
-       "sci": false
-      },
-      {
-       "a": 42.8,
-       "b": 91.55,
-       "en": "IN SCIENCE: admissions in first 2 y (viral) · wheeze · ↓ lung function into adulthood · trajectory hypothesis → early COPD · pulmonary hypertension = strong negative factor · neurodevelopment: CP, cognitive delay (by severity) · Jensen 3 predicts morbidity + death · multidisciplinary follow-up for years.",
-       "he": "במדע: אשפוזים בשנתיים הראשונות (ויראליים) · צפצופים · ↓ תפקוד ריאה עד הבגרות · השערת המסלול ← COPD מוקדם · יל\"ד ריאתי = גורם פרוגנוסטי שלילי · נוירו-התפתחות: CP, עיכוב קוגניטיבי (לפי חומרה) · ג'נסן 3 מנבא תחלואה ותמותה · מעקב רב-תחומי לשנים.",
-       "sci": true
-      },
-      {
-       "a": 92.5,
-       "b": 104.71,
-       "en": "Not just a damaged lung – a lung that stopped being built. Protect it, feed it, let it grow.",
-       "he": "לא רק ריאה פגועה – ריאה שהפסיקה להיבנות. מגינים, מזינים, ונותנים לגדול.",
-       "sci": false
-      }
-     ]
-    }
-   ]
-  },
-  {
    "id": "t1117p",
    "day": "17/11/2026",
    "title": "דלקות ריאה בילדים – בסיפורים",
@@ -1826,6 +1532,300 @@
        "b": 90.66,
        "en": "Most of it is viral – and most children go home.",
        "he": "רובה ויראלית – ורוב הילדים הולכים הביתה.",
+       "sci": false
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "t1117b",
+   "day": "17/11/2026",
+   "title": "BPD – מחלת ריאות כרונית של פגות – בסיפורים",
+   "title_en": "BPD, chronic lung disease of prematurity, told as stories",
+   "course": "מערכת הנשימה",
+   "poster": "clips/t1117b/poster.jpg",
+   "clips": [
+    {
+     "n": 1,
+     "title": "אתר הבנייה · התפתחות הריאה",
+     "dur": 146.8,
+     "v": {
+      "en": "clips/t1117b/c01_en.mp4",
+      "he": "clips/t1117b/c01_he.mp4"
+     },
+     "cues": [
+      {
+       "a": 1.0,
+       "b": 11.94,
+       "en": "BPD: a baby moves into a house still being built.",
+       "he": "BPD: תינוק עובר לגור בבית שעוד בבנייה.",
+       "sci": false
+      },
+      {
+       "a": 12.89,
+       "b": 34.01,
+       "en": "The lung is built in stages: first only pipes; then the first rooms + a soap factory → viability ~22–24 weeks.",
+       "he": "הריאה נבנית בשלבים: קודם רק צינורות; ואז החדרים הראשונים + מפעל סבון ← חיות סביב שבוע 22–24.",
+       "sci": false
+      },
+      {
+       "a": 34.36,
+       "b": 51.98,
+       "en": "Walls thin out, more soap; from week 36 rooms multiply: 50 million at birth → 300 million in adults.",
+       "he": "הקירות מתדקקים, יותר סבון; משבוע 36 החדרים מתרבים: 50 מיליון בלידה ← 300 מיליון במבוגר.",
+       "sci": false
+      },
+      {
+       "a": 52.33,
+       "b": 64.14,
+       "en": "Born at 27+3: thick walls, few rooms, little soap, a soft frame with weak muscles.",
+       "he": "נולדה ב-27+3: קירות עבים, מעט חדרים, מעט סבון, שלד רך ושרירים חלשים.",
+       "sci": false
+      },
+      {
+       "a": 64.89,
+       "b": 146.3,
+       "en": "IN SCIENCE: embryonic 4–7 wk · pseudoglandular 5–17 (no exchange) · canalicular 16–26 (acinus, type I/II, surfactant → viability) · saccular 24–38 · alveolar 36 wk → 2–3 y · ~50 M alveoli at term → ~300 M adult · 27 wk: thick septa, immature surfactant, soft chest wall.",
+       "he": "במדע: אמבריונלי 4–7 שבועות · פסאודוגלנדולרי 5–17 (אין שחלוף) · קנליקולרי 16–26 (אצינוס, תאי I/II, סורפקטנט ← חיות) · סקולרי 24–38 · אלוואולרי משבוע 36 עד גיל 2–3 · ~50 מיליון בלידה ← ~300 מיליון · שבוע 27: מחיצות עבות, סורפקטנט לא בשל, בית חזה רך.",
+       "sci": true
+      }
+     ]
+    },
+    {
+     "n": 2,
+     "title": "בועות סבון · סורפקטנט ו-RDS",
+     "dur": 130.0,
+     "v": {
+      "en": "clips/t1117b/c02_en.mp4",
+      "he": "clips/t1117b/c02_he.mp4"
+     },
+     "cues": [
+      {
+       "a": 0.48,
+       "b": 16.72,
+       "en": "Each room is a soap bubble. No soap (surfactant) → small bubbles pop → the lung shrinks, gets stiff, blood passes empty rooms.",
+       "he": "כל חדר הוא בועת סבון. בלי סבון (סורפקטנט) ← בועות קטנות מתפוצצות ← הריאה מתכווצת, נוקשה, הדם עובר בחדרים ריקים.",
+       "sci": false
+      },
+      {
+       "a": 17.07,
+       "b": 33.67,
+       "en": "First hours: fast breathing, grunting (self-made pressure), retractions, nasal flaring, cyanosis. X-ray: frosted glass.",
+       "he": "שעות ראשונות: נשימה מהירה, אנקה (לחץ עצמי), רטרקציות, הרחבת נחיריים, כחלון. צילום: זכוכית חלבית.",
+       "sci": false
+      },
+      {
+       "a": 34.02,
+       "b": 46.16,
+       "en": "Fix: steroids to the mother, gentle pressure (CPAP) from the delivery room, surfactant into the lungs – as gently as possible.",
+       "he": "תיקון: סטרואידים לאם, לחץ עדין (CPAP) מחדר הלידה, סורפקטנט לתוך הריאות – בעדינות.",
+       "sci": false
+      },
+      {
+       "a": 46.91,
+       "b": 129.56,
+       "en": "IN SCIENCE: surfactant from type II cells (~90% lipid, 10% SP-A–D) · Laplace: small alveoli collapse · RDS: atelectasis, ↓ FRC + compliance, V/Q mismatch, shunt → hypoxemia, hypercapnia, acidosis · grunting = self-PEEP · CXR: ground glass, air bronchograms, low volume · antenatal steroids · CPAP · early surfactant · non-invasive.",
+       "he": "במדע: סורפקטנט מתאי type II ‏(~90% שומן, 10% חלבונים) · לפלס: נאדיות קטנות קורסות · RDS: אטלקטזיס, ↓ FRC והיענות, V/Q, שאנט ← היפוקסמיה, היפרקפניה, חמצת · אנקה = PEEP עצמי · צילום: זכוכית חלבית, air bronchograms, נפח נמוך · סטרואידים לפני לידה · CPAP · סורפקטנט מוקדם · לא פולשני.",
+       "sci": true
+      }
+     ]
+    },
+    {
+     "n": 3,
+     "title": "ישן מול חדש",
+     "dur": 90.9,
+     "v": {
+      "en": "clips/t1117b/c03_en.mp4",
+      "he": "clips/t1117b/c03_he.mp4"
+     },
+     "cues": [
+      {
+       "a": 0.48,
+       "b": 22.07,
+       "en": "Old BPD: a finished house wrecked by storms (pressure, O2 → scars). New BPD: construction stopped – few big rooms, bad blood pipes.",
+       "he": "BPD ישן: בית גמור שנהרס בסערות (לחץ, חמצן ← צלקות). BPD חדש: הבנייה נעצרה – מעט חדרים גדולים, צנרת דם פגומה.",
+       "sci": false
+      },
+      {
+       "a": 22.82,
+       "b": 90.47,
+       "en": "IN SCIENCE: old BPD (Northway 1967): bigger preemies, aggressive ventilation + O2 → airway injury, metaplasia, fibrosis · new BPD (24–28 wk, < 1,000 g): arrested alveolar + vascular development → fewer, larger alveoli (simplification), little fibrosis, dysplastic vessels.",
+       "he": "במדע: BPD ישן (נורת'וויי 1967): פגים גדולים, הנשמה אגרסיבית + חמצן ← פגיעה בדרכי אוויר, מטפלזיה, פיברוזיס · BPD חדש (24–28 שבועות, מתחת ל-1,000 גרם): עצירה בהתפתחות נאדיות וכלי דם ← מעט נאדיות גדולות (simplification), מעט פיברוזיס, כלי דם דיספלסטיים.",
+       "sci": true
+      }
+     ]
+    },
+    {
+     "n": 4,
+     "title": "המכות · פתוגנזה",
+     "dur": 115.1,
+     "v": {
+      "en": "clips/t1117b/c04_en.mp4",
+      "he": "clips/t1117b/c04_he.mp4"
+     },
+     "cues": [
+      {
+       "a": 0.48,
+       "b": 20.82,
+       "en": "Hits before birth: womb infection, weak placenta, smoking. After: the ventilator stretches, too much O2 rusts, infection, too much fluid, too little food.",
+       "he": "מכות לפני הלידה: זיהום ברחם, שליה חלשה, עישון. אחרי: המנשם מותח, חמצן מחליד, זיהום, עודף נוזלים, מעט אוכל.",
+       "sci": false
+      },
+      {
+       "a": 21.18,
+       "b": 41.1,
+       "en": "An open back door (PDA) floods the lung. Result: few rooms, thick airway muscle, soft airways (malacia), tight vessels → right heart strain.",
+       "he": "דלת אחורית פתוחה (PDA) מציפה את הריאה. התוצאה: מעט חדרים, שריר עבה סביב דרכי האוויר, דרכי אוויר רכות (מלציה), כלי דם צרים ← עומס על הלב הימני.",
+       "sci": false
+      },
+      {
+       "a": 41.85,
+       "b": 114.62,
+       "en": "IN SCIENCE: biggest risks: low GA + weight · male sex · antenatal: chorioamnionitis, placental insufficiency/IUGR, smoking, IL-1β, IL-6, TNF-α · postnatal: volutrauma, atelectrauma, O2 free radicals, sepsis, PDA, fluid overload, poor nutrition · tissue: few large alveoli, smooth-muscle hypertrophy, malacia, pulmonary hypertension, viral vulnerability.",
+       "he": "במדע: הסיכון החזק: גיל הריון ומשקל נמוכים · מין זכר · לפני לידה: כוריואמניוניטיס, אי-ספיקת שליה/IUGR, עישון, IL-1β, ‏IL-6, ‏TNF-α · אחרי: ווליוטראומה, אטלקטראומה, רדיקלים חופשיים, ספסיס, PDA, עודף נוזלים, תת-תזונה · ברקמה: מעט נאדיות גדולות, היפרטרופיה של שריר חלק, מלציה, יל\"ד ריאתי, פגיעות לוירוסים.",
+       "sci": true
+      }
+     ]
+    },
+    {
+     "n": 5,
+     "title": "הסרגל · הגדרות",
+     "dur": 124.1,
+     "v": {
+      "en": "clips/t1117b/c05_en.mp4",
+      "he": "clips/t1117b/c05_he.mp4"
+     },
+     "cues": [
+      {
+       "a": 0.47,
+       "b": 23.29,
+       "en": "Checked at 36 weeks corrected age. Old ruler: how much O2. Newest ruler: only HOW it gets in – nasal cannula · more flow / pressure mask · tube.",
+       "he": "בודקים בגיל מתוקן 36 שבועות. הסרגל הישן: כמה חמצן. החדש: רק איך הוא נכנס – משקפיים · זרימה גבוהה / מסכת לחץ · טובוס.",
+       "sci": false
+      },
+      {
+       "a": 23.64,
+       "b": 34.47,
+       "en": "The more effort needed to oxygenate, the sicker the lung: not how much O2, but how you get it.",
+       "he": "ככל שצריך יותר מאמץ לחמצן, הריאה חולה יותר: לא כמה חמצן, אלא איך מקבלים אותו.",
+       "sci": false
+      },
+      {
+       "a": 35.22,
+       "b": 123.66,
+       "en": "IN SCIENCE: assess at 36 wk PMA · NIH 2001: O2 ≥ 28 days → mild (room air), moderate (< 30%), severe (≥ 30% or positive pressure) · NICHD 2018: + imaging, 3 days, grades I–III + IIIA (death) · Jensen 2019: support type only: ≤ 2 L/min → 1 · > 2 L / NIPPV → 2 · invasive → 3 · best predictor · always state definition + age.",
+       "he": "במדע: הערכה בגיל 36 שבועות PMA · NIH 2001: חמצן ≥ 28 ימים ← קל (אוויר חדר), בינוני (פחות מ-30%), קשה (≥ 30% או לחץ חיובי) · NICHD 2018: + דימות, 3 ימים, דרגות I–III + IIIA ‏(מוות) · ג'נסן 2019: רק סוג התמיכה: עד 2 ל' ← 1 · מעל 2 ל' / NIPPV ← 2 · פולשני ← 3 · מנבא הכי טוב · תמיד לציין הגדרה וגיל.",
+       "sci": true
+      }
+     ]
+    },
+    {
+     "n": 6,
+     "title": "להגן ולגדל · טיפול",
+     "dur": 137.4,
+     "v": {
+      "en": "clips/t1117b/c06_en.mp4",
+      "he": "clips/t1117b/c06_he.mp4"
+     },
+     "cues": [
+      {
+       "a": 0.47,
+       "b": 16.0,
+       "en": "No cure: protect the lung and let it grow. Gentle breaths, some extra CO2 allowed, just enough O2, not too much water.",
+       "he": "אין תרופה: מגינים על הריאה ונותנים לה לגדול. נשימות עדינות, קצת CO2 מותר, חמצן במידה, לא יותר מדי מים.",
+       "sci": false
+      },
+      {
+       "a": 16.35,
+       "b": 38.43,
+       "en": "Diuretics help briefly (kidney stones). Inhalers only if they help this child. Short low-dose steroids (DART) to wean – early high doses harm the brain.",
+       "he": "משתנים עוזרים לזמן קצר (אבנים בכליה). משאפים רק אם עוזרים לילד. סטרואידים קצרים במינון נמוך (DART) לגמילה – מוקדם וגבוה פוגע במוח.",
+       "sci": false
+      },
+      {
+       "a": 38.78,
+       "b": 52.0,
+       "en": "Close the PDA: paracetamol → ibuprofen (2 courses) → catheter. Plenty of calories + protein: the lung grows with the body.",
+       "he": "סוגרים את ה-PDA: אקמול ← נורופן (2 קורסים) ← צנתור. הרבה קלוריות וחלבון: הריאה גדלה עם הגוף.",
+       "sci": false
+      },
+      {
+       "a": 52.75,
+       "b": 136.96,
+       "en": "IN SCIENCE: non-invasive first · volume-targeted ventilation + permissive hypercapnia · SpO2 90–95% (92–95% with PH) · fluid restriction · furosemide (transient) · thiazide + spironolactone · side effects: electrolytes, nephrocalcinosis, hearing, bone · bronchodilators for wheeze · ICS not routine · DART: 10 days low-dose dexamethasone (0.89 mg/kg) · PDA: paracetamol / ibuprofen ×2 → catheter · calories + protein · azithromycin, vitamin A.",
+       "he": "במדע: לא פולשני קודם · הנשמה מכוונת נפח + היפרקפניה מותרת · סטורציה 90–95% (92–95% עם יל\"ד ריאתי) · הגבלת נוזלים · פוסיד (זמני) · תיאזיד + ספירונולקטון · תופעות: מלחים, נפרוקלצינוזיס, שמיעה, עצם · מרחיבים לצפצופים · ICS לא שגרתי · DART: ‏10 ימים דקסמתזון נמוך (0.89 מ\"ג/ק\"ג) · PDA: אקמול / נורופן ×2 ← צנתור · קלוריות וחלבון · אזיתרומיצין, ויטמין A.",
+       "sci": true
+      }
+     ]
+    },
+    {
+     "n": 7,
+     "title": "מניעה",
+     "dur": 108.2,
+     "v": {
+      "en": "clips/t1117b/c07_en.mp4",
+      "he": "clips/t1117b/c07_he.mp4"
+     },
+     "cues": [
+      {
+       "a": 0.47,
+       "b": 16.74,
+       "en": "Best: don't be born early. Otherwise: steroids + magnesium to the mother, CPAP from the first breath, surfactant via a thin tube (LISA).",
+       "he": "הכי טוב: לא להיוולד מוקדם. אחרת: סטרואידים + מגנזיום לאם, CPAP מהנשימה הראשונה, סורפקטנט בצנתר דק (LISA).",
+       "sci": false
+      },
+      {
+       "a": 17.09,
+       "b": 37.62,
+       "en": "In the NICU: caffeine – the one drug proven to prevent some BPD. At home: one RSV antibody shot, vaccines, flu for parents, no smoke, an echo for pulmonary hypertension.",
+       "he": "בפגייה: קפאין – התרופה היחידה שהוכחה כמונעת מעט BPD. בבית: זריקת נוגדן ל-RSV, חיסונים, שפעת להורים, בלי עשן, אקו ליל\"ד ריאתי.",
+       "sci": false
+      },
+      {
+       "a": 38.37,
+       "b": 107.69,
+       "en": "IN SCIENCE: prevent preterm birth · antenatal steroids (↓ RDS, mortality, IVH) · Mg²⁺ neuroprotection · CPAP from delivery room · LISA / MIST · NICU: volume-targeted ventilation · caffeine (CAP trial: ↓ BPD) · vitamin A · avoid excess O2 + fluid · infections · home: O2, RSV mAb (nirsevimab, t½ ~150 d), vaccines, no smoke, echo at 36 wk.",
+       "he": "במדע: מניעת לידה מוקדמת · סטרואידים (↓ RDS, תמותה, IVH) · מגנזיום להגנה נוירולוגית · CPAP מחדר הלידה · LISA / MIST · בפגייה: הנשמה מכוונת נפח · קפאין (CAP: ↓ BPD) · ויטמין A · בלי עודף חמצן ונוזלים · מניעת זיהומים · בבית: חמצן, נוגדן ל-RSV (נירסבימאב, מחצית חיים ~150 יום), חיסונים, בלי עשן, אקו בשבוע 36.",
+       "sci": true
+      }
+     ]
+    },
+    {
+     "n": 8,
+     "title": "הגבעה · פרוגנוזה",
+     "dur": 115.2,
+     "v": {
+      "en": "clips/t1117b/c08_en.mp4",
+      "he": "clips/t1117b/c08_he.mp4"
+     },
+     "cues": [
+      {
+       "a": 0.48,
+       "b": 18.8,
+       "en": "Lung function is a walk down a hill: everyone slides yearly. BPD starts lower → may reach the bottom early (early COPD).",
+       "he": "תפקוד הריאה הוא הליכה במורד גבעה: כולם יורדים קצת כל שנה. BPD מתחיל נמוך יותר ← עלול להגיע לתחתית מוקדם (COPD מוקדם).",
+       "sci": false
+      },
+      {
+       "a": 19.15,
+       "b": 42.05,
+       "en": "First 2 years: more admissions (RSV), wheeze, possible pulmonary hypertension, slower development. Most do well – our girl: off O2 at 1, first grade without daily inhalers.",
+       "he": "שנתיים ראשונות: יותר אשפוזים (RSV), צפצופים, אולי יל\"ד ריאתי, התפתחות איטית. רובם מסתדרים – הילדה שלנו: בלי חמצן בגיל שנה, כיתה א' בלי משאפים קבועים.",
+       "sci": false
+      },
+      {
+       "a": 42.8,
+       "b": 100.05,
+       "en": "IN SCIENCE: admissions in first 2 y (viral) · wheeze · ↓ lung function into adulthood · trajectory hypothesis → early COPD · pulmonary hypertension = strong negative factor · neurodevelopment: CP, cognitive delay (by severity) · Jensen 3 predicts morbidity + death · multidisciplinary follow-up for years.",
+       "he": "במדע: אשפוזים בשנתיים הראשונות (ויראליים) · צפצופים · ↓ תפקוד ריאה עד הבגרות · השערת המסלול ← COPD מוקדם · יל\"ד ריאתי = גורם פרוגנוסטי שלילי · נוירו-התפתחות: CP, עיכוב קוגניטיבי (לפי חומרה) · ג'נסן 3 מנבא תחלואה ותמותה · מעקב רב-תחומי לשנים.",
+       "sci": true
+      },
+      {
+       "a": 101.0,
+       "b": 113.2,
+       "en": "Not just a damaged lung – a lung that stopped being built. Protect it, feed it, let it grow.",
+       "he": "לא רק ריאה פגועה – ריאה שהפסיקה להיבנות. מגינים, מזינים, ונותנים לגדול.",
        "sci": false
       }
      ]
