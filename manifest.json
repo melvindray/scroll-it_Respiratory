@@ -3,6 +3,364 @@
  "system_he": "מערכת הנשימה",
  "films": [
   {
+   "id": "t1122",
+   "day": "22/11/2026",
+   "title": "הכנה לשיעור: עישון וסרטן ריאה – בסיפורים",
+   "title_en": "Prep: smoking and lung cancer, told as stories",
+   "course": "מערכת הנשימה",
+   "poster": "clips/t1122/poster.jpg",
+   "clips": [
+    {
+     "n": 1,
+     "title": "החטיפה של 10 שניות · התמכרות לניקוטין",
+     "dur": 115.7,
+     "v": {
+      "en": "clips/t1122/c01_en.mp4",
+      "he": "clips/t1122/c01_he.mp4"
+     },
+     "cues": [
+      {
+       "a": 1.0,
+       "b": 11.8,
+       "en": "Prep for tomorrow: smoking · lung cancer · working up a lung finding (from the slides).",
+       "he": "הכנה למחר: עישון · סרטן ריאה · בירור ממצא ריאתי (לפי המצגות).",
+       "sci": false
+      },
+      {
+       "a": 12.15,
+       "b": 29.77,
+       "en": "Inhaled nicotine reaches the brain in 10–15 s – faster than IV. Speed = addiction.",
+       "he": "ניקוטין בשאיפה מגיע למוח תוך 10–15 שניות – מהר יותר מהזרקה לווריד. מהירות = התמכרות.",
+       "sci": false
+      },
+      {
+       "a": 30.12,
+       "b": 56.29,
+       "en": "Nicotine → dopamine reward. The brain grows more receptors → tolerance. Every ~2 h: anxiety, craving → smoke to escape withdrawal.",
+       "he": "ניקוטין ← דופמין, תגמול. המוח מגדל עוד קולטנים ← סבילות. כל ~שעתיים: חרדה, צריכה ← מעשנים כדי לברוח מגמילה.",
+       "sci": false
+      },
+      {
+       "a": 56.64,
+       "b": 115.48,
+       "en": "IN SCIENCE: 10–15 s to brain (arterial bolus, freebase) · α4β2 nAChR, cation channel · VTA → dopamine in nucleus accumbens (+ NE, glutamate, GABA, β-endorphin) · desensitization → upregulation → tolerance · t½ ~2 h → withdrawal cycle · negative reinforcement · toxins = disease, nicotine = addiction.",
+       "he": "במדע: 10–15 שנ' למוח (בולוס עורקי, ניקוטין חופשי) · קולטן α4β2, תעלת קטיונים · VTA ← דופמין ב-nucleus accumbens (+ נוראדרנלין, גלוטמט, GABA, אנדורפין) · דה-סנסיטיזציה ← עלייה במספר הקולטנים ← סבילות · זמן מחצית ~2 שעות ← מעגל גמילה · חיזוק שלילי · הרעלים = מחלה, הניקוטין = התמכרות.",
+       "sci": true
+      }
+     ]
+    },
+    {
+     "n": 2,
+     "title": "מה העשן עושה · נזקי עישון",
+     "dur": 186.6,
+     "v": {
+      "en": "clips/t1122/c02_en.mp4",
+      "he": "clips/t1122/c02_he.mp4"
+     },
+     "cues": [
+      {
+       "a": 0.17,
+       "b": 24.81,
+       "en": "Particle phase: tar, benzopyrene, metals, polonium-210 · gas phase: CO, HCN, formaldehyde → oxidative stress.",
+       "he": "פאזה חלקיקית: זפת, בנזופירן, מתכות, פולוניום-210 · פאזה גזית: CO, HCN, פורמלדהיד ← עקה חמצונית.",
+       "sci": false
+      },
+      {
+       "a": 25.16,
+       "b": 55.91,
+       "en": "Vessels: PVD ~90%, AAA ~50%, CAD 24%, stroke ~11% · cancer: ~30% of cancer deaths, lung RR 15–30 · TB RR 2.9 · pneumococcus ×4 · pregnancy · surgery.",
+       "he": "כלי דם: PVD ~90%, מפרצת אבי העורקים ~50%, מחלת לב 24%, שבץ ~11% · סרטן: ~30% ממקרי המוות מסרטן, ריאה RR ‏15–30 · שחפת RR ‏2.9 · פנאומוקוק פי 4 · היריון · ניתוח.",
+       "sci": false
+      },
+      {
+       "a": 56.26,
+       "b": 83.33,
+       "en": "No safe level: < 1 cigarette/day → lung cancer HR ~9 · passive smoke = class A carcinogen · quitting helps at any age · stop 8 weeks before surgery.",
+       "he": "אין רמה בטוחה: פחות מסיגריה ביום ← סרטן ריאה HR ~9 · עישון פסיבי = מסרטן Class A · הפסקה עוזרת בכל גיל · להפסיק 8 שבועות לפני ניתוח.",
+       "sci": false
+      },
+      {
+       "a": 83.68,
+       "b": 186.43,
+       "en": "IN SCIENCE: particles: tar, benzo[a]pyrene, metals, Po-210 · gas: CO, HCN, formaldehyde · oxidative stress · vascular: PVD ~90%, AAA ~50%, CAD 24%, stroke 11% · DNA adducts + p53 · ~30% cancer deaths · RR lung 15–30, larynx 10 · TB 2.9, pneumococcal 4.1 · pregnancy: CO → IUGR, abruption, preterm, SIDS · surgery: wound RR 2.2 → stop 8 wk · < 1 CPD → HR ~9 · passive = class A.",
+       "he": "במדע: חלקיקים: זפת, בנזו[a]פירן, מתכות, פולוניום · גז: CO, ציאניד, פורמלדהיד · עקה חמצונית · כלי דם: PVD ~90%, AAA ~50%, CAD 24%, שבץ 11% · DNA adducts ו-p53 · ~30% ממקרי המוות מסרטן · RR ריאה 15–30, גרון 10 · שחפת 2.9, פנאומוקוק 4.1 · היריון: CO ← IUGR, היפרדות שליה, לידה מוקדמת, SIDS · ניתוח: סיבוכי פצע RR ‏2.2 ← להפסיק 8 שבועות · פחות מסיגריה ביום ← HR ~9 · פסיבי = Class A.",
+       "sci": true
+      }
+     ]
+    },
+    {
+     "n": 3,
+     "title": "איך מפסיקים · טיפול בגמילה",
+     "dur": 136.7,
+     "v": {
+      "en": "clips/t1122/c03_en.mp4",
+      "he": "clips/t1122/c03_he.mp4"
+     },
+     "cues": [
+      {
+       "a": 0.18,
+       "b": 16.64,
+       "en": "Cold turkey 2–5% · minimal help 5–10% · drugs + counseling 25–30% → treatment is mandatory.",
+       "he": "בלי עזרה 2–5% · התערבות מינימלית 5–10% · תרופות + ייעוץ 25–30% ← הטיפול הכרחי.",
+       "sci": false
+      },
+      {
+       "a": 16.99,
+       "b": 48.78,
+       "en": "NRT: patch (steady) + gum/lozenge (craving) · bupropion: DNRI, start 1–2 wk before, no seizures / eating disorders · varenicline: partial α4β2 agonist – best.",
+       "he": "תחליפי ניקוטין: מדבקה (רקע) + מסטיק/לכסנית (צריכה) · בופרופיון: מעכב ספיגה של דופמין ונוראדרנלין, להתחיל 1–2 שבועות לפני, לא בפרכוסים / הפרעות אכילה · וארניקלין: אגוניסט חלקי ל-α4β2 – הכי יעיל.",
+       "sci": false
+      },
+      {
+       "a": 49.13,
+       "b": 136.56,
+       "en": "IN SCIENCE: counseling + drugs = gold standard: 25–30% vs 2–5% · 7 first-line drugs (5 NRT, bupropion, varenicline) · combination NRT: patch + gum/lozenge · bupropion SR (DNRI): ×2 cessation, ↓ weight gain, start 1–2 wk before · contraindicated: seizures, eating disorders · varenicline: partial α4β2 agonist, best (OR ~2.9) · EAGLES 2019: no ↑ neuropsychiatric risk → boxed warning removed · e-cigarettes: role undefined, EVALI.",
+       "he": "במדע: ייעוץ + תרופות = תקן זהב: 25–30% מול 2–5% · 7 תרופות קו ראשון (5 תחליפי ניקוטין, בופרופיון, וארניקלין) · NRT משולב: מדבקה + מסטיק/לכסנית · בופרופיון SR: הכפלת ההצלחה, פחות עלייה במשקל, להתחיל 1–2 שבועות לפני · התוויית נגד: פרכוסים, הפרעות אכילה · וארניקלין: אגוניסט חלקי, הכי יעיל (OR ~2.9) · EAGLES 2019: אין סיכון נוירו-פסיכיאטרי מוגבר ← האזהרה הוסרה · סיגריה אלקטרונית: תפקיד לא מוגדר, EVALI.",
+       "sci": true
+      }
+     ]
+    },
+    {
+     "n": 4,
+     "title": "מי ואיזה סוג · אפידמיולוגיה והיסטולוגיה",
+     "dur": 158.0,
+     "v": {
+      "en": "clips/t1122/c04_en.mp4",
+      "he": "clips/t1122/c04_he.mp4"
+     },
+     "cues": [
+      {
+       "a": 0.18,
+       "b": 23.55,
+       "en": "#1 cancer death (1.8 M/yr) · 2.2 M cases · ~65% of US cases: former or never smokers · radon, asbestos, arsenic, family.",
+       "he": "סיבת המוות הראשונה מסרטן (1.8 מיליון בשנה) · 2.2 מיליון מקרים · ~65% בארה\"ב: מעשנים לשעבר או שלא עישנו · ראדון, אסבסט, ארסן, משפחה.",
+       "sci": false
+      },
+      {
+       "a": 23.9,
+       "b": 57.13,
+       "en": "SCLC ~15%: neuroendocrine, heavy smokers · NSCLC ~85%: adenocarcinoma (most common, glandular, also never-smokers) · squamous (central, keratin pearls, smokers) · large cell = exclusion.",
+       "he": "SCLC ~15%: נוירואנדוקריני, מעשנים כבדים · NSCLC ~85%: אדנוקרצינומה (הכי שכיח, בלוטי, גם בלא-מעשנים) · קשקשי (מרכזי, פניני קרטין, מעשנים) · תאים גדולים = אבחנת שלילה.",
+       "sci": false
+      },
+      {
+       "a": 57.48,
+       "b": 157.86,
+       "en": "IN SCIENCE: 2.2 M cases · 1.8 M deaths (#1) · smoking ×10, passive +20–30% · ~65% former/never smokers · radon, asbestos, arsenic, nickel, PAH, COPD/fibrosis/TB, family · NSCLC ~85%: adeno (TTF-1+, napsin A+; AIS → solid/micropapillary = worse) · squamous (central, cavitation, keratin, p40+/p63+) · large cell = exclusion · SCLC ~15%: CD56, synaptophysin, chromogranin, INSM1 · TP53 + RB1 ~90%.",
+       "he": "במדע: 2.2 מיליון מקרים · 1.8 מיליון מתים (מקום 1) · עישון פי 10, פסיבי +20–30% · ~65% מעשנים לשעבר / לא מעשנים · ראדון, אסבסט, ארסן, ניקל, PAH, מחלת ריאה, משפחה · NSCLC ~85%: אדנו (TTF-1+, napsin A+; AIS עד solid/micropapillary = גרוע) · קשקשי (מרכזי, חללים, קרטין, p40+/p63+) · תאים גדולים = שלילה · SCLC ~15%: CD56, סינפטופיזין, כרומוגרנין, INSM1 · TP53 ו-RB1 ~90%.",
+       "sci": true
+      }
+     ]
+    },
+    {
+     "n": 5,
+     "title": "דוושת הגז התקועה · מוטציות דרייבר",
+     "dur": 140.1,
+     "v": {
+      "en": "clips/t1122/c05_en.mp4",
+      "he": "clips/t1122/c05_he.mp4"
+     },
+     "cues": [
+      {
+       "a": 0.18,
+       "b": 15.72,
+       "en": "Driver mutation = a stuck gas pedal → a matching targeted drug.",
+       "he": "מוטציית דרייבר = דוושת גז תקועה ← תרופה ממוקדת שמתאימה בדיוק.",
+       "sci": false
+      },
+      {
+       "a": 16.07,
+       "b": 49.26,
+       "en": "EGFR 10–35% (never-smokers, women, East Asian) · KRAS 15–25% (smokers, G12C) · ALK 3–7%, ROS1, RET, NTRK fusions → TKI · squamous: few drivers → immunotherapy · SCLC: lost brakes (TP53, RB1).",
+       "he": "EGFR ‏10–35% (לא מעשנים, נשים, מזרח אסיה) · KRAS ‏15–25% (מעשנים, G12C) · ALK ‏3–7%, ROS1, RET, NTRK – פיוז'נים ← TKI · קשקשי: מעט דרייברים ← אימונותרפיה · SCLC: בלמים אבודים (TP53, RB1).",
+       "sci": false
+      },
+      {
+       "a": 49.61,
+       "b": 139.93,
+       "en": "IN SCIENCE: EGFR 10–35% (never-smokers, women, East Asian; T790M rare germline) · KRAS 15–25% of adeno, smokers, G12C inhibitors · fusions: ALK 3–7%, ROS1 / RET / NTRK ~1–2% → young non-smokers, TKI-sensitive, testing mandatory · squamous: FGFR1, DDR2, PIK3CA → fewer drivers → PD-1/PD-L1 · SCLC: TP53 + RB1 ~90%, 3p deletion.",
+       "he": "במדע: EGFR ‏10–35% (לא מעשנים, נשים, מזרח אסיה; T790M נדיר תורשתי) · KRAS ‏15–25% מהאדנו, מעשנים, מעכבי G12C · פיוז'נים: ALK ‏3–7%, ROS1 / RET / NTRK ~1–2% ← צעירים לא מעשנים, רגישים ל-TKI, בדיקה חובה · קשקשי: FGFR1, DDR2, PIK3CA ← מעט דרייברים ← PD-1/PD-L1 · SCLC: TP53 ו-RB1 ~90%, חסר 3p.",
+       "sci": true
+      }
+     ]
+    },
+    {
+     "n": 6,
+     "title": "איך הוא מדבר · התמונה הקלינית",
+     "dur": 165.3,
+     "v": {
+      "en": "clips/t1122/c06_en.mp4",
+      "he": "clips/t1122/c06_he.mp4"
+     },
+     "cues": [
+      {
+       "a": 0.17,
+       "b": 20.1,
+       "en": "Central: cough, hemoptysis, wheeze, obstructive pneumonia · peripheral: pleuritic pain, dyspnea.",
+       "he": "מרכזי: שיעול, שיעול דמי, צפצופים, דלקת ריאות חסימתית · היקפי: כאב פלאורלי, קוצר נשימה.",
+       "sci": false
+      },
+      {
+       "a": 20.45,
+       "b": 49.07,
+       "en": "Pancoast: C8–T2 pain + Horner (ptosis, miosis, anhidrosis) · SVC syndrome: swollen face/neck, neck veins · recurrent laryngeal → hoarseness · phrenic → raised diaphragm.",
+       "he": "פנקוסט: כאב C8–T2 + הורנר (צניחת עפעף, אישון צר, חוסר הזעה) · תסמונת ה-SVC: נפיחות פנים וצוואר · עצב חוזר ← צרידות · פרני ← סרעפת מורמת.",
+       "sci": false
+      },
+      {
+       "a": 49.42,
+       "b": 74.42,
+       "en": "Paraneoplastic: squamous → PTHrP → hypercalcemia · SCLC → SIADH, Lambert–Eaton, Cushing · adeno → clubbing/HPO, Trousseau.",
+       "he": "פאראנאופלסטי: קשקשי ← PTHrP ← היפרקלצמיה · SCLC ← SIADH, למברט-איטון, קושינג · אדנו ← אצבעות מקלות / HPO, טרוסו.",
+       "sci": false
+      },
+      {
+       "a": 74.77,
+       "b": 165.15,
+       "en": "IN SCIENCE: central: cough (8–75%), hemoptysis, wheeze/stridor, post-obstructive pneumonia · peripheral: pleuritic pain, dyspnea, cavitation · regional: recurrent laryngeal (hoarseness), phrenic, esophagus, effusion, tamponade · Pancoast: C8–T2 + Horner · SVC syndrome · mets: bone, brain, liver, adrenal · weight loss > 10 kg = poor · paraneoplastic: PTHrP (squamous) · SIADH, Lambert–Eaton, anti-Hu (SCLC) · clubbing/HPO, Trousseau (adeno).",
+       "he": "במדע: מרכזי: שיעול (8–75%), שיעול דמי, צפצופים/סטרידור, דלקת חסימתית · היקפי: כאב פלאורלי, קוצר נשימה, חללים · אזורי: עצב חוזר (צרידות), פרני, ושט, תפליט, טמפונדה · פנקוסט: C8–T2 + הורנר · תסמונת SVC · גרורות: עצם, מוח, כבד, יותרת הכליה · ירידה של יותר מ-10 ק\"ג = גרוע · פאראנאופלסטי: PTHrP (קשקשי) · SIADH, למברט-איטון, anti-Hu ‏(SCLC) · clubbing/HPO, טרוסו (אדנו).",
+       "sci": true
+      }
+     ]
+    },
+    {
+     "n": 7,
+     "title": "הרדאר · קשריות וסקר",
+     "dur": 183.2,
+     "v": {
+      "en": "clips/t1122/c07_en.mp4",
+      "he": "clips/t1122/c07_he.mp4"
+     },
+     "cues": [
+      {
+       "a": 0.17,
+       "b": 32.51,
+       "en": "Found: incidental (Fleischner) · symptomatic (often late) · screening LDCT (Lung-RADS) · NLST 2011: −20% mortality, NNT 320, 96.4% false positives.",
+       "he": "מתגלה: אקראי (Fleischner) · תסמיני (לרוב מאוחר) · סקר LDCT ‏(Lung-RADS) · NLST 2011: ‏−20% תמותה, NNT ‏320, 96.4% חיובי כוזב.",
+       "sci": false
+      },
+      {
+       "a": 32.86,
+       "b": 59.41,
+       "en": "NELSON 2020: volume + doubling time → −24–26% mortality, 2.1% referral · malignant: spiculated, pleural tag, growth · benign: popcorn calcification, fat, stable 2 yr.",
+       "he": "NELSON 2020: נפח וזמן הכפלה ← ‏−24–26% תמותה, 2.1% הפניה · ממאיר: שוליים ספיקולריים, תליה לפלאורה, גדילה · שפיר: הסתיידות פופקורן, שומן, יציבות שנתיים.",
+       "sci": false
+      },
+      {
+       "a": 59.76,
+       "b": 183.03,
+       "en": "IN SCIENCE: Fleischner 2017 (incidental only): solid < 6 mm → usually none (low risk) · 6–8 mm → CT 6–12 mo · > 8 mm → CT 3 mo / PET-CT / biopsy · Lung-RADS (screening): 0 · 1–2 benign · 3 → CT 6 mo · 4A/4B suspicious (5–15% / > 15%) → PET/biopsy · NLST 2011: 53,454, age 55–74, −20%, NNT 320, 24.2% positive (96.4% false) · NELSON 2020: volume + VDT, −24–26%, 2.1% referral · biases: lead time, length time, overdiagnosis · PET-CT staging · MRI: Pancoast.",
+       "he": "במדע: Fleischner 2017 (רק ממצא אקראי): מוצק מתחת ל-6 מ\"מ ← לרוב ללא מעקב (סיכון נמוך) · 6–8 ← CT בעוד 6–12 חודשים · מעל 8 ← CT בעוד 3 חודשים / PET-CT / ביופסיה · Lung-RADS ‏(סקר): 0 · 1–2 שפיר · 3 ← CT בעוד 6 חודשים · 4A/4B חשוד (5–15% / מעל 15%) ← PET/ביופסיה · NLST 2011: ‏53,454, גיל 55–74, ‏−20%, NNT ‏320, 24.2% חיובי (96.4% כוזב) · NELSON 2020: נפח וזמן הכפלה, ‏−24–26%, 2.1% הפניה · הטיות: lead time, length time, אבחון יתר · PET-CT לדירוג · MRI: פנקוסט.",
+       "sci": true
+      }
+     ]
+    },
+    {
+     "n": 8,
+     "title": "שתי דרכים פנימה · ביופסיה",
+     "dur": 130.0,
+     "v": {
+      "en": "clips/t1122/c08_en.mp4",
+      "he": "clips/t1122/c08_he.mp4"
+     },
+     "cues": [
+      {
+       "a": 0.17,
+       "b": 16.71,
+       "en": "Tissue: from inside (bronchoscopy) or from outside (CT-guided needle).",
+       "he": "רקמה: מבפנים (ברונכוסקופיה) או מבחוץ (מחט בהנחיית CT).",
+       "sci": false
+      },
+      {
+       "a": 17.06,
+       "b": 43.85,
+       "en": "Bronchoscopy: safe, radial EBUS / navigation for periphery, linear EBUS = staging (one-stop shop), needs bronchus sign · CT-guided: high yield peripheral, risk pneumothorax (emphysema).",
+       "he": "ברונכוסקופיה: בטוחה, EBUS רדיאלי / ניווט להיקף, EBUS ליניארי = דירוג (One-stop shop), צריך bronchus sign · ביופסיה תחת CT: דיוק גבוה בהיקף, סיכון לחזה אוויר (אמפיזמה).",
+       "sci": false
+      },
+      {
+       "a": 44.19,
+       "b": 129.83,
+       "en": "IN SCIENCE: endobronchial biopsy (central) · fluoroscopy · radial EBUS (confirm peripheral) · navigation (virtual GPS) · linear EBUS-TBNA: mediastinal staging (nodes on CT/PET, central, > 3 cm) · CT-guided: high yield peripheral, pneumothorax (emphysema, deep), no staging · algorithm: staging needed → bronchoscopy (EBUS + navigation) · severe emphysema → bronchoscopy · peripheral, no bronchus sign → CT-guided · bronchus sign → bronchoscopy · molecular testing: EGFR, ALK, PD-L1.",
+       "he": "במדע: ביופסיה אנדוברונכיאלית (מרכזי) · שיקוף · EBUS רדיאלי (אישור הגעה להיקף) · ניווט (GPS וירטואלי) · EBUS ליניארי + TBNA: דירוג המיצר (בלוטות ב-CT/PET, מרכזי, מעל 3 ס\"מ) · ביופסיה תחת CT: דיוק גבוה בהיקף, חזה אוויר (אמפיזמה, עמוק), בלי דירוג · אלגוריתם: צריך דירוג ← ברונכוסקופיה (EBUS + ניווט) · אמפיזמה קשה ← ברונכוסקופיה · היקפי בלי bronchus sign ← CT · עם bronchus sign ← ברונכוסקופיה · בדיקות מולקולריות: EGFR, ALK, PD-L1.",
+       "sci": true
+      }
+     ]
+    },
+    {
+     "n": 9,
+     "title": "שלוש השאלות · TNM",
+     "dur": 190.4,
+     "v": {
+      "en": "clips/t1122/c09_en.mp4",
+      "he": "clips/t1122/c09_he.mp4"
+     },
+     "cues": [
+      {
+       "a": 0.17,
+       "b": 26.52,
+       "en": "T: T1 ≤ 3 cm · T2 3–5 · T3 5–7 or chest wall/phrenic/same-lobe nodule · T4 > 7 or mediastinum, heart, vessels, carina, other ipsilateral lobe.",
+       "he": "T: ‏T1 עד 3 ס\"מ · T2 ‏3–5 · T3 ‏5–7 או דופן החזה/פרני/קשרית באותה אונה · T4 מעל 7 או מיצר, לב, כלי דם, קרינה, אונה אחרת באותו צד.",
+       "sci": false
+      },
+      {
+       "a": 26.87,
+       "b": 56.07,
+       "en": "N1 ipsilateral hilar · N2 ipsilateral mediastinal (2a single, 2b multiple) · N3 contralateral / supraclavicular · M1a intrathoracic (effusion, contralateral nodule) · M1b single extrathoracic · M1c multiple.",
+       "he": "N1 הילרי באותו צד · N2 מדיאסטינלי באותו צד (2a אחת, 2b כמה) · N3 צד נגדי / על-בריחי · M1a בתוך בית החזה (תפליט, קשרית נגדית) · M1b גרורה אחת מחוץ לחזה · M1c מרובות.",
+       "sci": false
+      },
+      {
+       "a": 56.42,
+       "b": 190.25,
+       "en": "IN SCIENCE: TNM 9th · T1 ≤ 3 cm (a ≤ 1, b 1–2, c 2–3) · T2 3–5 or visceral pleura / main bronchus / atelectasis (a 3–4, b 4–5) · T3 5–7 or chest wall, Pancoast, phrenic, pericardium, same-lobe nodule · T4 > 7 or mediastinum, heart, vessels, trachea, RLN, esophagus, vertebra, carina, diaphragm, other ipsilateral lobe · N1 hilar · N2 mediastinal (2a single, 2b multiple) · N3 contralateral/supraclavicular · M1a intrathoracic · M1b single · M1c (c1 one system, c2 multiple) · IVA = M1a/b, IVB = M1c · 5-yr: IA ~92%, IIIB ~26%, IVB 0–10%.",
+       "he": "במדע: TNM מהדורה 9 · T1 עד 3 ס\"מ (a עד 1, b ‏1–2, c ‏2–3) · T2 ‏3–5 או פלאורה ויסרלית / סימפון ראשי / תמט (a ‏3–4, b ‏4–5) · T3 ‏5–7 או דופן, פנקוסט, פרני, פריקרד, קשרית באותה אונה · T4 מעל 7 או מיצר, לב, כלי דם, קנה, עצב חוזר, ושט, חוליה, קרינה, סרעפת, אונה אחרת באותו צד · N1 הילרי · N2 מדיאסטינלי (2a אחת, 2b כמה) · N3 נגדי / על-בריחי · M1a בתוך החזה · M1b אחת · M1c ‏(c1 מערכת אחת, c2 כמה) · IVA = M1a/b, IVB = M1c · הישרדות 5 שנים: IA ~92%, IIIB ~26%, IVB ‏0–10%.",
+       "sci": true
+      }
+     ]
+    },
+    {
+     "n": 10,
+     "title": "התוכנית · טיפול",
+     "dur": 209.2,
+     "v": {
+      "en": "clips/t1122/c10_en.mp4",
+      "he": "clips/t1122/c10_he.mp4"
+     },
+     "cues": [
+      {
+       "a": 0.17,
+       "b": 27.63,
+       "en": "Early NSCLC (I–III): cure · lobectomy + (neo)adjuvant chemo / immunotherapy / osimertinib if EGFR+ · inoperable stage I → SBRT.",
+       "he": "NSCLC מוקדם (I–III): ריפוי · לובקטומיה + טיפול לפני/אחרי: כימו / אימונותרפיה / אוסימרטיניב אם EGFR+ · לא מנותח בשלב I ← SBRT.",
+       "sci": false
+      },
+      {
+       "a": 27.98,
+       "b": 59.86,
+       "en": "Stage IV NSCLC: driver → TKI · no driver: PD-L1 ≥ 50% → ICI alone · < 50% → chemo + ICI · SCLC limited: chemoradiation (cisplatin + etoposide), no upfront surgery · extensive: platinum + etoposide + atezolizumab/durvalumab.",
+       "he": "NSCLC שלב IV: דרייבר ← TKI · בלי דרייבר: PD-L1 ≥ 50% ← אימונותרפיה לבד · פחות מ-50% ← כימו + אימונותרפיה · SCLC מוגבל: כימו-קרינה (ציספלטין + אטופוסיד), בלי ניתוח · נרחב: פלטינום + אטופוסיד + אטזוליזומאב/דורבלומאב.",
+       "sci": false
+      },
+      {
+       "a": 60.21,
+       "b": 194.36,
+       "en": "IN SCIENCE: early NSCLC: lobectomy (segmentectomy if small peripheral) · adjuvant cisplatin-doublet (II–III) · osimertinib if EGFR+ (ADAURA) · ICI if driver-negative · SBRT if inoperable stage I · neoadjuvant nivolumab + chemo (CheckMate 816) · perioperative pembrolizumab (KEYNOTE-671) · ICI: anti-PD-1 (pembro, nivo), anti-PD-L1 (atezo, durva), anti-CTLA-4 (ipi) · stage IV: driver → TKI, no ICI first · PD-L1 ≥ 50% → ICI alone · < 50% → chemo + ICI · avoid: severe autoimmune, high-dose steroids · SCLC limited: cisplatin + etoposide + RT (BID), no surgery · extensive: + atezo/durva · PCI or MRI · ~30% keep smoking → treat it.",
+       "he": "במדע: NSCLC מוקדם: לובקטומיה (סגמנטקטומיה בקשרית קטנה היקפית) · כימו משלים ציספלטין (II–III) · אוסימרטיניב אם EGFR+ ‏(ADAURA) · אימונותרפיה בלי דרייבר · SBRT אם לא ניתן לנתח בשלב I · ניאו-אדג'ובנטי ניבולומאב + כימו (CheckMate 816) · פמברוליזומאב פריאופרטיבי (KEYNOTE-671) · ICI: ‏anti-PD-1 (פמברו, ניבו), anti-PD-L1 (אטזו, דורבה), anti-CTLA-4 (איפי) · שלב IV: דרייבר ← TKI, לא ICI קודם · PD-L1 ≥ 50% ← ICI לבד · פחות מ-50% ← כימו + ICI · להימנע: אוטואימוני קשה, סטרואידים במינון גבוה · SCLC מוגבל: ציספלטין + אטופוסיד + קרינה (פעמיים ביום), בלי ניתוח · נרחב: + אטזו/דורבה · PCI או MRI · ~30% ממשיכים לעשן ← לטפל בזה.",
+       "sci": true
+      },
+      {
+       "a": 195.31,
+       "b": 207.17,
+       "en": "Prep done – this film will be updated after the lecture.",
+       "he": "ההכנה מוכנה – הסרטון יתעדכן אחרי ההרצאה.",
+       "sci": false
+      }
+     ]
+    }
+   ]
+  },
+  {
    "id": "t1119m",
    "day": "19/11/2026",
    "title": "מומים מולדים בריאה ובקנה – בסיפורים",
