@@ -2434,7 +2434,7 @@
     {
      "n": 1,
      "title": "למה נושמים · מפל הלחצים",
-     "dur": 58.6,
+     "dur": 96.2,
      "v": {
       "en": "clips/t1112/c01_en.mp4",
       "he": "clips/t1112/c01_he.mp4"
@@ -2442,35 +2442,35 @@
      "cues": [
       {
        "a": 1.0,
-       "b": 10.92,
+       "b": 14.02,
        "en": "One O2 molecule, one journey – air to mitochondria; CO2 rides back. Story first, then the science.",
        "he": "מולקולת חמצן אחת, מסע אחד – מהאוויר למיטוכונדריה; ה-CO2 חוזר. קודם סיפור, ואז המדע.",
        "sci": false
       },
       {
-       "a": 11.87,
-       "b": 21.09,
+       "a": 14.97,
+       "b": 26.2,
        "en": "Every cell is a factory: it burns O2 for energy and puffs out CO2 smoke.",
        "he": "כל תא הוא מפעל: שורף חמצן לאנרגיה ופולט עשן של CO2.",
        "sci": false
       },
       {
-       "a": 21.44,
-       "b": 31.68,
+       "a": 26.55,
+       "b": 40.84,
        "en": "O2 flows down a staircase of waterfalls – each pool lower than the last, or the flow stops.",
        "he": "החמצן זורם במדרגות של מפלים – כל בריכה נמוכה מהקודמת, אחרת הזרימה נעצרת.",
        "sci": false
       },
       {
-       "a": 32.03,
-       "b": 38.39,
+       "a": 41.19,
+       "b": 52.02,
        "en": "Nobody pumps it: faster with a bigger drop, a wider doorway, a thinner wall.",
        "he": "אף אחד לא שואב: מהר יותר כשהירידה גדולה, הפתח רחב והקיר דק.",
        "sci": false
       },
       {
-       "a": 39.14,
-       "b": 58.14,
+       "a": 52.77,
+       "b": 95.75,
        "en": "IN SCIENCE: PO2 160 air · 100 alveolus · 95 artery · 40 vein · <5 cell · Fick: ΔP × area ÷ thickness.",
        "he": "במדע: PO2 ‏160 אוויר · 100 נאדית · 95 עורק · 40 וריד · פחות מ-5 תא · Fick: הפרש לחצים × שטח ÷ עובי.",
        "sci": true
@@ -2480,36 +2480,36 @@
     {
      "n": 2,
      "title": "איך אוויר נכנס",
-     "dur": 48.3,
+     "dur": 72.7,
      "v": {
       "en": "clips/t1112/c02_en.mp4",
       "he": "clips/t1112/c02_he.mp4"
      },
      "cues": [
       {
-       "a": 0.48,
-       "b": 11.58,
+       "a": 0.47,
+       "b": 15.19,
        "en": "A balloon in a jar with a rubber floor: pull the floor down → the balloon fills by itself.",
        "he": "בלון בתוך צנצנת עם רצפת גומי: מושכים את הרצפה ← הבלון מתמלא לבד.",
        "sci": false
       },
       {
-       "a": 11.93,
-       "b": 18.07,
+       "a": 15.54,
+       "b": 24.29,
        "en": "Let go → the stretched balloon springs back by itself. Breathing out at rest is free.",
        "he": "משחררים ← הבלון המתוח חוזר לבד. נשיפה במנוחה בחינם.",
        "sci": false
       },
       {
-       "a": 18.42,
-       "b": 23.31,
+       "a": 24.64,
+       "b": 31.27,
        "en": "A hole in the jar → the balloon collapses, however hard you pull.",
        "he": "חור בצנצנת ← הבלון קורס, לא משנה כמה מושכים.",
        "sci": false
       },
       {
-       "a": 24.06,
-       "b": 47.87,
+       "a": 32.02,
+       "b": 72.18,
        "en": "IN SCIENCE: floor = diaphragm (phrenic) · jar = pleural pressure ↓ → air in · spring back = recoil to FRC · hole = pneumothorax → lung collapses.",
        "he": "במדע: הרצפה = הסרעפת (העצב הפרני) · הצנצנת = לחץ צדר שלילי יותר ← אוויר נכנס · החזרה = רתע אלסטי ל-FRC · החור = חזה אוויר ← הריאה קורסת.",
        "sci": true
@@ -2519,43 +2519,43 @@
     {
      "n": 3,
      "title": "מכניקה · סורפקטנט",
-     "dur": 60.5,
+     "dur": 105.2,
      "v": {
       "en": "clips/t1112/c03_en.mp4",
       "he": "clips/t1112/c03_he.mp4"
      },
      "cues": [
       {
-       "a": 0.48,
-       "b": 13.01,
+       "a": 0.47,
+       "b": 17.22,
        "en": "Two loads: a spring and the straws. Most of the spring = wet bubble surfaces; soap makes them easy.",
        "he": "שני עומסים: קפיץ וקשיות. רוב הקפיץ = פני השטח הרטובים של הבועות; סבון מקל.",
        "sci": false
       },
       {
-       "a": 13.36,
-       "b": 20.78,
+       "a": 17.57,
+       "b": 28.92,
        "en": "Like a party balloon: an empty one is hardest to start. Premature babies have no soap yet.",
        "he": "כמו בלון יום הולדת: ריק הכי קשה להתחיל. לפגים עוד אין סבון.",
        "sci": false
       },
       {
-       "a": 21.12,
-       "b": 30.92,
+       "a": 29.27,
+       "b": 42.01,
        "en": "The straws are roads: the jam is on the medium roads, not the many small streets.",
        "he": "הקשיות הן כבישים: הפקק בכבישים הבינוניים, לא ברחובות הקטנים הרבים.",
        "sci": false
       },
       {
-       "a": 31.27,
-       "b": 37.51,
+       "a": 42.36,
+       "b": 50.65,
        "en": "Stiff spring → fast and shallow. Jammed road → slow and deep.",
        "he": "קפיץ נוקשה ← מהר ושטחי. כביש פקוק ← לאט ועמוק.",
        "sci": false
       },
       {
-       "a": 38.26,
-       "b": 59.98,
+       "a": 51.4,
+       "b": 104.72,
        "en": "IN SCIENCE: recoil = surface tension · surfactant ↓ → compliance ↑ (lacking in preemies) · max resistance: medium bronchi (gen 3–5) · stiff → fast + shallow · obstruction → slow + deep.",
        "he": "במדע: רתע = מתח פנים · סורפקטנט ← היענות עולה (חסר בפגים) · התנגדות מרבית: סימפונות בינוניים (3–5) · נוקשה ← מהר ושטחי · חסימה ← לאט ועמוק.",
        "sci": true
@@ -2565,7 +2565,7 @@
     {
      "n": 4,
      "title": "אוורור ומרחב מת",
-     "dur": 52.8,
+     "dur": 96.5,
      "v": {
       "en": "clips/t1112/c04_en.mp4",
       "he": "clips/t1112/c04_he.mp4"
@@ -2573,21 +2573,21 @@
      "cues": [
       {
        "a": 0.47,
-       "b": 10.19,
+       "b": 14.42,
        "en": "Each breath walks a corridor first: the first part only fills the corridor, never a room.",
        "he": "כל נשימה עוברת מסדרון: החלק הראשון רק ממלא את המסדרון, לא מגיע לחדרים.",
        "sci": false
       },
       {
-       "a": 10.54,
-       "b": 23.81,
+       "a": 14.77,
+       "b": 33.73,
        "en": "Big slow breaths waste little; small fast ones waste a lot. Blood CO2 = how well the rooms are aired.",
        "he": "נשימות גדולות ואיטיות מבזבזות מעט; קטנות ומהירות – הרבה. ה-CO2 בדם = כמה טוב החדרים מאווררים.",
        "sci": false
       },
       {
-       "a": 24.56,
-       "b": 52.37,
+       "a": 34.48,
+       "b": 96.01,
        "en": "IN SCIENCE: dead space ~150 mL · 500×12 → 4.2 L/min · 250×24 → 2.4 · PaCO2 = alveolar ventilation · PAO2 = 0.21×713 − 40/0.8 ≈ 100.",
        "he": "במדע: מרחב מת ~150 מ\"ל · ‏500×12 ← 4.2 ל'/דקה · ‏250×24 ← 2.4 · PaCO2 = אוורור אלביאולרי · PAO2 = 0.21×713 − 40/0.8 ≈ 100.",
        "sci": true
@@ -2597,7 +2597,7 @@
     {
      "n": 5,
      "title": "V/Q · ארוחת הערב",
-     "dur": 52.7,
+     "dur": 94.2,
      "v": {
       "en": "clips/t1112/c05_en.mp4",
       "he": "clips/t1112/c05_he.mp4"
@@ -2605,28 +2605,28 @@
      "cues": [
       {
        "a": 0.47,
-       "b": 6.11,
+       "b": 10.02,
        "en": "The dinner party: guests = air, food = blood. Every table needs both.",
        "he": "ארוחת הערב: האורחים = אוויר, האוכל = דם. כל שולחן צריך את שניהם.",
        "sci": false
       },
       {
-       "a": 6.46,
-       "b": 15.3,
+       "a": 10.37,
+       "b": 22.62,
        "en": "Food with no guests is wasted – more guests elsewhere won't fix it. Guests with no food go hungry.",
        "he": "אוכל בלי אורחים מתבזבז – אורחים בשולחן אחר לא יעזרו. אורחים בלי אוכל רעבים.",
        "sci": false
       },
       {
-       "a": 15.65,
-       "b": 24.77,
+       "a": 22.97,
+       "b": 34.93,
        "en": "A smart waiter moves food away from empty tables – unless all empty at once: the kitchen is overloaded.",
        "he": "מלצר חכם מעביר אוכל משולחנות ריקים – אלא אם כולם מתרוקנים: המטבח קורס.",
        "sci": false
       },
       {
-       "a": 25.52,
-       "b": 52.21,
+       "a": 35.68,
+       "b": 93.71,
        "en": "IN SCIENCE: V/Q ≈ 0.8 · shunt (V/Q = 0): pneumonia, O2 doesn't fix · dead space (V/Q → ∞): PE · waiter = HPV · global hypoxia → pulmonary HTN → right heart.",
        "he": "במדע: V/Q ≈ 0.8 · שאנט: דלקת ריאות, חמצן לא מתקן · מרחב מת: תסחיף ריאתי · המלצר = HPV · היפוקסיה כללית ← יל\"ד ריאתי ← לב ימין.",
        "sci": true
@@ -2636,43 +2636,43 @@
     {
      "n": 6,
      "title": "המוגלובין · האוטובוס",
-     "dur": 75.7,
+     "dur": 129.7,
      "v": {
       "en": "clips/t1112/c06_en.mp4",
       "he": "clips/t1112/c06_he.mp4"
      },
      "cues": [
       {
-       "a": 0.48,
-       "b": 9.99,
+       "a": 0.47,
+       "b": 12.93,
        "en": "O2 travels by bus: hemoglobin has 4 seats. The crowd at the stop pushes people on.",
        "he": "החמצן נוסע באוטובוס: להמוגלובין 4 מושבים. ההמון בתחנה דוחף אנשים פנימה.",
        "sci": false
       },
       {
-       "a": 10.34,
-       "b": 17.67,
+       "a": 13.28,
+       "b": 22.44,
        "en": "Three numbers: crowd size, seats taken, real passengers on board.",
        "he": "שלושה מספרים: גודל ההמון, מושבים תפוסים, נוסעים בפועל.",
        "sci": false
       },
       {
-       "a": 18.02,
-       "b": 26.79,
+       "a": 22.79,
+       "b": 33.62,
        "en": "A fake passenger steals the seats: the counter reads full, the crowd is normal – real O2 is missing.",
        "he": "נוסע מזויף גונב מושבים: המונה מראה מלא, ההמון תקין – החמצן האמיתי חסר.",
        "sci": false
       },
       {
-       "a": 27.13,
-       "b": 38.57,
+       "a": 33.97,
+       "b": 49.56,
        "en": "At the top, seats stay full; below a point, people jump off fast – faster when hot and acidic.",
        "he": "למעלה המושבים נשארים מלאים; מתחת לנקודה מסוימת יורדים מהר – עוד יותר בחום ובחומצה.",
        "sci": false
       },
       {
-       "a": 39.32,
-       "b": 75.23,
+       "a": 50.31,
+       "b": 129.2,
        "en": "IN SCIENCE: 98.5% on Hb; PO2 = dissolved · PaO2 = crowd, SaO2 = seats, CaO2 = content · CO: SpO2 99, PaO2 normal, content ↓ · flat top, steep < 60 · right: heat, acid, CO2, 2,3-DPG (Bohr) · left: CO, fetal Hb, cold.",
        "he": "במדע: 98.5% על Hb; ה-PO2 = החלק המומס · PaO2 = ההמון, SaO2 = המושבים, CaO2 = התכולה · CO: סטורציה 99, PaO2 תקין, תכולה נמוכה · שטוח למעלה, תלול מתחת ל-60 · ימינה: חום, חומצה, CO2, ‏2,3-DPG (בוהר) · שמאלה: CO, Hb עוברי, קור.",
        "sci": true
@@ -2682,7 +2682,7 @@
     {
      "n": 7,
      "title": "ה-CO2 חוזר",
-     "dur": 40.4,
+     "dur": 76.3,
      "v": {
       "en": "clips/t1112/c07_en.mp4",
       "he": "clips/t1112/c07_he.mp4"
@@ -2690,21 +2690,21 @@
      "cues": [
       {
        "a": 0.48,
-       "b": 10.76,
+       "b": 12.23,
        "en": "CO2 returns three ways: most in a different suitcase, some on the bus, a little floating.",
        "he": "ה-CO2 חוזר בשלוש דרכים: רובו במזוודה אחרת, חלק על האוטובוס, מעט צף.",
        "sci": false
       },
       {
-       "a": 11.11,
-       "b": 19.95,
+       "a": 12.58,
+       "b": 23.57,
        "en": "At the tissue, CO2 pushes O2 off; at the lung, O2 pushes CO2 off: a perfect swap.",
        "he": "ברקמה ה-CO2 דוחף את החמצן; בריאה החמצן דוחף את ה-CO2: החלפה מושלמת.",
        "sci": false
       },
       {
-       "a": 20.7,
-       "b": 39.89,
+       "a": 24.32,
+       "b": 75.78,
        "en": "IN SCIENCE: CO2 = 70% bicarbonate · 20% carbamino · 10% dissolved · tissue: Bohr · lung: Haldane.",
        "he": "במדע: CO2 ‏= 70% ביקרבונט · 20% קרבמינו · 10% מומס · ברקמה: בוהר · בריאה: הלדן.",
        "sci": true
@@ -2714,36 +2714,36 @@
     {
      "n": 8,
      "title": "בקרה · התרמוסטט",
-     "dur": 66.8,
+     "dur": 117.3,
      "v": {
       "en": "clips/t1112/c08_en.mp4",
       "he": "clips/t1112/c08_he.mp4"
      },
      "cues": [
       {
-       "a": 0.48,
-       "b": 12.57,
+       "a": 0.47,
+       "b": 15.95,
        "en": "A thermostat watches smoke (CO2), slowly. A separate O2 alarm rings only when O2 is very low.",
        "he": "תרמוסטט שמשגיח על העשן (CO2), לאט. אזעקת חמצן נפרדת מצלצלת רק כשהחמצן נמוך מאוד.",
        "sci": false
       },
       {
-       "a": 12.92,
-       "b": 25.65,
+       "a": 16.3,
+       "b": 33.72,
        "en": "Sensors read the crowd, not the passengers. A thermostat used to smoke: extra O2 can let CO2 rise.",
        "he": "החיישנים קוראים את ההמון, לא את הנוסעים. תרמוסטט שהתרגל לעשן: חמצן נוסף עלול להעלות CO2.",
        "sci": false
       },
       {
-       "a": 26.4,
-       "b": 54.28,
+       "a": 34.47,
+       "b": 101.17,
        "en": "IN SCIENCE: feedback mostly on CO2 · central: H⁺ in CSF, slow, no O2 · carotid: fast, PaO2 < 60 · anemia: breathing ~unchanged · COPD: O2 can raise PaCO2 (Haldane, lost HPV).",
        "he": "במדע: משוב בעיקר על CO2 · מרכזיים: H⁺ ב-CSF, איטיים, לא חשים חמצן · קרוטיד: מהירים, PaO2 מתחת ל-60 · אנמיה: הנשימה כמעט לא משתנה · COPD: חמצן עלול להעלות PaCO2 (הלדן, ביטול HPV).",
        "sci": true
       },
       {
-       "a": 55.23,
-       "b": 64.82,
+       "a": 102.12,
+       "b": 115.28,
        "en": "Follow the pressure and the direction – the physiology explains itself.",
        "he": "עוקבים אחרי הלחץ והכיוון – והפיזיולוגיה מסבירה את עצמה.",
        "sci": false
