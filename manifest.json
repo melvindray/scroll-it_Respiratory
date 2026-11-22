@@ -361,6 +361,247 @@
    ]
   },
   {
+   "id": "t1122x",
+   "day": "22/11/2026",
+   "title": "גישה סיסטמטית לצילום חזה – בסיפורים",
+   "title_en": "A systematic approach to chest X-rays, told as stories",
+   "course": "מערכת הנשימה",
+   "poster": "clips/t1122x/poster.jpg",
+   "clips": [
+    {
+     "n": 1,
+     "title": "שופטים את הצילום · DPIR",
+     "dur": 154.6,
+     "v": {
+      "en": "clips/t1122x/c01_en.mp4"
+     },
+     "cues": [
+      {
+       "a": 1.0,
+       "b": 12.87,
+       "en": "Reading a chest X-ray: judge the film first, then read it in a fixed order.",
+       "he": "קריאת צילום חזה: קודם שופטים את הצילום, ואז קוראים אותו תמיד באותו סדר.",
+       "sci": false
+      },
+      {
+       "a": 13.22,
+       "b": 32.94,
+       "en": "A bad film invents disease: too white = fake consolidation · shallow breath = fake big heart · rotation = fake hilar mass.",
+       "he": "צילום גרוע ממציא מחלה: לבן מדי = תסנין מדומה · נשימה רדודה = לב גדול מדומה · סיבוב = גוש מדומה בהילום.",
+       "sci": false
+      },
+      {
+       "a": 33.29,
+       "b": 55.61,
+       "en": "DPIR out loud: Details · Penetration (spine just visible behind heart) · Inspiration (9–10 posterior ribs adult, 8–9 child) · Rotation (clavicles symmetric).",
+       "he": "DPIR בקול: פרטים · חדירות (עמוד השדרה בקושי נראה מאחורי הלב) · שאיפה (9–10 צלעות אחוריות במבוגר, 8–9 בילד) · סיבוב (עצמות בריח סימטריות).",
+       "sci": false
+      },
+      {
+       "a": 55.96,
+       "b": 154.39,
+       "en": "IN SCIENCE: DPIR out loud · Details: patient, date, R/L (reversed → missed dextrocardia) · Penetration: spine just visible behind heart; too white mimics consolidation, too black hides · Inspiration: 9–10 posterior ribs adult, 8–9 child; shallow → fake cardiomegaly · Rotation: clavicles equidistant from spinous processes → else fake hilar mass · heart ≤ 50% adult, ≤ 60% child (straight film only).",
+       "he": "במדע: DPIR בקול · פרטים: מטופל, תאריך, ימין/שמאל (סימון הפוך ← מפספסים דקסטרוקרדיה) · חדירות: עמוד השדרה בקושי נראה מאחורי הלב; לבן מדי מדמה תסנין, שחור מדי מסתיר · שאיפה: 9–10 צלעות אחוריות במבוגר, 8–9 בילד; רדודה ← לב גדול מדומה · סיבוב: עצמות בריח במרחק שווה מהשלוחות הקוציות ← אחרת גוש מדומה בהילום · לב עד 50% במבוגר, עד 60% בילד (רק בצילום ישר).",
+       "sci": true
+      }
+     ]
+    },
+    {
+     "n": 2,
+     "title": "זווית הצילום · PA, AP ודקוביטוס",
+     "dur": 121.9,
+     "v": {
+      "en": "clips/t1122x/c02_en.mp4"
+     },
+     "cues": [
+      {
+       "a": 0.17,
+       "b": 16.26,
+       "en": "Far from the detector = magnified. PA erect: heart near the detector → true size. AP supine: heart far → artificially big.",
+       "he": "רחוק מהגלאי = מוגדל. PA בעמידה: הלב קרוב לגלאי ← גודל אמיתי. AP בשכיבה: הלב רחוק ← מוגדל באופן מלאכותי.",
+       "sci": false
+      },
+      {
+       "a": 16.61,
+       "b": 38.16,
+       "en": "Decubitus (horizontal beam): air rises, fluid falls · small PTX → suspect side up · small effusion → suspect side down · doesn't move → not free (loculated, adhesions, solid).",
+       "he": "דקוביטוס (קרן אופקית): אוויר עולה, נוזל יורד · חזה אוויר קטן ← הצד החשוד למעלה · תפליט קטן ← הצד החשוד למטה · לא זז ← לא חופשי (מכונס, הידבקויות, מוצק).",
+       "sci": false
+      },
+      {
+       "a": 38.51,
+       "b": 121.68,
+       "en": "IN SCIENCE: far from detector = magnified · PA erect: true heart size, only film for CTR · AP supine (ICU, neonates): heart magnified → never call cardiomegaly · lateral: localizes (retrosternal, hilar, retrocardiac) · decubitus named by the side down · air rises, fluid falls: PTX side up, effusion side down · doesn't move → not free.",
+       "he": "במדע: רחוק מהגלאי = מוגדל · PA בעמידה: גודל לב אמיתי, הצילום היחיד ל-CTR · AP בשכיבה (טיפול נמרץ, יילודים): לב מוגדל ← לא מאבחנים הגדלת לב · לטרלי: ממקם (מאחורי עצם החזה, הילום, מאחורי הלב) · דקוביטוס נקרא לפי הצד שלמטה · אוויר עולה, נוזל יורד: חזה אוויר – צד חשוד למעלה, תפליט – למטה · לא זז ← לא חופשי.",
+       "sci": true
+      }
+     ]
+    },
+    {
+     "n": 3,
+     "title": "חמש צפיפויות · הגבול",
+     "dur": 108.7,
+     "v": {
+      "en": "clips/t1122x/c03_en.mp4"
+     },
+     "cues": [
+      {
+       "a": 0.18,
+       "b": 16.62,
+       "en": "Five densities: air black · fat dark gray · water/soft tissue light gray · bone white · metal brightest.",
+       "he": "חמש צפיפויות: אוויר שחור · שומן אפור כהה · מים/רקמה רכה אפור בהיר · עצם לבן · מתכת הכי לבנה.",
+       "sci": false
+      },
+      {
+       "a": 16.97,
+       "b": 34.71,
+       "en": "A border exists only where two densities meet → lose the air, lose the border (basis of the silhouette sign).",
+       "he": "גבול קיים רק היכן ששתי צפיפויות נפגשות ← מאבדים את האוויר, מאבדים את הגבול (הבסיס של סימן הצללית).",
+       "sci": false
+      },
+      {
+       "a": 35.06,
+       "b": 108.57,
+       "en": "IN SCIENCE: air (black: lungs, trachea, gastric bubble) · fat (dark gray) · water/soft tissue (light gray: heart, vessels, muscle, liver – and effusion = consolidation = blood) · bone/calcium (white) · metal (brightest: ETT, lines, drains, clips, electrodes, coins) · border only where densities differ → lose air, lose border = silhouette sign.",
+       "he": "במדע: אוויר (שחור: ריאות, קנה, בועת קיבה) · שומן (אפור כהה) · מים/רקמה רכה (אפור בהיר: לב, כלי דם, שריר, כבד – ותפליט = תסנין = דם) · עצם/סידן (לבן) · מתכת (הכי לבנה: טובוס, קווים, נקזים, סיכות, אלקטרודות, מטבעות) · גבול רק היכן שהצפיפויות שונות ← מאבדים אוויר, מאבדים גבול = סימן הצללית.",
+       "sci": true
+      }
+     ]
+    },
+    {
+     "n": 4,
+     "title": "A · דרכי אוויר ומיצר",
+     "dur": 109.7,
+     "v": {
+      "en": "clips/t1122x/c04_en.mp4"
+     },
+     "cues": [
+      {
+       "a": 0.18,
+       "b": 14.66,
+       "en": "Fixed order ABCDEF protects against 'satisfaction of search' (finding one thing and stopping).",
+       "he": "סדר קבוע ABCDEF מגן מפני 'satisfaction of search' (מוצאים דבר אחד ומפסיקים).",
+       "sci": false
+      },
+      {
+       "a": 15.01,
+       "b": 32.2,
+       "en": "A: trachea central? pulled toward = volume loss (collapse, fibrosis) · pushed away = space-occupying (tension PTX, big effusion, mass) · carina T4–T6.",
+       "he": "A: הקנה במרכז? נמשך לכיוון = אובדן נפח (קריסה, פיברוזיס) · נדחק הרחק = משהו תופס מקום (חזה אוויר בלחץ, תפליט גדול, גוש) · הקרינה T4–T6.",
+       "sci": false
+      },
+      {
+       "a": 32.55,
+       "b": 109.54,
+       "en": "IN SCIENCE: fixed order ABCDEF vs satisfaction of search · A = airway + mediastinum · trachea pulled toward = volume loss · pushed away = PTX / effusion / mass · carina T4–T6 = ETT reference · right bronchus more vertical → aspiration / tubes go right · wide upper mediastinum in a child = thymus (sail sign), not a mass.",
+       "he": "במדע: סדר קבוע ABCDEF מול satisfaction of search · A = דרכי אוויר ומיצר · קנה נמשך = אובדן נפח · נדחק = חזה אוויר / תפליט / גוש · קרינה T4–T6 = נקודת ייחוס לטובוס · הסימפון הימני אנכי יותר ← שאיפה וצינורות הולכים ימינה · מיצר עליון רחב בילד = תימוס (סימן המפרש), לא גוש.",
+       "sci": true
+      }
+     ]
+    },
+    {
+     "n": 5,
+     "title": "B ו-C · ריאות ולב",
+     "dur": 165.1,
+     "v": {
+      "en": "clips/t1122x/c05_en.mp4"
+     },
+     "cues": [
+      {
+       "a": 0.18,
+       "b": 20.07,
+       "en": "B: compare left vs right, upper/middle/lower · too black = hyperlucency · too white = opacification · sharp costophrenic angles; blunted meniscus = earliest effusion sign.",
+       "he": "B: משווים שמאל מול ימין, עליון/אמצעי/תחתון · שחור מדי = היפרלוצנסי · לבן מדי = אטימות · זוויות קוסטופרניות חדות; מניסקוס קהה = הסימן המוקדם לתפליט.",
+       "sci": false
+      },
+      {
+       "a": 20.42,
+       "b": 38.81,
+       "en": "C: CTR < 0.5 (≤ 0.6 infant), erect PA only · right border: ascending aorta + RA · left: knuckle, PA, LV · boot = Fallot · egg on a string = TGA · plethoric vs oligaemic vessels.",
+       "he": "C: CTR מתחת ל-0.5 (עד 0.6 בתינוק), רק PA בעמידה · גבול ימני: אאורטה עולה + פרוזדור ימני · שמאלי: קשת, עורק ריאה, חדר שמאלי · מגף = פאלו · ביצה על חוט = TGA · כלי דם עשירים מול דלילים.",
+       "sci": false
+      },
+      {
+       "a": 39.16,
+       "b": 164.97,
+       "en": "IN SCIENCE: B: left vs right by zone · pleural edge to the costophrenic angles · blunted + meniscus = earliest effusion (erect) · hyperlucency vs opacification · describe before diagnosing · C: CTR = max cardiac ÷ max internal thoracic width, < 0.5 adult, ≤ 0.6 infant, erect PA only · borders: R = ascending aorta + RA; L = knuckle + PA + LV · LA as a border = enlarged · boot = Fallot · egg on a string = TGA · double right border = big LA · plethoric = L→R shunt · oligaemic = obstructed flow.",
+       "he": "במדע: B: שמאל מול ימין לפי אזורים · קו הפלאורה עד הזוויות הקוסטופרניות · זווית קהה + מניסקוס = התפליט המוקדם (בעמידה) · היפרלוצנסי מול אטימות · מתארים לפני שמאבחנים · C: ‏CTR = רוחב לב מרבי ÷ רוחב חזה פנימי מרבי, מתחת ל-0.5 במבוגר, עד 0.6 בתינוק, רק PA בעמידה · גבולות: ימין = אאורטה עולה + פרוזדור ימני; שמאל = קשת + עורק ריאה + חדר שמאלי · פרוזדור שמאלי כגבול = מוגדל · מגף = פאלו · ביצה על חוט = TGA · גבול ימני כפול = פרוזדור שמאלי גדול · עשיר בכלי דם = shunt משמאל לימין · דליל = חסימה בזרימה.",
+       "sci": true
+      }
+     ]
+    },
+    {
+     "n": 6,
+     "title": "D, E, F · סרעפת, עצמות, עצמים זרים",
+     "dur": 149.8,
+     "v": {
+      "en": "clips/t1122x/c06_en.mp4"
+     },
+     "cues": [
+      {
+       "a": 0.18,
+       "b": 15.79,
+       "en": "D: right dome slightly higher · flat = hyperinflation · raised = phrenic palsy / eventration / volume loss · free air under the diaphragm = perforation (emergency).",
+       "he": "D: הכיפה הימנית מעט גבוהה · שטוחה = היפראינפלציה · מורמת = שיתוק פרני / אוונטרציה / אובדן נפח · אוויר חופשי מתחת לסרעפת = ניקוב (חירום).",
+       "sci": false
+      },
+      {
+       "a": 16.14,
+       "b": 36.04,
+       "en": "E: ribs, clavicles, soft tissue, surgical emphysema · child: posterior / different-age rib fractures = non-accidental trauma → escalate · F: every tube, line, drain + swallowed objects.",
+       "he": "E: צלעות, עצמות בריח, רקמות רכות, אוויר תת עורי · בילד: שברי צלעות אחוריים / בגילים שונים = טראומה לא מקרית ← להסלים · F: כל צינור, קו, נקז + עצמים שנבלעו.",
+       "sci": false
+      },
+      {
+       "a": 36.39,
+       "b": 149.63,
+       "en": "IN SCIENCE: D: right slightly higher · flat = hyperinflation · raised = phrenic palsy / eventration / volume loss · free air under the diaphragm (erect) = perforation, emergency · E: count ribs, clavicles, scapulae, spine, soft tissue, surgical emphysema · child: different-age / posterior rib fractures = NAT → escalate · F: ETT few cm above carina · CVC at SVC–RA junction · NG below the diaphragm · drain in the pleura · coin in esophagus seen face-on; lateral localizes · pacing wires after cardiac surgery.",
+       "he": "במדע: D: הימנית מעט גבוהה · שטוחה = היפראינפלציה · מורמת = שיתוק פרני / אוונטרציה / אובדן נפח · אוויר חופשי מתחת לסרעפת (בעמידה) = ניקוב, חירום · E: לספור צלעות, עצמות בריח, שכמות, חוליות, רקמות רכות, אוויר תת עורי · בילד: שברים בגילים שונים / אחוריים = טראומה לא מקרית ← להסלים · F: טובוס כמה ס\"מ מעל הקרינה · קו מרכזי בצומת SVC–פרוזדור ימני · זונדה מתחת לסרעפת · נקז בפלאורה · מטבע בוושט נראה מלפנים; לטרלי ממקם · חוטי קוצב אחרי ניתוח לב.",
+       "sci": true
+      }
+     ]
+    },
+    {
+     "n": 7,
+     "title": "מעבר לשיעור · חזה אוויר, לבן מדי, צללית",
+     "dur": 178.7,
+     "v": {
+      "en": "clips/t1122x/c07_en.mp4"
+     },
+     "cues": [
+      {
+       "a": 0.17,
+       "b": 17.88,
+       "en": "From the slides (not covered in class): pneumothorax = no peripheral markings + visible pleural edge · tension = clinical → needle, not another film · a normal film doesn't exclude it in a deteriorating patient.",
+       "he": "מהשקפים (לא נלמד בשיעור): חזה אוויר = אין סימני ריאה בהיקף + קו פלאורה נראה · בלחץ = אבחנה קלינית ← מחט, לא עוד צילום · צילום תקין לא שולל אצל מטופל שמידרדר.",
+       "sci": false
+      },
+      {
+       "a": 18.23,
+       "b": 38.22,
+       "en": "Too white: effusion pushes away · collapse pulls toward · consolidation no shift (air bronchograms) · silhouette: lost border → lobe.",
+       "he": "לבן מדי: תפליט דוחק הרחק · קריסה מושכת לכיוון · תסנין בלי תזוזה (ברונכוגרמות אוויר) · צללית: גבול שנעלם ← אונה.",
+       "sci": false
+      },
+      {
+       "a": 38.57,
+       "b": 159.08,
+       "en": "IN SCIENCE (slides, not covered in class): PTX: no peripheral markings + pleural edge · tension: shift, depressed diaphragm, splayed ribs → needle, not a film · effusion: meniscus, pushes away, veils on supine, US · consolidation: air bronchograms, no shift, round pneumonia in children · collapse: pulls toward · mediastinal mass: no air bronchogram, obtuse margins · silhouette: R paratracheal → RUL · R heart → RML · R diaphragm → RLL · knuckle → LUL · L heart → lingula · L diaphragm → LLL.",
+       "he": "במדע (מהשקפים, לא נלמד בשיעור): חזה אוויר: אין סימנים בהיקף + קו פלאורה · בלחץ: תזוזה, סרעפת מושפלת, צלעות מרווחות ← מחט, לא צילום · תפליט: מניסקוס, דוחק הרחק, מכסה בשכיבה, אולטרסאונד · תסנין: ברונכוגרמות אוויר, בלי תזוזה, דלקת עגולה בילדים · קריסה: מושכת לכיוון · גוש במיצר: בלי ברונכוגרמה, שוליים קהים · צללית: פרהטרכאלי ימני ← RUL · גבול לב ימני ← RML · סרעפת ימנית ← RLL · קשת ← LUL · גבול לב שמאלי ← לינגולה · סרעפת שמאלית ← LLL.",
+       "sci": true
+      },
+      {
+       "a": 160.03,
+       "b": 176.7,
+       "en": "Judge it · read ABCDEF · describe, then diagnose · the patient answers the question.",
+       "he": "שופטים · קוראים ABCDEF · מתארים ואז מאבחנים · הצילום שואל, המטופל עונה.",
+       "sci": false
+      }
+     ]
+    }
+   ]
+  },
+  {
    "id": "t1119t",
    "day": "19/11/2026",
    "title": "כירורגיית חזה והשתלת ריאה – בסיפורים",
