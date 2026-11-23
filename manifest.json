@@ -3,6 +3,279 @@
  "system_he": "מערכת הנשימה",
  "films": [
   {
+   "id": "t1125",
+   "day": "25/11/2026",
+   "title": "מחלות הפלאורה – בסיפורים (הכנה)",
+   "title_en": "Pleural disease, told as stories (prep)",
+   "course": "מערכת הנשימה",
+   "poster": "clips/t1125/poster.jpg",
+   "clips": [
+    {
+     "n": 1,
+     "title": "שתי זכוכיות רטובות · אנטומיה ומחזור הנוזל",
+     "dur": 178.4,
+     "v": {
+      "en": "clips/t1125/c01_en.mp4"
+     },
+     "cues": [
+      {
+       "a": 1.0,
+       "b": 12.64,
+       "en": "The pleura: invisible until it fills with fluid, pus, blood or air.",
+       "he": "הפלאורה: לא מרגישים אותה, עד שהיא מתמלאת בנוזל, מוגלה, דם או אוויר.",
+       "sci": false
+      },
+      {
+       "a": 12.99,
+       "b": 34.27,
+       "en": "Two layers + a thin film of fluid: lubrication and mechanical coupling (surface tension) → negative pleural pressure keeps the lung open.",
+       "he": "שתי שכבות + שכבה דקה של נוזל: סיכה וצימוד מכני (מתח פנים) ← לחץ פלאורלי שלילי מחזיק את הריאה פתוחה.",
+       "sci": false
+      },
+      {
+       "a": 34.62,
+       "b": 53.03,
+       "en": "Fluid in from parietal capillaries, out through parietal lymphatic stomata · ~0.2 mL/kg · lymphatics can absorb many times more before fluid accumulates.",
+       "he": "נוזל נכנס מהנימים של הפלאורה הפריאטלית ויוצא דרך פתחי הלימפה שלה · כ-0.2 מ\"ל/ק\"ג · הלימפה יכולה לפנות פי כמה וכמה לפני שנוזל מצטבר.",
+       "sci": false
+      },
+      {
+       "a": 53.38,
+       "b": 178.25,
+       "en": "IN SCIENCE: visceral (lung) vs parietal (wall, mediastinum, diaphragm) · pleura 2 intercostal spaces below lung: rib 8 MCL · 10 MAL · 12 paravertebral · blood: parietal = systemic (intercostal, internal thoracic, phrenic); visceral = bronchial · ~0.2 mL/kg · in: parietal capillaries · out: parietal lymphatic stomata · reserve ×40 (slide) / ×20 (Harrison) · effusion = too much in or blocked out · functions: lubrication, coupling, negative pressure, immunity, recoil · apex more negative → PTX upper · effusion → basal atelectasis · US: lung sliding.",
+       "he": "במדע: ויסצרלית (ריאה) מול פריאטלית (דופן, מיצר, סרעפת) · הפלאורה 2 מרווחים מתחת לריאה: צלע 8 בקו האמצע-בריחי · 10 בקו בית השחי · 12 ליד עמוד השדרה · דם: פריאטלית = מערכתי (בין-צלעי, חזה פנימי, פרני); ויסצרלית = ברונכיאלי · כ-0.2 מ\"ל/ק\"ג · נכנס: נימים פריאטליים · יוצא: פתחי לימפה פריאטליים · רזרבה פי 40 (שקף) / פי 20 (הריסון) · תפליט = יותר מדי נכנס או ניקוז חסום · תפקידים: סיכה, צימוד, לחץ שלילי, חיסון, רתיעה · בקודקוד שלילי יותר ← חזה אוויר למעלה · תפליט ← תמט בבסיס · אולטרסאונד: החלקת ריאה.",
+       "sci": true
+      }
+     ]
+    },
+    {
+     "n": 2,
+     "title": "קריטריונים של לייט · טרנסודט מול אקסודט",
+     "dur": 166.6,
+     "v": {
+      "en": "clips/t1125/c02_en.mp4"
+     },
+     "cues": [
+      {
+       "a": 0.18,
+       "b": 19.83,
+       "en": "Transudate = pressure problem (hydrostatic ↑ / oncotic ↓), the pleura is healthy · exudate = the pleura itself is diseased (inflammation, infection, tumor).",
+       "he": "טרנסודט = בעיית לחצים (הידרוסטטי ↑ / אונקוטי ↓), הפלאורה בריאה · אקסודט = הפלאורה עצמה חולה (דלקת, זיהום, גידול).",
+       "sci": false
+      },
+      {
+       "a": 20.18,
+       "b": 39.29,
+       "en": "Light's criteria (any one = exudate): protein pleural/serum > 0.5 · LDH pleural/serum > 0.6 · pleural LDH > ⅔ upper limit of serum normal.",
+       "he": "קריטריונים של לייט (אחד מספיק = אקסודט): חלבון נוזל/דם > 0.5 · LDH נוזל/דם > 0.6 · LDH בנוזל > ⅔ מהגבול העליון בדם.",
+       "sci": false
+      },
+      {
+       "a": 39.64,
+       "b": 166.43,
+       "en": "IN SCIENCE: transudate = systemic (↑ hydrostatic / ↓ oncotic), healthy pleura: heart failure (most common), renal failure, cirrhosis, nephrotic, hypoalbuminemia · exudate = diseased pleura/lymphatics: malignancy, infection, inflammation, drugs, asbestos, post-surgery, hemothorax, chylothorax · PE in both · Light (≥ 1): protein ratio > 0.5 · LDH ratio > 0.6 · LDH > ⅔ ULN · protein = leak · LDH = inflammation / cell turnover · high protein + low LDH: paramalignant, chylothorax, trapped lung, yellow nail, sarcoid, diuresed HF (albumin gradient) · low protein + high LDH: parapneumonic, malignant · very high protein: TB, myeloma, RA · very low: urinothorax, dialysis, VP shunt.",
+       "he": "במדע: טרנסודט = מערכתי (↑ הידרוסטטי / ↓ אונקוטי), פלאורה בריאה: אי ספיקת לב (הכי שכיח), אי ספיקת כליות, שחמת, נפרוטי, היפואלבומינמיה · אקסודט = פלאורה/לימפה חולה: ממאירות, זיהום, דלקת, תרופות, אסבסט, אחרי ניתוח, המותורקס, כילותורקס · תסחיף ריאתי בשניהם · לייט (לפחות אחד): יחס חלבון > 0.5 · יחס LDH > 0.6 · LDH > ⅔ מהגבול העליון · חלבון = דליפה · LDH = דלקת / תחלופת תאים · חלבון גבוה + LDH נמוך: פראממאירי, כילותורקס, ריאה לכודה, ציפורניים צהובות, סרקואיד, אי ספיקת לב אחרי משתנים (מפל אלבומין) · חלבון נמוך + LDH גבוה: פרהפנאומוני, ממאיר · חלבון גבוה מאוד: שחפת, מיאלומה, RA · נמוך מאוד: שתן, דיאליזה, שאנט.",
+       "sci": true
+      }
+     ]
+    },
+    {
+     "n": 3,
+     "title": "בריכה בחזה · סימנים ודקירה",
+     "dur": 166.4,
+     "v": {
+      "en": "clips/t1125/c03_en.mp4"
+     },
+     "cues": [
+      {
+       "a": 0.17,
+       "b": 15.41,
+       "en": "Dyspnea (most common) · pleuritic pain · signs: ↓ expansion, stony dull percussion, ↓ breath sounds, ↓ tactile fremitus, trachea away if large.",
+       "he": "קוצר נשימה (הכי שכיח) · כאב פלאוריטי · סימנים: ↓ התרחבות, הקשה עמומה כאבן, ↓ קולות נשימה, ↓ רטט קולי, קנה נדחק אם גדול.",
+       "sci": false
+      },
+      {
+       "a": 15.76,
+       "b": 33.29,
+       "en": "Tap it (ultrasound-guided): appearance · Light's · cells · glucose · pH · micro · cytology · clues: putrid = anaerobes · milky = chyle · food = esophageal rupture · black = fungi.",
+       "he": "דוקרים (בהנחיית אולטרסאונד): מראה · לייט · תאים · גלוקוז · pH · מיקרוביולוגיה · ציטולוגיה · רמזים: ריח רקוב = אנאירובים · חלבי = כילוס · שאריות מזון = קרע בוושט · שחור = פטריות.",
+       "sci": false
+      },
+      {
+       "a": 33.64,
+       "b": 166.24,
+       "en": "IN SCIENCE: dyspnea (most common) · pleuritic pain · orthopnea if massive · ↓ expansion · stony dull · ↓ breath sounds, ↓ fremitus · trachea away · CXR: > ~200 mL, meniscus; subpulmonic = high 'diaphragm' · US more sensitive, septations, guides tap · tap: appearance, protein + LDH, cells, glucose, pH (blood gas), micro, cytology · lymphocytes > 50%: malignancy, TB, lymphoma, HF, RA · > 80%: TB, lymphoma, RA · neutrophils: parapneumonic, PE · eosinophils: non-specific, not always benign · Hct > 50% of blood = hemothorax · ADA > 35 → TB · TG > 110 → chylothorax · amylase → pancreas / esophagus · pH < 7.2 → complicated / malignant · drugs: MTX, amiodarone, nitrofurantoin, dantrolene.",
+       "he": "במדע: קוצר נשימה (הכי שכיח) · כאב פלאוריטי · אורתופנאה בתפליט מסיבי · ↓ התרחבות · הקשה עמומה · ↓ קולות נשימה ורטט · קנה נדחק · צילום: מעל כ-200 מ\"ל, מניסקוס; תת-ריאתי = 'סרעפת' גבוהה · אולטרסאונד רגיש יותר, מחיצות, מנחה דקירה · דקירה: מראה, חלבון ו-LDH, תאים, גלוקוז, pH (במכשיר גזים), מיקרוביולוגיה, ציטולוגיה · לימפוציטים מעל 50%: ממאירות, שחפת, לימפומה, אי ספיקת לב, RA · מעל 80%: שחפת, לימפומה, RA · נויטרופילים: פרהפנאומוני, תסחיף · אאוזינופילים: לא ספציפי, לא תמיד שפיר · המטוקריט מעל 50% מהדם = המותורקס · ADA מעל 35 ← שחפת · טריגליצרידים מעל 110 ← כילותורקס · עמילאז ← לבלב / וושט · pH מתחת ל-7.2 ← מסובך / ממאיר · תרופות: מתוטרקסט, אמיודרון, ניטרופורנטואין, דנטרולן.",
+       "sci": true
+      }
+     ]
+    },
+    {
+     "n": 4,
+     "title": "נוזל מזוהם · פרהפנאומוני ואמפיאמה",
+     "dur": 163.6,
+     "v": {
+      "en": "clips/t1125/c04_en.mp4"
+     },
+     "cues": [
+      {
+       "a": 0.18,
+       "b": 20.44,
+       "en": "Stages: simple (sterile, free) → complicated (bacteria, pH < 7.2, ↓ glucose, ↑ LDH) → empyema (pus) → organizing (septations, peel).",
+       "he": "שלבים: פשוט (סטרילי, חופשי) ← מסובך (חיידקים, pH מתחת ל-7.2, ↓ גלוקוז, ↑ LDH) ← אמפיאמה (מוגלה) ← התארגנות (מחיצות, קליפה).",
+       "sci": false
+      },
+      {
+       "a": 20.79,
+       "b": 37.24,
+       "en": "Drain if: pus · positive Gram stain/culture · pH < 7.2 (± LDH > 1000) · loculated · large and symptomatic · loculated → tPA + DNase · failure → VATS / decortication.",
+       "he": "מנקזים אם: מוגלה · צביעת גרם/תרבית חיובית · pH מתחת ל-7.2 (± LDH מעל 1000) · מכונס · גדול ותסמיני · מכונס ← tPA + DNase · כישלון ← VATS / דקורטיקציה.",
+       "sci": false
+      },
+      {
+       "a": 37.58,
+       "b": 163.39,
+       "en": "IN SCIENCE: pneumonia + sepsis → CXR + US (CT if complex) · tap if > 20 mm · simple → complicated → empyema → organized (septations, peel) · fluid: turbid exudate, neutrophils, LDH > 1000, glucose < 60, pH < 7.2 · CAP organisms: S. pneumoniae, S. anginosus (milleri), S. aureus, anaerobes · CT: split pleura sign · CXR: convex border · drain: pus, Gram/culture +, pH < 7.2, loculated, large + symptomatic · IV antibiotics, early tap, analgesia, physio · tPA + DNase for loculations · surgery / decortication if failing · complications: sepsis, fibrothorax, trapped lung, BPF · RAPID score = 3-month mortality.",
+       "he": "במדע: דלקת ריאות + אלח דם ← צילום + אולטרסאונד (CT אם מורכב) · דקירה אם מעל 20 מ\"מ · פשוט ← מסובך ← אמפיאמה ← מאורגן (מחיצות, קליפה) · נוזל: אקסודט עכור, נויטרופילים, LDH מעל 1000, גלוקוז מתחת ל-60, pH מתחת ל-7.2 · חיידקים בקהילה: פנאומוקוק, סטרפטוקוקוס אנגינוסוס, סטפילוקוקוס זהוב, אנאירובים · CT: סימן הפלאורה המפוצלת · צילום: גבול קמור · נקז: מוגלה, גרם/תרבית חיובית, pH מתחת ל-7.2, מכונס, גדול ותסמיני · אנטיביוטיקה לווריד, דקירה מוקדמת, משככי כאב, פיזיותרפיה · tPA + DNase למחיצות · ניתוח / דקורטיקציה בכישלון · סיבוכים: אלח דם, פיברותורקס, ריאה לכודה, פיסטולה · RAPID = תמותה ל-3 חודשים.",
+       "sci": true
+      }
+     ]
+    },
+    {
+     "n": 5,
+     "title": "תפליט ממאיר · מזותליומה וגרורות",
+     "dur": 184.1,
+     "v": {
+      "en": "clips/t1125/c05_en.mp4"
+     },
+     "cues": [
+      {
+       "a": 0.18,
+       "b": 20.77,
+       "en": "Primary: mesothelioma (asbestos, latency 30–50 y; epithelioid best, sarcomatoid worst) · metastatic (much more common): lung > breast > lymphoma > ovary, GI, kidney, melanoma.",
+       "he": "ראשוני: מזותליומה (אסבסט, חביון 30–50 שנה; אפיתלואידית הכי טובה, סרקומטואידית הכי גרועה) · גרורתי (שכיח הרבה יותר): ריאה > שד > לימפומה > שחלה, מערכת עיכול, כליה, מלנומה.",
+       "sci": false
+      },
+      {
+       "a": 21.12,
+       "b": 44.43,
+       "en": "Recurrent symptomatic: talc pleurodesis (needs an expandable lung) or tunnelled pleural catheter (trapped lung, short life expectancy) · don't drain asymptomatic effusions · LENT score = prognosis.",
+       "he": "חוזר ותסמיני: פלאורודזיס עם טלק (צריך ריאה שמתפשטת) או צנתר פלאורלי מנותב (ריאה לכודה, תוחלת חיים קצרה) · לא מנקזים תפליט בלי תסמינים · LENT = פרוגנוזה.",
+       "sci": false
+      },
+      {
+       "a": 44.78,
+       "b": 183.94,
+       "en": "IN SCIENCE: mesothelioma = most common primary · asbestos (latency 30–50 y), erionite, radiation · epithelioid best, sarcomatoid worst, biphasic · calretinin, WT-1, CK5/6 · BAP1 · metastases ≫: lung, breast, lymphoma, ovary, GI, kidney, melanoma · fluid: exudate (~95%), bloody, lymphocytic, glucose/pH may be low; neutrophils = worse · work-up: US, CT/PET, cytology → biopsy / thoracoscopy · imaging: nodules, rind, mediastinal pleura, parietal > 1 cm · don't drain asymptomatic · therapeutic tap · talc pleurodesis (expandable lung) · tunnelled catheter (trapped lung, short survival) · LENT: LDH, ECOG, NLR, tumor type.",
+       "he": "במדע: מזותליומה = הסרטן הראשוני הנפוץ · אסבסט (חביון 30–50 שנה), אריוניט, קרינה · אפיתלואידית הכי טובה, סרקומטואידית הכי גרועה, מעורבת · קלרטינין, WT-1, CK5/6 · BAP1 · גרורות שכיחות הרבה יותר: ריאה, שד, לימפומה, שחלה, מערכת עיכול, כליה, מלנומה · נוזל: אקסודט (כ-95%), דמי, לימפוציטרי, גלוקוז/pH יכולים להיות נמוכים; נויטרופילים = פרוגנוזה גרועה · בירור: אולטרסאונד, CT/PET, ציטולוגיה ← ביופסיה / תורקוסקופיה · הדמיה: קשריות, קליפה, פלאורה מדיאסטינלית, פריאטלית מעל 1 ס\"מ · לא מנקזים בלי תסמינים · דקירה טיפולית · טלק (ריאה מתפשטת) · צנתר מנותב (ריאה לכודה, הישרדות קצרה) · LENT: LDH, תפקוד, יחס נויטרופילים/לימפוציטים, סוג גידול.",
+       "sci": true
+      }
+     ]
+    },
+    {
+     "n": 6,
+     "title": "אוויר בשק · חזה אוויר",
+     "dur": 181.5,
+     "v": {
+      "en": "clips/t1125/c06_en.mp4"
+     },
+     "cues": [
+      {
+       "a": 0.18,
+       "b": 21.79,
+       "en": "Primary spontaneous (young, tall, smoker, apical blebs) · secondary (underlying lung disease: COPD) · traumatic · iatrogenic · tension · catamenial · familial.",
+       "he": "ספונטני ראשוני (צעיר, גבוה, מעשן, בועות בקודקוד) · משני (מחלת ריאה: COPD) · טראומטי · יאטרוגני · בלחץ · קטמניאלי · משפחתי.",
+       "sci": false
+      },
+      {
+       "a": 22.14,
+       "b": 41.18,
+       "en": "Tension: one-way valve → shift, ↓ venous return, shock → clinical diagnosis → immediate needle decompression, then drain · secondary PTX: admit and drain.",
+       "he": "בלחץ: שסתום חד כיווני ← תזוזה, ↓ החזר ורידי, הלם ← אבחנה קלינית ← מחט מיד, ואז נקז · חזה אוויר משני: מאשפזים ומנקזים.",
+       "sci": false
+      },
+      {
+       "a": 41.53,
+       "b": 181.37,
+       "en": "IN SCIENCE: lost negative pressure → collapse, ↓ volumes, V/Q mismatch, hypoxemia · sudden dyspnea + pleuritic pain · ↓ expansion, hyper-resonant, ↓ breath sounds + fremitus · primary: blebs/bullae, porous visceral pleura · secondary (COPD): no reserve → admit + drain · tension = clinical → needle, then drain · CXR: no markings + pleural edge · US: no sliding, barcode, lung point · CT = gold standard · primary: conservative regardless of size / ambulatory valve · surgery after 2nd ipsilateral, 1st contralateral or pilot · no flying 4 weeks, no scuba ever · re-expansion edema · flail chest: ≥ 3 ribs × 2 places.",
+       "he": "במדע: אובדן לחץ שלילי ← קריסה, ↓ נפחים, אי-התאמה, היפוקסמיה · קוצר נשימה פתאומי + כאב פלאוריטי · ↓ התרחבות, הקשה היפר-רזוננטית, ↓ קולות נשימה ורטט · ראשוני: בועות, פלאורה ויסצרלית נקבובית · משני (COPD): אין רזרבה ← אשפוז ונקז · בלחץ = קליני ← מחט ואז נקז · צילום: אין סימני ריאה + קו פלאורה · אולטרסאונד: אין החלקה, ברקוד, נקודת ריאה · CT = תקן הזהב · ראשוני: שמרני בלי קשר לגודל / שסתום אמבולטורי · ניתוח אחרי אירוע שני באותו צד, ראשון בצד השני או טייס · לא לטוס 4 שבועות, לעולם לא צלילה · בצקת התפשטות מחדש · חזה מתנופף: 3 צלעות לפחות שבורות בשני מקומות.",
+       "sci": true
+      }
+     ]
+    },
+    {
+     "n": 7,
+     "title": "חתימות · שחפת, מייגס, משפחתי, אסבסט",
+     "dur": 188.1,
+     "v": {
+      "en": "clips/t1125/c07_en.mp4"
+     },
+     "cues": [
+      {
+       "a": 0.17,
+       "b": 20.98,
+       "en": "TB: young, endemic, lymphocytic, ADA > 35, often no lung lesion · Meigs: benign ovarian tumor + ascites + (right) effusion, cured by removal · yellow nail: nails + lymphedema + effusion.",
+       "he": "שחפת: צעיר, אזור אנדמי, לימפוציטרי, ADA מעל 35, לרוב בלי נגע בריאה · מייגס: גידול שחלה שפיר + מיימת + תפליט (ימני), נרפא בהסרה · ציפורניים צהובות: ציפורניים + בצקת לימפתית + תפליט.",
+       "sci": false
+      },
+      {
+       "a": 21.33,
+       "b": 42.8,
+       "en": "Familial PTX: Birt–Hogg–Dubé (FLCN, autosomal dominant; basal cysts, fibrofolliculomas, renal cancer) · Marfan (FBN1; lens, aorta) · asbestos: plaques ('candle wax'), benign effusion, rounded atelectasis, mesothelioma.",
+       "he": "חזה אוויר משפחתי: בירט-הוג-דובה (FLCN, אוטוזומלי דומיננטי; ציסטות בבסיס, פיברופוליקולומות, סרטן כליה) · מרפן (FBN1; עדשה, אאורטה) · אסבסט: פלאקים ('שעוות נר'), תפליט שפיר, תמט עגול, מזותליומה.",
+       "sci": false
+      },
+      {
+       "a": 43.15,
+       "b": 187.92,
+       "en": "IN SCIENCE: TB pleuritis: common extrapulmonary TB, young + endemic, delayed hypersensitivity, lymphocytic exudate, little lung disease, ADA > 35 · PE: small, exudative, bloody, may be the only clue · Meigs: benign ovarian tumor (fibroma) + ascites + right effusion, resolves after removal · FMF: MEFV, autosomal recessive, febrile serositis · yellow nail: nails + lymphedema + effusions · asbestos: calcified plaques ('candle wax'), benign effusion, rounded atelectasis, asbestosis, fibrothorax, mesothelioma · solitary fibrous tumor: benign, hypoglycemia · Birt–Hogg–Dubé: ~15% familial PTX, AD, FLCN, basal cysts, fibrofolliculomas, RCC 16–27% · Marfan: FBN1 → eyes, aorta, echo.",
+       "he": "במדע: שחפת פלאורלית: שחפת חוץ-ריאתית שכיחה, צעירים מאזור אנדמי, רגישות יתר מאוחרת, אקסודט לימפוציטרי, מעט מחלה בריאה, ADA מעל 35 · תסחיף: קטן, אקסודטיבי, דמי, לפעמים הרמז היחיד · מייגס: גידול שחלה שפיר (פיברומה) + מיימת + תפליט ימני, חולף אחרי הסרה · FMF: ‏MEFV, אוטוזומלי רצסיבי, סרוזיטיס עם חום · ציפורניים צהובות: ציפורניים + בצקת לימפתית + תפליטים · אסבסט: פלאקים מסוידים ('שעוות נר'), תפליט שפיר, תמט עגול, אסבסטוזיס, פיברותורקס, מזותליומה · גידול פיברוטי בודד: שפיר, היפוגליקמיה · בירט-הוג-דובה: כ-15% מחזה אוויר משפחתי, AD, ‏FLCN, ציסטות בבסיס, פיברופוליקולומות, סרטן כליה 16–27% · מרפן: FBN1 ← עיניים, אאורטה, אקו.",
+       "sci": true
+      }
+     ]
+    },
+    {
+     "n": 8,
+     "title": "פעולות · אולטרסאונד קודם, מעל הצלע",
+     "dur": 181.8,
+     "v": {
+      "en": "clips/t1125/c08_en.mp4"
+     },
+     "cues": [
+      {
+       "a": 0.17,
+       "b": 18.36,
+       "en": "Ultrasound first (more sensitive than CXR, guides everything) · thoracentesis: diagnostic / therapeutic · chest drain · image-guided biopsy · thoracoscopy (local anesthetic / VATS).",
+       "he": "קודם אולטרסאונד (רגיש יותר מצילום, מנחה הכול) · דקירה: אבחנתית / טיפולית · נקז חזה · ביופסיה מונחית הדמיה · תורקוסקופיה (בהרדמה מקומית / VATS).",
+       "sci": false
+      },
+      {
+       "a": 18.71,
+       "b": 34.21,
+       "en": "Complications: intercostal artery bleeding → hemothorax (pale, sweaty, tachycardic) · pneumothorax · infection · re-expansion edema · stay just above the rib.",
+       "he": "סיבוכים: דימום מעורק בין-צלעי ← המותורקס (חיוור, מזיע, טכיקרדי) · חזה אוויר · זיהום · בצקת התפשטות מחדש · נכנסים ממש מעל הצלע.",
+       "sci": false
+      },
+      {
+       "a": 34.56,
+       "b": 159.82,
+       "en": "IN SCIENCE: US: more sensitive than CXR, volume, septations, nodules, guides all · thoracentesis: diagnostic (new, infection, malignancy) / therapeutic · drain: large/symptomatic/secondary PTX, complicated parapneumonic/empyema, hemothorax, trauma, before pleurodesis, post-surgery · biopsy (image-guided core): undiagnosed exudate, negative cytology, TB, thickening · thoracoscopy: local anesthetic or VATS, + talc · tunnelled catheter: recurrent MPE, trapped lung, failed pleurodesis, short survival · pleurodesis: inflammation → fibrosis → symphysis; talc best (slurry / poudrage); needs expandable lung · go above the rib · post-procedure shock = bleeding.",
+       "he": "במדע: אולטרסאונד: רגיש מצילום, נפח, מחיצות, קשריות, מנחה הכול · דקירה: אבחנתית (חדש, זיהום, ממאירות) / טיפולית · נקז: חזה אוויר גדול/תסמיני/משני, פרהפנאומוני מסובך/אמפיאמה, המותורקס, טראומה, לפני פלאורודזיס, אחרי ניתוח · ביופסיה (מחט עבה בהנחיה): אקסודט לא מאובחן, ציטולוגיה שלילית, שחפת, עיבוי · תורקוסקופיה: מקומית או VATS, + טלק · צנתר מנותב: תפליט ממאיר חוזר, ריאה לכודה, כישלון פלאורודזיס, הישרדות קצרה · פלאורודזיס: דלקת ← פיברוזיס ← הדבקה; טלק הכי יעיל (תרחיף / אבקה); צריך ריאה שמתפשטת · נכנסים מעל הצלע · הלם אחרי פעולה = דימום.",
+       "sci": true
+      },
+      {
+       "a": 160.77,
+       "b": 179.77,
+       "en": "Ultrasound · Light's · drain pH < 7.2 · glue only an expandable lung · tension → needle.",
+       "he": "אולטרסאונד · לייט · מנקזים pH מתחת ל-7.2 · מדביקים רק ריאה שמתפשטת · בלחץ ← מחט.",
+       "sci": false
+      }
+     ]
+    }
+   ],
+   "quiz": "quiz/t1125.json"
+  },
+  {
    "id": "t1123",
    "day": "23/11/2026",
    "title": "COPD ומשאפים – בסיפורים",
