@@ -294,10 +294,9 @@
     {
      "n": 1,
      "title": "מה זה COPD · שתי דרכים למחלה",
-     "dur": 161.3,
+     "dur": 161.9,
      "v": {
-      "en": "clips/t1123/c01_en.mp4",
-      "he": "clips/t1123/c01_he.mp4"
+      "en": "clips/t1123/c01_en.mp4"
      },
      "cues": [
       {
@@ -323,9 +322,9 @@
       },
       {
        "a": 53.42,
-       "b": 161.16,
-       "en": "IN SCIENCE: GOLD 2026 · heterogeneous · chronic symptoms · airways (bronchitis, bronchiolitis) and/or alveoli (emphysema) · persistent, often progressive obstruction · 2 trajectories: low peak (poor growth) vs normal peak + fast decline (smoking) · modifiers: genes, age/sex, development, exposures, SES, asthma/AHR, chronic bronchitis, infections · type 2 inflammation in ≤ 30%: eosinophils predict exacerbations + ICS response.",
-       "he": "במדע: GOLD 2026 · מחלה הטרוגנית · תסמינים כרוניים · דרכי אוויר (ברונכיטיס, ברונכיוליטיס) ו/או נאדיות (אמפיזמה) · חסימה קבועה, לרוב מתקדמת · שני מסלולים: שיא נמוך (התפתחות לקויה) מול שיא תקין + ירידה מהירה (עישון) · משפיעים: גנטיקה, גיל/מין, התפתחות, חשיפות, מצב סוציו-אקונומי, אסתמה, ברונכיטיס כרונית, זיהומים · דלקת מסוג 2 בעד 30%: אאוזינופילים מנבאים התלקחויות ותגובה ל-ICS.",
+       "b": 161.68,
+       "en": "IN SCIENCE: GOLD 2026 · heterogeneous (inflammation + phenotype differ) · chronic symptoms · airways and/or alveoli · persistent, often progressive obstruction · GETomics = genes × environment × time · FEV1 peaks ~21, then declines; normal lung has reserve · smoker: faster slope → threshold ~60 · preterm: low peak · genes: 60 pack-years without COPD vs 10 with · women more affected; ~600 M by 2050 · type 2 in ≤ 30%: eosinophils → exacerbations + ICS response.",
+       "he": "במדע: GOLD 2026 · מחלה הטרוגנית (דלקת ופנוטיפ שונים) · תסמינים כרוניים · דרכי אוויר ו/או נאדיות · חסימה קבועה, לרוב מתקדמת · GETomics = גנים × סביבה × זמן · שיא FEV1 בגיל ~21 ואז ירידה; לריאה תקינה יש רזרבה · מעשן: שיפוע מהיר ← סף בגיל ~60 · פג: שיא נמוך · גנטיקה: 60 שנות חפיסה בלי מחלה מול 10 עם · נשים נפגעות יותר; ~600 מיליון ב-2050 · דלקת מסוג 2 בעד 30%: אאוזינופילים ← התלקחויות ותגובה ל-ICS.",
        "sci": true
       }
      ]
@@ -333,14 +332,13 @@
     {
      "n": 2,
      "title": "הנזק · פרוטאזות, α1AT, לכידת אוויר",
-     "dur": 146.6,
+     "dur": 166.2,
      "v": {
-      "en": "clips/t1123/c02_en.mp4",
-      "he": "clips/t1123/c02_he.mp4"
+      "en": "clips/t1123/c02_en.mp4"
      },
      "cues": [
       {
-       "a": 0.18,
+       "a": 0.17,
        "b": 20.52,
        "en": "Protease–antiprotease imbalance: neutrophil / macrophage elastases cut elastin · α1-antitrypsin = the guard · walls destroyed → emphysema.",
        "he": "חוסר איזון בין פרוטאזות לאנטי-פרוטאזות: אלסטאזות של נויטרופילים ומקרופאגים חותכות אלסטין · אלפא-1 אנטיטריפסין = השומר · דפנות נהרסות ← אמפיזמה.",
@@ -355,9 +353,9 @@
       },
       {
        "a": 38.76,
-       "b": 146.46,
-       "en": "IN SCIENCE: 3 damages · 1. tissue destruction = emphysema: enlarged air spaces distal to terminal bronchioles + wall destruction · protease (neutrophils, macrophages) > antiprotease (α1AT) · smokers: centriacinar, upper lobes · α1AT deficiency: panacinar, lower lobes, ~1%, think of it in the young · 2. airway remodeling: small airways = main resistance, early · 3. vascular change → pulmonary hypertension · no tethering → expiratory collapse → air trapping → hyperinflation · microbiome → inflammation, exacerbations.",
-       "he": "במדע: שלושה נזקים · 1. הרס רקמה = אמפיזמה: הרחבת חללי אוויר דיסטלית לסימפונות הסופיים + הרס דפנות · פרוטאזות (נויטרופילים, מקרופאגים) מול אנטי-פרוטאזות (α1AT) · מעשנים: צנטריאצינרית, אונות עליונות · חסר α1AT: פנאצינרית, אונות תחתונות, כ-1%, לחשוב עליו בצעירים · 2. שינוי מבני בדרכי האוויר: דרכי אוויר קטנות = עיקר ההתנגדות, מוקדם · 3. שינוי וסקולרי ← יתר לחץ דם ריאתי · אין עיגון ← קריסה בנשיפה ← לכידת אוויר ← היפראינפלציה · מיקרוביום ← דלקת, התלקחויות.",
+       "b": 166.04,
+       "en": "IN SCIENCE: 3 mechanisms: inflammation · structure · dysbiosis · mainly neutrophilic (CXCR1/2, NETs); eosinophilic in a subset · tissue destruction: elastase > antielastase (α1AT) → walls lost = emphysema · smokers centriacinar, upper · α1AT panacinar, lower · recoil ↓ + tethering lost → expiratory collapse → air trapping, ↑ RV · remodeling: fibrosis, muscle hypertrophy, goblet hyperplasia, sticky mucus (expectorants) · hypoxemia → vascular remodeling → PH · microbiome.",
+       "he": "במדע: שלושה מנגנונים: דלקת · מבנה · דיסביוזיס · בעיקר נויטרופילית (CXCR1/2, מלכודות); אאוזינופילית בחלק · הרס רקמה: אלסטאז > אנטי-אלסטאז (α1AT) ← הדפנות נעלמות = אמפיזמה · מעשנים צנטריאצינרית, עליונה · α1AT פנאצינרית, תחתונה · רתיעה ↓ + עיגון אבד ← קריסה בנשיפה ← לכידת אוויר, ↑ RV · שינוי מבני: פיברוזיס, היפרטרופיה, תאי גובלט, ריר צמיג (מכייחים) · היפוקסמיה ← שינוי בכלי דם ← יתר לחץ דם ריאתי · מיקרוביום.",
        "sci": true
       }
      ]
@@ -365,14 +363,13 @@
     {
      "n": 3,
      "title": "נטל המחלה · התלקחויות",
-     "dur": 135.6,
+     "dur": 151.7,
      "v": {
-      "en": "clips/t1123/c03_en.mp4",
-      "he": "clips/t1123/c03_he.mp4"
+      "en": "clips/t1123/c03_en.mp4"
      },
      "cues": [
       {
-       "a": 0.17,
+       "a": 0.18,
        "b": 19.87,
        "en": "~392 million cases (10.3%, 2019) · 3rd cause of death worldwide · ~3.7 million deaths a year · far less known than diabetes.",
        "he": "כ-392 מיליון חולים (10.3%, 2019) · סיבת המוות השלישית בעולם · כ-3.7 מיליון מקרי מוות בשנה · מוכרת הרבה פחות מסוכרת.",
@@ -387,9 +384,9 @@
       },
       {
        "a": 35.86,
-       "b": 135.43,
-       "en": "IN SCIENCE: prevalence ~10–12% · ~392 million (2019) · 3rd cause of death · ~3.7 million deaths/year · exacerbation: acute worsening ≤ 14 days · ↑ dyspnea and/or cough + sputum · ± tachypnea, tachycardia · trigger: infection, pollution, other insult · consequences: QoL, symptoms, faster FEV1 decline, cost, mortality (more = worse survival) · comorbidities: cardiovascular, muscle dysfunction, metabolic syndrome, osteoporosis, depression/anxiety, lung + smoking cancers.",
-       "he": "במדע: שכיחות כ-10–12% · כ-392 מיליון (2019) · סיבת המוות השלישית · כ-3.7 מיליון מקרי מוות בשנה · התלקחות: החמרה חריפה עד 14 ימים · ↑ קוצר נשימה ו/או שיעול וכיח · ± טכיפנאה, טכיקרדיה · גורם: זיהום, זיהום אוויר, פגיעה אחרת · השלכות: איכות חיים, תסמינים, ירידה מהירה ב-FEV1, עלויות, תמותה (יותר התלקחויות = הישרדות נמוכה) · מחלות נלוות: לב וכלי דם, שרירים, תסמונת מטבולית, אוסטאופורוזיס, דיכאון/חרדה, סרטן ריאה וסרטנים של עישון.",
+       "b": 151.53,
+       "en": "IN SCIENCE: 227 M (1990) → 284 M (2010) → 392 M (2019) · ~3.7 M deaths/year · #4 (2021) → #3 (2023) · exacerbation: acute worsening ≤ 14 days · moderate = family doctor · severe = ED / admission · 3–4/year → ~30% survival at ~4 years (≈ melanoma, colon cancer) · dyspnea rises 14 days before, lasts ~35 days · faster FEV1 decline · vicious cycle · comorbidities: sarcopenia, metabolic, osteoporosis, depression/anxiety, cancer.",
+       "he": "במדע: 227 מיליון (1990) ← 284 (2010) ← 392 (2019) · כ-3.7 מיליון מתים בשנה · מקום 4 (2021) ← מקום 3 (2023) · התלקחות: החמרה חריפה עד 14 ימים · בינונית = רופא משפחה · קשה = מיון / אשפוז · 3–4 בשנה ← כ-30% הישרדות ב-4 שנים (כמו מלנומה, סרטן מעי) · קוצר נשימה עולה 14 יום לפני ונמשך כ-35 יום · ירידה מהירה ב-FEV1 · מעגל קסמים · מחלות נלוות: סרקופניה, מטבולי, אוסטאופורוזיס, דיכאון/חרדה, סרטן.",
        "sci": true
       }
      ]
@@ -397,14 +394,13 @@
     {
      "n": 4,
      "title": "אבחנה · ספירומטריה והפיכות",
-     "dur": 167.8,
+     "dur": 170.3,
      "v": {
-      "en": "clips/t1123/c04_en.mp4",
-      "he": "clips/t1123/c04_he.mp4"
+      "en": "clips/t1123/c04_en.mp4"
      },
      "cues": [
       {
-       "a": 0.17,
+       "a": 0.18,
        "b": 18.09,
        "en": "Suspect: dyspnea (chronic, progressive), cough, sputum, wheeze + risk factors (smoking, exposures) · exam may be normal; or prolonged expiration, barrel chest, wheeze, ↓ breath sounds.",
        "he": "חשד: קוצר נשימה (כרוני, מחמיר), שיעול, כיח, צפצופים + גורמי סיכון (עישון, חשיפות) · הבדיקה יכולה להיות תקינה; או נשיפה מאורכת, חזה חביתי, צפצופים, ↓ קולות נשימה.",
@@ -419,9 +415,9 @@
       },
       {
        "a": 37.74,
-       "b": 167.64,
-       "en": "IN SCIENCE: symptoms: chronic progressive dyspnea, cough, sputum, wheeze, chest tightness · others: fatigue, weight loss, anorexia, cough syncope, rib fractures, edema, anxiety/depression · exam: may be normal · prolonged expiration, wheeze, ↓ breath sounds, barrel chest, PH signs · spirometry 10–15 min after short-acting BD · post-BD FEV1/FVC < 0.7 = diagnosis · normalization = reversibility → excludes COPD · response (↑ ≥ 12% AND ≥ 200 mL) ≠ reversibility · ≤ 70% undiagnosed · no screening of asymptomatic · case finding in symptoms/risk factors.",
-       "he": "במדע: תסמינים: קוצר נשימה כרוני ומחמיר, שיעול, כיח, צפצופים, לחץ בחזה · אחרים: עייפות, ירידה במשקל, חוסר תיאבון, עילפון משיעול, שברי צלעות, בצקות, חרדה/דיכאון · בדיקה: יכולה להיות תקינה · נשיפה מאורכת, צפצופים, ↓ קולות נשימה, חזה חביתי, סימני יתר לחץ דם ריאתי · ספירומטריה 10–15 דקות אחרי מרחיב קצר טווח · FEV1/FVC אחרי מרחיב מתחת ל-0.7 = אבחנה · נרמול = הפיכות ← שולל COPD · תגובה (↑ 12% וגם 200 מ\"ל) ≠ הפיכות · עד 70% לא מאובחנים · לא סוקרים א-תסמיניים · איתור מקרים בתסמינים/גורמי סיכון.",
+       "b": 170.17,
+       "en": "IN SCIENCE: 3 pillars: symptoms · risk factors · spirometry · weight loss / anorexia = also cancer red flags · rib fractures (cough + osteoporosis) · barrel chest: AP = lateral (normal ½) · CXR: flat diaphragms, drop heart, ↓ markings, retrosternal air · healthy ~80% in 1st second vs COPD < 50%; concave curve · only diagnosis: post-BD FEV1/FVC < 0.7 · normalizes = reversibility → not COPD · response (≥ 12% + 200 mL): think asthma (class); COPD may respond, never reverses (slide) · ≤ 70% undiagnosed → spirometry for every smoker / symptoms.",
+       "he": "במדע: שלושה עמודים: תסמינים · גורמי סיכון · ספירומטריה · ירידה במשקל / חוסר תיאבון = גם דגל אדום לממאירות · שברי צלעות (שיעול + אוסטאופורוזיס) · חזה חביתי: קדמי-אחורי = צדדי (תקין חצי) · צילום: סרעפות שטוחות, לב טיפתי, ↓ סימני ריאה, אוויר מאחורי עצם החזה · בריא ~80% בשנייה הראשונה מול COPD < 50%; עקומה קעורה · האבחנה היחידה: FEV1/FVC אחרי מרחיב < 0.7 · נרמול = הפיכות ← לא COPD · תגובה (≥ 12% + 200 מ\"ל): לחשוב על אסתמה (בשיעור); COPD יכול להגיב, לא מתהפך (שקף) · עד 70% לא מאובחנים ← ספירומטריה לכל מעשן / תסמינים.",
        "sci": true
       }
      ]
@@ -429,10 +425,9 @@
     {
      "n": 5,
      "title": "הערכה · GOLD ו-ABE",
-     "dur": 132.6,
+     "dur": 129.7,
      "v": {
-      "en": "clips/t1123/c05_en.mp4",
-      "he": "clips/t1123/c05_he.mp4"
+      "en": "clips/t1123/c05_en.mp4"
      },
      "cues": [
       {
@@ -451,9 +446,9 @@
       },
       {
        "a": 33.23,
-       "b": 132.41,
-       "en": "IN SCIENCE: 3 axes · obstruction by post-BD FEV1 % predicted: GOLD 1 ≥ 80 · GOLD 2 50–79 · GOLD 3 30–49 · GOLD 4 < 30 · symptoms: mMRC dyspnea scale, CAT (8 items) · risk: best predictor = past exacerbations · frequent exacerbator ≥ 2/year · ABE: E = ≥ 1 moderate/severe exacerbation last year · A = 0 + mMRC 0–1 / CAT < 10 · B = 0 + mMRC ≥ 2 / CAT ≥ 10 · grade reported, doesn't set the group · + comorbidities.",
-       "he": "במדע: שלושה צירים · חסימה לפי FEV1 אחרי מרחיב באחוזים מהצפוי: GOLD 1 ≥ 80 · GOLD 2 50–79 · GOLD 3 30–49 · GOLD 4 מתחת ל-30 · תסמינים: סולם mMRC, שאלון CAT (8 פריטים) · סיכון: המנבא הטוב ביותר = התלקחויות בעבר · מתלקח תדיר ≥ 2 בשנה · ABE: E = לפחות התלקחות בינונית/קשה אחת בשנה האחרונה · A = 0 + mMRC 0–1 / CAT מתחת ל-10 · B = 0 + mMRC ≥ 2 / CAT ≥ 10 · הדרגה מדווחת, לא קובעת קבוצה · + מחלות נלוות.",
+       "b": 129.52,
+       "en": "IN SCIENCE: FEV1 % predicted = severity of OBSTRUCTION, not of disease (highlight!) · GOLD 1 ≥ 80 · 2 50–79 · 3 30–49 · 4 < 30 · CAT: 8 items × 0–5 = 0–40 · significant ≥ 10 · MCID 2 points · preferred over mMRC (dyspnea only) · strongest predictor = past-year exacerbations · even 1 moderate/severe counts · ABE: E = ≥ 1 · A = CAT < 10 · B = CAT ≥ 10.",
+       "he": "במדע: FEV1 באחוזים מהצפוי = חומרת החסימה, לא חומרת המחלה (למרקר!) · GOLD 1 ≥ 80 · 2 50–79 · 3 30–49 · 4 < 30 · CAT: 8 שאלות × 0–5 = 0–40 · משמעותי מ-10 · שינוי משמעותי 2 נקודות · עדיף על mMRC (רק קוצר נשימה) · המנבא החזק = התלקחויות בשנה האחרונה · גם התלקחות אחת נחשבת · ABE: ‏E = לפחות אחת · A = ‏CAT < 10 · B = ‏CAT ≥ 10.",
        "sci": true
       }
      ]
@@ -461,10 +456,9 @@
     {
      "n": 6,
      "title": "טיפול תומך · חיסונים, שיקום, חמצן",
-     "dur": 160.8,
+     "dur": 174.4,
      "v": {
-      "en": "clips/t1123/c06_en.mp4",
-      "he": "clips/t1123/c06_he.mp4"
+      "en": "clips/t1123/c06_en.mp4"
      },
      "cues": [
       {
@@ -483,9 +477,9 @@
       },
       {
        "a": 32.78,
-       "b": 160.6,
-       "en": "IN SCIENCE: 3 layers: supportive · disease treatment (O2, drugs) · advanced (lung volume reduction surgical/bronchoscopic, transplant) · education: quit smoking (only thing that changes the course), less exposure, inhaler technique, early exacerbation action · vaccines: flu yearly, COVID, pneumococcal (PCV20), pertussis if missed in adolescence, zoster > 50 · rehab: ↓ dyspnea, ↑ exercise + HRQoL, ↓ readmissions, ↓ anxiety/depression, ↑ sleep · walking/cycling ≥ 2 h/week → 30–40% ↓ admission + respiratory death · nutrition · LTOT: PaO2 ≤ 55 or SaO2 < 88%, or 55–60 + PH / CHF / Hct > 55% · target ≥ 90% · recheck 60–90 days.",
-       "he": "במדע: שלוש שכבות: טיפול תומך · טיפול במחלה (חמצן, תרופות) · טיפול מתקדם (הפחתת נפח ריאה ניתוחית/ברונכוסקופית, השתלה) · חינוך: הפסקת עישון (הדבר היחיד שמשנה את המהלך), הפחתת חשיפות, טכניקת משאף, זיהוי מוקדם של התלקחות · חיסונים: שפעת כל שנה, קורונה, פנאומוקוק (פרבנר 20), שעלת אם לא חוסן בהתבגרות, הרפס זוסטר מעל 50 · שיקום: ↓ קוצר נשימה, ↑ סבילות ואיכות חיים, ↓ אשפוזים חוזרים, ↓ חרדה/דיכאון, ↑ שינה · הליכה/אופניים ≥ 2 שעות בשבוע ← 30–40% פחות אשפוזים ותמותה נשימתית · תזונה · חמצן: PaO2 ≤ 55 או SaO2 < 88%, או 55–60 + יתר לחץ דם ריאתי / אי ספיקת לב / המטוקריט > 55% · יעד ≥ 90% · בדיקה חוזרת 60–90 יום.",
+       "b": 174.23,
+       "en": "IN SCIENCE: goals: ↓ symptoms, ↑ exercise, ↓ exacerbations, ↓ progression, ↓ mortality · smoking costs ~10 years · quit < 40 → ~90% ↓ risk · Fletcher–Peto: even at 60 slows decline · haze days: stay in, windows closed · early action plan · vaccines: flu, COVID, PCV20, pertussis, zoster > 50 · BODE: BMI < 21 = worse · rehab: muscles biochemically inefficient; underfunded · O2: SaO2 < 88% or PaO2 ≤ 55, or 55–60 + PH / HF / polycythemia · CO2 retainers: high O2 suppresses breathing.",
+       "he": "במדע: מטרות: ↓ תסמינים, ↑ מאמץ, ↓ התלקחויות, ↓ התקדמות, ↓ תמותה · עישון גוזל ~10 שנים · הפסקה לפני 40 ← ~90% פחות סיכון · פלטשר-פטו: גם בגיל 60 מאט · ימי אובך: בבית, חלונות סגורים · תוכנית פעולה מוקדמת · חיסונים: שפעת, קורונה, פרבנר 20, שעלת, זוסטר מעל 50 · BODE: ‏BMI < 21 = גרוע · שיקום: שרירים לא יעילים ביוכימית; לא ממומן · חמצן: ‏SaO2 < 88% או PaO2 ≤ 55, או 55–60 + יתר ל\"ד ריאתי / אי ספיקת לב / פוליציתמיה · אוגרי CO2: חמצן גבוה מדכא נשימה.",
        "sci": true
       }
      ]
@@ -493,10 +487,9 @@
     {
      "n": 7,
      "title": "טיפול תרופתי · LABA, LAMA, ICS",
-     "dur": 171.5,
+     "dur": 179.4,
      "v": {
-      "en": "clips/t1123/c07_en.mp4",
-      "he": "clips/t1123/c07_he.mp4"
+      "en": "clips/t1123/c07_en.mp4"
      },
      "cues": [
       {
@@ -515,9 +508,9 @@
       },
       {
        "a": 38.87,
-       "b": 171.32,
-       "en": "IN SCIENCE: LABA + LAMA = backbone · initial: A = 1 bronchodilator · B = LABA + LAMA · E = LABA + LAMA (+ ICS if EOS ≥ 300/µL or past asthma) · ICS risks: pneumonia, diabetes, fractures, TB, skin; local candidiasis, hoarseness · follow-up: REVIEW → ASSESS (adherence, technique, comorbidities, side effects) → ADJUST · persistent dyspnea: 1 → 2 bronchodilators, switch device, rehab, other causes · exacerbations: LABA + LAMA → + ICS if EOS ≥ 100 → roflumilast (FEV1 < 50% + chronic bronchitis) · azithromycin (ex-smokers) · biologics: dupilumab (chronic bronchitis + EOS ≥ 300), mepolizumab · single inhaler ↑ adherence.",
-       "he": "במדע: LABA + LAMA = עמוד השדרה · התחלה: A = מרחיב אחד · B = LABA + LAMA · E = LABA + LAMA (+ ICS אם אאוזינופילים ≥ 300 למק\"ל או אסתמה בעבר) · סיכוני ICS: דלקת ריאות, סוכרת, שברים, שחפת, עור; מקומי: פטרת, צרידות · מעקב: לסקור ← להעריך (היענות, טכניקה, מחלות נלוות, תופעות לוואי) ← להתאים · קוצר נשימה ממשיך: ממרחיב אחד לשניים, החלפת משאף, שיקום, סיבות אחרות · התלקחויות: LABA + LAMA ← + ICS אם אאוזינופילים ≥ 100 ← רופלומילסט (FEV1 < 50% + ברונכיטיס כרונית) · אזיתרומיצין (מעשנים לשעבר) · ביולוגיים: דופילומאב (ברונכיטיס כרונית + ≥ 300), מפוליזומאב · משאף אחד ↑ היענות.",
+       "b": 179.18,
+       "en": "IN SCIENCE: initiation (naive): A = 1 BD · B = LABA + LAMA · E = LABA + LAMA (+ ICS if EOS ≥ 300 / asthma) · doctors = gatekeepers of ICS: pneumonia, mycobacteria, bone, candidiasis, hoarseness · follow-up: no more ABE · REVIEW (CAT, exacerbations) → ASSESS (adherence, technique) → ADJUST · dyspnea track: escalate, switch device · exacerbation track: → LABA + LAMA (or triple if ≥ 300) → + ICS if ≥ 100 on dual · roflumilast, azithromycin, dupilumab, mepolizumab · triple = only drug lowering mortality (caution: not primary outcome) · also: quitting, rehab, O2, NIV.",
+       "he": "במדע: התחלה (נאיבי): A = מרחיב אחד · B = ‏LABA + LAMA · E = ‏LABA + LAMA (+ ICS אם ≥ 300 / אסתמה) · הרופאים = שומרי הסף של ICS: דלקת ריאות, מיקובקטריה, עצם, פטרת, צרידות · מעקב: אין יותר ABE · לסקור (CAT, התלקחויות) ← להעריך (היענות, טכניקה) ← להתאים · מסלול קוצר נשימה: שדרוג, החלפת משאף · מסלול התלקחויות: ← LABA + LAMA (או טריפל אם ≥ 300) ← + ICS אם ≥ 100 על דואל · רופלומילסט, אזיתרומיצין, דופילומאב, מפוליזומאב · טריפל = התרופה היחידה שהורידה תמותה (בזהירות: לא תוצא ראשוני) · גם: הפסקת עישון, שיקום, חמצן, BPAP.",
        "sci": true
       }
      ]
@@ -525,10 +518,9 @@
     {
      "n": 8,
      "title": "משאפים · זרימה וטכניקה",
-     "dur": 201.6,
+     "dur": 190.0,
      "v": {
-      "en": "clips/t1123/c08_en.mp4",
-      "he": "clips/t1123/c08_he.mp4"
+      "en": "clips/t1123/c08_en.mp4"
      },
      "cues": [
       {
@@ -547,14 +539,45 @@
       },
       {
        "a": 42.14,
-       "b": 177.25,
-       "en": "IN SCIENCE: inhaled = drug at the site, ↓ systemic dose · pMDI: fixed dose, coordination, slow inhale · spacer: no coordination, ↑ lung targeting, ↓ ICS body dose, replaces nebulizer in severe attacks · BA-MDI: fires on inhalation · DPI: as deep + hard as possible (resistance, aerosol, de-aggregation) 30–90 L/min vs 20–60 · SMI: slow mist, high deposition, no coordination or flow · nebulizer · deposition: particles, oropharynx, flow, behavior · choose by drug + ability + caregiver, once daily, other inhalers · ⅓ poor technique for 40 years · critical = no drug in lungs · non-critical = less · universal errors: no exhale first, nose, no breath-hold.",
-       "he": "במדע: בשאיפה = תרופה במקום, ↓ מינון מערכתי · pMDI: מנה קבועה, תיאום, שאיפה איטית · מרווח: בלי תיאום, ↑ הגעה לריאות, ↓ מינון סטרואיד בגוף, מחליף נבולייזר בהתקף קשה · BA-MDI: משתחרר בשאיפה · DPI: עמוק וחזק ככל האפשר (התנגדות, אירוסול, פירוק) 30–90 ליטר/דקה מול 20–60 · ערפל רך: איטי, שקיעה גבוהה, בלי תיאום ובלי זרימה · נבולייזר · שקיעה: חלקיקים, לוע, זרימה, התנהגות · בוחרים לפי תרופה, יכולת, מטפל, פעם ביום, משאפים אחרים · שליש טכניקה לקויה כבר 40 שנה · קריטית = אין תרופה בריאות · לא קריטית = פחות · טעויות כלליות: לא נושפים קודם, אף, לא עוצרים נשימה.",
+       "b": 189.87,
+       "en": "IN SCIENCE: nurses 39, doctors 48/100 on inhaler skills · topical → low dose · pMDI: fast spray; start inhaling, press, slow inhale, hold ~10 s · no coordination (children, elderly, dementia) → spacer: lungs ~60 vs 35 µg, much less in throat · DPI: no timing, strong fast breath, ~5 µm; whistle test · SMI: slow mist, no ICS version · nebulizer: only short-acting · one device type (mixing → exacerbations) · single inhaler ↑ adherence · ⅓ wrong for 40 years · critical error ≈ ×2 severe exacerbation · errors 59% → 23% → 6% after 1 / 2 / 3 instructions.",
+       "he": "במדע: אחיות 39, רופאים 48 מ-100 בידע על משאפים · טיפול טופיקלי ← מינון נמוך · pMDI: תרסיס מהיר; מתחילים לשאוף, לוחצים, שאיפה איטית, עוצרים ~10 שניות · בלי תיאום (ילדים, קשישים, דמנציה) ← ספייסר: ריאות ~60 מול 35 מק\"ג, הרבה פחות בלוע · DPI: בלי תיאום, שאיפה חזקה ומהירה, ~5 מיקרון; מבחן משרוקית · SMI: ערפל איטי, אין גרסה עם ICS · נבולייזר: רק קצרי טווח · סוג מכשיר אחד (ערבוב ← התלקחויות) · משאף יחיד ↑ היענות · שליש טועים כבר 40 שנה · טעות קריטית ≈ פי 2 התלקחות קשה · טעויות 59% ← 23% ← 6% אחרי הדרכה 1 / 2 / 3.",
+       "sci": true
+      }
+     ]
+    },
+    {
+     "n": 9,
+     "title": "פרמקולוגיה של המשאפים · β2, מוסקריני, ICS",
+     "dur": 248.2,
+     "v": {
+      "en": "clips/t1123/c09_en.mp4"
+     },
+     "cues": [
+      {
+       "a": 0.17,
+       "b": 26.94,
+       "en": "β2 agonists: AC → cAMP ↑ → relaxation · muscarinic antagonists block ACh on M3 (contraction, mucus) · theophylline inhibits PDE.",
+       "he": "אגוניסטים β2: אדניל ציקלאז ← cAMP ↑ ← הרפיה · אנטגוניסטים מוסקריניים חוסמים ACh על M3 (כיווץ, ריר) · תאופילין מעכב PDE.",
+       "sci": false
+      },
+      {
+       "a": 27.29,
+       "b": 50.33,
+       "en": "Tiotropium = kinetic selectivity: long on M1 / M3 (once daily), leaves M2 fast (keeps the ACh brake) · ipratropium blocks M2 too.",
+       "he": "טיוטרופיום = סלקטיביות קינטית: נשאר על M1 / M3 (פעם ביום), עוזב את M2 מהר (הבלם על ACh נשמר) · איפרטרופיום חוסם גם M2.",
+       "sci": false
+      },
+      {
+       "a": 50.68,
+       "b": 223.84,
+       "en": "IN SCIENCE: know the classes: SABA, LABA, SAMA, LAMA · β2: AC → cAMP → relaxation · theophylline: PDE inhibitor · SABA ≤ 4 h, acute · LABA ~12 h, prevention · formoterol fast → reliever · β2 side effects: tremor, tachycardia, arrhythmia, ↓ K⁺, tachyphylaxis · M1 ganglion · M3 muscle + glands · M2 = brake · tiotropium kinetic selectivity → once daily · ipratropium: quaternary, barely absorbed · LAMA not rescue; ↓ exacerbations > LABA · anticholinergic: dry mouth, retention, constipation, glaucoma · ICS: hoarseness, candidiasis, adrenal, eye pressure, cataract → spacer + rinse mouth.",
+       "he": "במדע: לדעת את הקבוצות: SABA, LABA, SAMA, LAMA · β2: ‏AC ← cAMP ← הרפיה · תאופילין: מעכב PDE · SABA עד 4 שעות, חריף · LABA כ-12 שעות, מניעה · פורמוטרול מהיר ← מרגיע · תופעות β2: רעד, טכיקרדיה, הפרעות קצב, ↓ אשלגן, טכיפילקסיס · M1 גנגליון · M3 שריר ובלוטות · M2 = בלם · טיוטרופיום סלקטיביות קינטית ← פעם ביום · איפרטרופיום: אמוניום רבעוני, כמעט לא נספג · LAMA לא להצלה; ↓ התלקחויות יותר מ-LABA · אנטיכולינרגי: יובש בפה, אצירת שתן, עצירות, גלאוקומה · ICS: צרידות, פטרת, דיכוי אדרנל, לחץ תוך-עיני, קטרקט ← ספייסר + שטיפת פה.",
        "sci": true
       },
       {
-       "a": 178.2,
-       "b": 199.61,
+       "a": 224.79,
+       "b": 246.21,
        "en": "Prove it · sort it (ABE) · stop the smoke · two keys (LABA + LAMA) · ICS for eosinophils · check the inhaler.",
        "he": "מוכיחים בספירומטריה · ממיינים ל-ABE · מפסיקים לעשן · שני מפתחות (LABA + LAMA) · ICS לאאוזינופילים · בודקים את המשאף.",
        "sci": false
