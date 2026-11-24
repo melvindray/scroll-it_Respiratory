@@ -3,6 +3,191 @@
  "system_he": "מערכת הנשימה",
  "films": [
   {
+   "id": "t1125q",
+   "day": "25/11/2026",
+   "title": "בוחן מקדים – פלאורה (הריסון 305)",
+   "title_en": "Pleura pre-quiz: the five guiding questions",
+   "course": "מערכת הנשימה",
+   "poster": "clips/t1125q/poster.jpg",
+   "clips": [
+    {
+     "n": 1,
+     "title": "הנוזל התקין · יצירה וניקוז",
+     "dur": 134.9,
+     "v": {
+      "en": "clips/t1125q/c01_en.mp4",
+      "he": "clips/t1125q/c01_he.mp4"
+     },
+     "cues": [
+      {
+       "a": 1.0,
+       "b": 11.81,
+       "en": "Pre-quiz: the five guiding questions, answered with Harrison 305.",
+       "he": "לפני הבוחן: חמש השאלות המנחות של הלמידה המקדימה, עם התשובות של הריסון 305.",
+       "sci": false
+      },
+      {
+       "a": 12.16,
+       "b": 33.76,
+       "en": "Normal pleural fluid = a thin coupling layer · pleural pressure −3 to −5 cmH2O (lung recoil vs chest wall).",
+       "he": "נוזל פלאורלי תקין = שכבה דקה שמצמידה · לחץ פלאורלי ‎−3 עד ‎−5 ס\"מ מים (רתיעת הריאה מול דופן בית החזה).",
+       "sci": false
+      },
+      {
+       "a": 34.11,
+       "b": 51.19,
+       "en": "In: parietal capillaries (+ lung interstitium via visceral pleura, + peritoneum via diaphragm holes) · out: parietal lymphatics, reserve ×20.",
+       "he": "נכנס: נימים פריאטליים (+ אינטרסטיציום דרך הויסצרלית, + צפק דרך חורים בסרעפת) · יוצא: לימפה פריאטלית, רזרבה פי 20.",
+       "sci": false
+      },
+      {
+       "a": 51.54,
+       "b": 134.7,
+       "en": "IN SCIENCE: thin coupling layer · −3 to −5 cmH2O · in: parietal capillaries · also lung interstitium (visceral) and peritoneum (diaphragm holes) · out: parietal lymphatics · capacity ×20 · effusion = excess fluid when formation overwhelms removal · ~1.5 M/year in the US · dyspnea ± chest pain.",
+       "he": "במדע: שכבה מצמידה דקה · ‎−3 עד ‎−5 ס\"מ מים · נכנס: נימים פריאטליים · וגם מהאינטרסטיציום (ויסצרלית) ומהצפק (חורים בסרעפת) · יוצא: לימפה פריאטלית · יכולת פי 20 · תפליט = עודף נוזל כשהייצור עולה על הפינוי · כ-1.5 מיליון בשנה בארה\"ב · קוצר נשימה ± כאב חזה.",
+       "sci": true
+      }
+     ]
+    },
+    {
+     "n": 2,
+     "title": "טרנסודט מול אקסודט · סיבות",
+     "dur": 148.0,
+     "v": {
+      "en": "clips/t1125q/c02_en.mp4",
+      "he": "clips/t1125q/c02_he.mp4"
+     },
+     "cues": [
+      {
+       "a": 0.18,
+       "b": 18.18,
+       "en": "Transudate = SYSTEMIC factors (hydrostatic / oncotic), healthy pleura · exudate = LOCAL factors, the pleura or its lymphatics are diseased.",
+       "he": "טרנסודט = גורמים מערכתיים (הידרוסטטי / אונקוטי), פלאורה בריאה · אקסודט = גורמים מקומיים, הפלאורה או הלימפה שלה חולות.",
+       "sci": false
+      },
+      {
+       "a": 18.53,
+       "b": 37.6,
+       "en": "Transudates: heart failure (#1 of all effusions), cirrhosis · exudates: bacterial pneumonia, malignancy, viral infection, PE.",
+       "he": "טרנסודטים: אי ספיקת לב (הסיבה השכיחה ביותר בכלל), שחמת · אקסודטים: דלקת ריאות חיידקית, ממאירות, זיהום ויראלי, תסחיף.",
+       "sci": false
+      },
+      {
+       "a": 37.95,
+       "b": 147.87,
+       "en": "IN SCIENCE: transudate = systemic (hydrostatic/oncotic), normal pleura · LV failure (#1 overall), cirrhosis · also nephrotic, peritoneal dialysis, SVC obstruction, myxedema, urinothorax · HF: ↑ LA + pulmonary venous pressure → interstitium → visceral pleura · hepatic hydrothorax: ~5% of cirrhosis + ascites, right, through diaphragm holes · exudate = local, diseased pleura/lymphatics · pneumonia, malignancy, viral, PE (most often overlooked) · why separate: exudates need more work-up.",
+       "he": "במדע: טרנסודט = מערכתי (הידרוסטטי/אונקוטי), פלאורה תקינה · אי ספיקת חדר שמאל (הכי שכיח בכלל), שחמת · גם נפרוטי, דיאליזה צפקית, חסימת וריד נבוב עליון, מיקסדמה, שתן · אי ספיקת לב: ↑ לחץ בעלייה ובוורידי הריאה ← אינטרסטיציום ← פלאורה ויסצרלית · הידרותורקס כבדי: ~5% משחמת עם מיימת, ימני, דרך חורים בסרעפת · אקסודט = מקומי, פלאורה/לימפה חולה · דלקת ריאות, ממאירות, ויראלי, תסחיף (המפוספס ביותר) · למה מפרידים: אקסודט דורש בירור נוסף.",
+       "sci": true
+      }
+     ]
+    },
+    {
+     "n": 3,
+     "title": "קריטריונים של לייט · אקסודט מדומה",
+     "dur": 140.7,
+     "v": {
+      "en": "clips/t1125q/c03_en.mp4",
+      "he": "clips/t1125q/c03_he.mp4"
+     },
+     "cues": [
+      {
+       "a": 0.17,
+       "b": 21.66,
+       "en": "Light's (≥ 1 = exudate): protein PF/serum > 0.5 · LDH PF/serum > 0.6 · PF LDH > ⅔ upper normal serum.",
+       "he": "לייט (לפחות אחד = אקסודט): חלבון נוזל/דם > 0.5 · LDH נוזל/דם > 0.6 · LDH בנוזל > ⅔ מהגבול העליון בדם.",
+       "sci": false
+      },
+      {
+       "a": 22.01,
+       "b": 42.48,
+       "en": "Pseudo-exudate (~25% of transudates), e.g. diuresed heart failure → check the serum–pleural gradients: protein > 3.1 g/dL, albumin > 1.2 g/dL = transudate.",
+       "he": "אקסודט מדומה (~25% מהטרנסודטים), למשל אי ספיקת לב אחרי משתנים ← בודקים מפל דם-נוזל: חלבון > 3.1 ג'/ד\"ל, אלבומין > 1.2 ג'/ד\"ל = טרנסודט.",
+       "sci": false
+      },
+      {
+       "a": 42.83,
+       "b": 140.54,
+       "en": "IN SCIENCE: Light = PF vs serum protein + LDH · ≥ 1 of: protein ratio > 0.5 · LDH ratio > 0.6 · PF LDH > ⅔ ULN · transudate meets none · very sensitive → ~25% of transudates called exudates (pseudo-exudates, often diuresed) · clinical transudate + criterion met → SPPG > 3.1 g/dL + SPAG > 1.2 g/dL = pseudo-exudate (100% HF, 99% hepatothorax) · high cholesterol (+ LDH) favors a true exudate.",
+       "he": "במדע: לייט = חלבון ו-LDH בנוזל מול בדם · לפחות אחד: יחס חלבון > 0.5 · יחס LDH > 0.6 · LDH בנוזל > ⅔ מהגבול העליון · טרנסודט לא עונה לאף אחד · רגישים מאוד ← ~25% מהטרנסודטים נקראים אקסודט (מדומה, לרוב אחרי משתנים) · קליניקה של טרנסודט + קריטריון חיובי ← מפל חלבון > 3.1 ג'/ד\"ל + מפל אלבומין > 1.2 ג'/ד\"ל = מדומה (100% באי ספיקת לב, 99% בהידרותורקס) · כולסטרול גבוה (+ LDH) תומך באקסודט אמיתי.",
+       "sci": true
+      }
+     ]
+    },
+    {
+     "n": 4,
+     "title": "הדמיה וניקור · בדיקות בנוזל",
+     "dur": 157.0,
+     "v": {
+      "en": "clips/t1125q/c04_en.mp4",
+      "he": "clips/t1125q/c04_he.mp4"
+     },
+     "cues": [
+      {
+       "a": 0.18,
+       "b": 20.53,
+       "en": "Imaging: CXR (+ lateral decubitus: free flow, ≥ 10 mm = safe to tap) · ultrasound: small effusions, septations, guides the needle · CT: loculations, pleural rind, cause.",
+       "he": "הדמיה: צילום חזה (+ דקוביטוס: זרימה חופשית, ≥ 10 מ\"מ = בטוח לדקור) · אולטרסאונד: תפליט קטן, מחיצות, מנחה מחט · CT: מכונס, קליפה, הסיבה.",
+       "sci": false
+      },
+      {
+       "a": 20.88,
+       "b": 41.17,
+       "en": "Thoracentesis = the first diagnostic step · appearance · protein + LDH (Light) · glucose · cell count + differential · micro · cytology · + disease-specific tests.",
+       "he": "ניקור = צעד האבחון הראשון · מראה · חלבון ו-LDH (לייט) · גלוקוז · ספירה ומיון תאים · מיקרוביולוגיה · ציטולוגיה · + בדיקות ספציפיות.",
+       "sci": false
+      },
+      {
+       "a": 41.52,
+       "b": 156.81,
+       "en": "IN SCIENCE: imaging for all · CXR + lateral decubitus (free layering; ≥ 10 mm = safe tap, traditional) · US and CT: loculations, septations, rind; guide sampling · thoracentesis = first step (transudate vs exudate) · appearance, protein, LDH, glucose, differential, micro, cytology · by suspicion: amylase (pancreas, esophagus) · eosinophils (drugs) · NT-proBNP > 1500 (HF) · cholesterol/TG (chylothorax) · hematocrit (hemothorax) · glucose + pH (RA) · Congo red · flow cytometry · HF: tap only if asymmetric, fever, pleuritic pain or persistent.",
+       "he": "במדע: הדמיה לכולם · צילום + דקוביטוס (זרימה חופשית; ≥ 10 מ\"מ = דקירה בטוחה, מסורתי) · אולטרסאונד ו-CT: מכונס, מחיצות, קליפה; מנחים דגימה · ניקור = צעד ראשון (טרנסודט מול אקסודט) · מראה, חלבון, LDH, גלוקוז, מיון תאים, מיקרו, ציטולוגיה · לפי חשד: עמילאז (לבלב, וושט) · אאוזינופילים (תרופות) · NT-proBNP > 1500 (לב) · כולסטרול/טריגליצרידים (כילוס) · המטוקריט (דם) · גלוקוז + pH (RA) · קונגו רד · ציטומטריה · אי ספיקת לב: דוקרים רק אם לא סימטרי, חום, כאב פלאוריטי או מתמיד.",
+       "sci": true
+      }
+     ]
+    },
+    {
+     "n": 5,
+     "title": "תפליט פרהפנאומוני מסובך",
+     "dur": 185.7,
+     "v": {
+      "en": "clips/t1125q/c05_en.mp4",
+      "he": "clips/t1125q/c05_he.mp4"
+     },
+     "cues": [
+      {
+       "a": 0.18,
+       "b": 20.66,
+       "en": "Parapneumonic effusion: up to 50% of CAP, the most common exudate · ~10% become complicated (fibrinopurulent) or empyema (frank pus).",
+       "he": "תפליט פרהפנאומוני: עד 50% מדלקות הריאה, האקסודט השכיח ביותר · ~10% הופכים למסובך (פיברינו-מוגלתי) או לאמפיאמה (מוגלה).",
+       "sci": false
+      },
+      {
+       "a": 21.01,
+       "b": 40.08,
+       "en": "Need drainage (increasing importance): loculated · pH < 7.20 · glucose < 60 mg/dL · Gram stain / culture + · gross pus · also LDH > 900 IU/L.",
+       "he": "צריך ניקוז (בסדר חשיבות עולה): מכונס · pH < 7.20 · גלוקוז < 60 מ\"ג/ד\"ל · גרם / תרבית + · מוגלה · וגם LDH > 900.",
+       "sci": false
+      },
+      {
+       "a": 40.43,
+       "b": 160.75,
+       "en": "IN SCIENCE: PPE in up to 50% of CAP · most common exudate · mostly sterile/reactive · ~10% → complicated (fibrinopurulent) or empyema (pus) · aerobic: acute fever, pain, leukocytosis · anaerobic: subacute, weight loss, aspiration, big effusion · drain (increasing importance): loculated → pH < 7.20 → glucose < 60 → Gram/culture + → pus · LDH > 900 · meaning: antibiotics + tap will fail → chest tube ± tPA 10 mg + DNase 5 mg → thoracoscopy → decortication · organized peel → trapped lung.",
+       "he": "במדע: תפליט פרהפנאומוני בעד 50% מדלקות הריאה · האקסודט השכיח · לרוב סטרילי · ~10% ← מסובך (פיברינו-מוגלתי) או אמפיאמה (מוגלה) · אירובי: חריף, חום, כאב, לויקוציטוזיס · אנאירובי: תת-חריף, ירידה במשקל, אספירציה, תפליט גדול · ניקוז (בסדר חשיבות עולה): מכונס ← pH < 7.20 ← גלוקוז < 60 ← גרם/תרבית + ← מוגלה · LDH > 900 · משמעות: אנטיביוטיקה ודקירה ייכשלו ← נקז ± tPA 10 מ\"ג + DNase 5 מ\"ג ← תורקוסקופיה ← דקורטיקציה · קליפה ← ריאה לכודה.",
+       "sci": true
+      },
+      {
+       "a": 161.7,
+       "b": 183.66,
+       "en": "Thin layer · ×20 · systemic vs local · one Light criterion · diuretic trap · image, then tap · loculated, pH, glucose, Gram, pus → drain.",
+       "he": "שכבה דקה · פי 20 · מערכתי מול מקומי · קריטריון לייט אחד · מלכודת המשתנים · הדמיה ואז ניקור · מכונס, pH, גלוקוז, גרם, מוגלה ← ניקוז.",
+       "sci": false
+      }
+     ]
+    }
+   ],
+   "quiz": "quiz/t1125q.json"
+  },
+  {
    "id": "t1125",
    "day": "25/11/2026",
    "title": "מחלות הפלאורה – בסיפורים (הכנה)",
