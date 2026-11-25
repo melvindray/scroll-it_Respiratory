@@ -718,6 +718,155 @@
    "quiz": "quiz/t1125.json"
   },
   {
+   "id": "t1125g",
+   "day": "25/11/2026",
+   "title": "פלאורה – 8 נושאי הקבוצות (לבחינה)",
+   "title_en": "Pleura: the 8 group-learning topics (for the exam)",
+   "course": "מערכת הנשימה",
+   "poster": "clips/t1125g/poster.jpg",
+   "clips": [
+    {
+     "n": 1,
+     "title": "ראומטולוגי · פוסט-פריקרדיוטומיה",
+     "dur": 159.2,
+     "v": {
+      "en": "clips/t1125g/c01_en.mp4"
+     },
+     "cues": [
+      {
+       "a": 1.0,
+       "b": 10.68,
+       "en": "The 8 group topics: 'know how to answer these for the exam'.",
+       "he": "שמונת נושאי הקבוצות: 'יש לדעת לענות על השאלות האלה לבחינה'.",
+       "sci": false
+      },
+      {
+       "a": 11.03,
+       "b": 36.19,
+       "en": "RA: exudate, glucose very low (often < 30), low pH, high LDH, sometimes cholesterol crystals (pseudochylothorax) · SLE: exudate, normal glucose, ANA in fluid, steroid-responsive.",
+       "he": "RA: אקסודט, גלוקוז נמוך מאוד (לרוב < 30), pH נמוך, LDH גבוה, לפעמים גבישי כולסטרול · SLE: אקסודט, גלוקוז תקין, ANA בנוזל, מגיב לסטרואידים.",
+       "sci": false
+      },
+      {
+       "a": 36.54,
+       "b": 54.59,
+       "en": "Post-pericardiotomy / post-cardiac injury syndrome: days–weeks after cardiac surgery, MI, pacing · fever, pericarditis, pleuritis, (left) exudate · NSAIDs / colchicine, steroids if refractory.",
+       "he": "תסמונת פוסט-פריקרדיוטומיה: ימים–שבועות אחרי ניתוח לב, אוטם, קוצב · חום, פריקרדיטיס, פלאוריטיס, אקסודט (שמאלי) · NSAIDs / קולכיצין, סטרואידים אם עמיד.",
+       "sci": false
+      },
+      {
+       "a": 54.94,
+       "b": 158.97,
+       "en": "IN SCIENCE: RA: most common chest manifestation · men with nodules · exudate, glucose very low (< 30), low pH, high LDH · chronic → pseudochylothorax (cholesterol) · test: glucose + pH · SLE: common, bilateral, normal glucose, ANA in fluid, steroid-responsive · drug-induced lupus · post-cardiac injury: days–weeks after surgery / MI / pacing / ablation · immune · fever, pericarditis, pleuritis, left or bilateral exudate (often bloody) · exclude infection, HF, PE · NSAIDs + colchicine → steroids.",
+       "he": "במדע: RA: הביטוי החזי השכיח · גברים עם נודולים · אקסודט, גלוקוז נמוך מאוד (< 30), pH נמוך, LDH גבוה · כרוני ← פסאודו-כילותורקס (כולסטרול) · בדיקה: גלוקוז + pH · SLE: שכיח, דו-צדדי, גלוקוז תקין, ANA בנוזל, מגיב לסטרואידים · לופוס מתרופות · פוסט-פריקרדיוטומיה: ימים–שבועות אחרי ניתוח / אוטם / קוצב / צריבה · חיסוני · חום, פריקרדיטיס, פלאוריטיס, אקסודט שמאלי או דו-צדדי (לרוב דמי) · לשלול זיהום, אי ספיקת לב, תסחיף · NSAIDs + קולכיצין ← סטרואידים.",
+       "sci": true
+      }
+     ]
+    },
+    {
+     "n": 2,
+     "title": "תרופות · האם טלק בטוח",
+     "dur": 146.6,
+     "v": {
+      "en": "clips/t1125g/c02_en.mp4"
+     },
+     "cues": [
+      {
+       "a": 0.17,
+       "b": 24.05,
+       "en": "Drug-induced effusion: checkpoint inhibitors (immune-related pleuritis), dasatinib (lymphocytic exudate), nitrofurantoin, amiodarone, MTX, dantrolene · eosinophils · stop the drug ± steroids.",
+       "he": "תפליט מתרופות: מעכבי נקודות בקרה (פלאוריטיס חיסונית), דסטיניב (אקסודט לימפוציטרי), ניטרופורנטואין, אמיודרון, MTX, דנטרולן · אאוזינופילים · מפסיקים את התרופה ± סטרואידים.",
+       "sci": false
+      },
+      {
+       "a": 24.4,
+       "b": 44.54,
+       "en": "Talc: the most effective sclerosant · risk: ARDS / systemic inflammation with small (non-graded) particles · graded large-particle, asbestos-free talc = safe · common: fever, pain.",
+       "he": "טלק: החומר המדביק היעיל ביותר · סיכון: ARDS / דלקת מערכתית עם חלקיקים קטנים · טלק מדורג בחלקיקים גדולים ונקי מאסבסט = בטוח · שכיח: חום, כאב.",
+       "sci": false
+      },
+      {
+       "a": 44.89,
+       "b": 146.42,
+       "en": "IN SCIENCE: drug effusions: often eosinophilic · nitrofurantoin, dantrolene, methysergide, bromocriptine, procarbazine, amiodarone, dasatinib (lymphocytic) · + MTX (slide) · checkpoint inhibitors: immune pleuritis vs tumor progression · timing → stop drug ± steroids · talc: most effective · slurry or poudrage · feared: ARDS with small particles (systemic spread) · graded large-particle talc: safe in large RCTs · asbestos-free · fever + pain common · needs an expandable lung.",
+       "he": "במדע: תפליט מתרופות: לרוב אאוזינופילי · ניטרופורנטואין, דנטרולן, מתיסרגיד, ברומוקריפטין, פרוקרבזין, אמיודרון, דסטיניב (לימפוציטרי) · + MTX (שקף) · מעכבי נקודות בקרה: פלאוריטיס חיסונית מול התקדמות הגידול · לפי התזמון ← מפסיקים ± סטרואידים · טלק: הכי יעיל · תרחיף או אבקה · החשש: ARDS עם חלקיקים קטנים · טלק מדורג בחלקיקים גדולים: בטוח במחקרים גדולים · נקי מאסבסט · חום וכאב שכיחים · צריך ריאה שמתפשטת.",
+       "sci": true
+      }
+     ]
+    },
+    {
+     "n": 3,
+     "title": "הידרותורקס כבדי · אסבסט",
+     "dur": 164.2,
+     "v": {
+      "en": "clips/t1125g/c03_en.mp4"
+     },
+     "cues": [
+      {
+       "a": 0.18,
+       "b": 18.36,
+       "en": "Hepatic hydrothorax: ~5% of cirrhosis + ascites · right-sided, diaphragm defects · transudate · can occur without clinical ascites · risk: spontaneous bacterial empyema.",
+       "he": "הידרותורקס כבדי: ~5% משחמת עם מיימת · ימני, פגמים בסרעפת · טרנסודט · יכול להופיע בלי מיימת קלינית · סיכון: אמפיאמה בקטריאלית ספונטנית.",
+       "sci": false
+      },
+      {
+       "a": 18.71,
+       "b": 39.47,
+       "en": "Asbestos: benign effusion (earliest) · plaques (most common, benign marker) · diffuse thickening (restriction) · rounded atelectasis · mesothelioma (30–50 y) · surgery: selected mesothelioma, decortication for severe thickening, not for plaques.",
+       "he": "אסבסט: תפליט שפיר (הכי מוקדם) · פלאקים (הכי שכיח, סמן שפיר) · עיבוי מפושט (רסטריקציה) · תמט עגול · מזותליומה (30–50 שנה) · ניתוח: מזותליומה נבחרת, דקורטיקציה בעיבוי קשה, לא לפלאקים.",
+       "sci": false
+      },
+      {
+       "a": 39.82,
+       "b": 164.04,
+       "en": "IN SCIENCE: hepatic hydrothorax ~5% of cirrhosis + ascites · negative pleural pressure → diaphragm defects, right · can be massive without obvious ascites · transudate · spontaneous bacterial empyema · treat ascites: salt, diuretics, therapeutic taps · avoid chest drain (renal failure, infection) · recurrent: TIPS, pleurodesis (often fails), transplant · asbestos: benign effusion (earliest, bloody/eosinophilic) · plaques (most common, candle wax) · diffuse thickening (restriction) · rounded atelectasis (mimics tumor) · mesothelioma 30–50 y · surgery: selected mesothelioma (P/D, multimodal), decortication for severe thickening, never plaques.",
+       "he": "במדע: הידרותורקס כבדי ~5% משחמת עם מיימת · לחץ פלאורלי שלילי ← פגמים בסרעפת, ימני · יכול להיות מסיבי בלי מיימת ברורה · טרנסודט · אמפיאמה בקטריאלית ספונטנית · טיפול כמו במיימת: מלח, משתנים, דקירות · נמנעים מנקז (אי ספיקת כליות, זיהום) · חוזר: TIPS, פלאורודזיס (לרוב נכשל), השתלה · אסבסט: תפליט שפיר (הכי מוקדם, דמי/אאוזינופילי) · פלאקים (הכי שכיח, שעוות נר) · עיבוי מפושט (רסטריקציה) · תמט עגול (מחקה גידול) · מזותליומה 30–50 שנה · ניתוח: מזותליומה נבחרת (P/D, רב-אופני), דקורטיקציה בעיבוי קשה, לעולם לא לפלאקים.",
+       "sci": true
+      }
+     ]
+    },
+    {
+     "n": 4,
+     "title": "כילותורקס · המטייל",
+     "dur": 208.6,
+     "v": {
+      "en": "clips/t1125g/c04_en.mp4"
+     },
+     "cues": [
+      {
+       "a": 0.18,
+       "b": 19.4,
+       "en": "Chylothorax: thoracic duct disrupted · #1 trauma / surgery, then tumors (lymphoma) · milky · TG > 110 mg/dL (chylomicrons) · tube + octreotide + no-fat diet (MCT) → embolization / ligation · risk: malnutrition, immunodeficiency.",
+       "he": "כילותורקס: פגיעה בצינור החזה · #1 טראומה / ניתוח, אחר כך גידולים (לימפומה) · חלבי · טריגליצרידים > 110 (כילומיקרונים) · נקז + אוקטראוטיד + דיאטה בלי שומן (MCT) ← אמבוליזציה / קשירה · סיכון: תת-תזונה, דיכוי חיסוני.",
+       "sci": false
+      },
+      {
+       "a": 19.75,
+       "b": 42.45,
+       "en": "Traveller: parapneumonic, TB (lymphocytic, ADA) · amoebic liver abscess rupture (right, 'anchovy sauce') · Paragonimus (crabs, Asia; eosinophilic, low glucose) · Echinococcus · endemic fungi (Coccidioides, Histoplasma) · melioidosis · dengue (capillary leak).",
+       "he": "מטייל: פרהפנאומוני, שחפת (לימפוציטרי, ADA) · מורסת אמבה בכבד שנפרצה (ימין, 'רוטב אנשובי') · פרגונימוס (סרטנים, אסיה; אאוזינופילי, גלוקוז נמוך) · אכינוקוקוס · פטריות אנדמיות · מליואידוזיס · דנגי (דליפת נימים).",
+       "sci": false
+      },
+      {
+       "a": 42.8,
+       "b": 177.15,
+       "en": "IN SCIENCE: chylothorax: thoracic duct disrupted · #1 trauma (thoracic surgery), then tumors (lymphoma) · milky · TG > 110 mg/dL ± chylomicrons · pseudochylothorax: cholesterol > 200, chronic (RA, TB) · tube + octreotide + no-fat diet (MCT) → embolization / ligation · avoid prolonged drainage (malnutrition, immunodeficiency) · traveller: parapneumonic + TB first (lymphocytic, ADA > 40 Harrison / > 35 slide) · amoebic abscess (right, anchovy sauce) · Paragonimus (crabs, eosinophilic, low glucose) · hydatid · Coccidioides / Histoplasma · melioidosis · dengue (capillary leak).",
+       "he": "במדע: כילותורקס: פגיעה בצינור החזה · #1 טראומה (ניתוח חזה), אחר כך גידולים (לימפומה) · חלבי · טריגליצרידים > 110 ± כילומיקרונים · פסאודו-כילותורקס: כולסטרול > 200, כרוני (RA, שחפת) · נקז + אוקטראוטיד + דיאטה בלי שומן (MCT) ← אמבוליזציה / קשירה · לא לנקז זמן רב (תת-תזונה, דיכוי חיסוני) · מטייל: קודם פרהפנאומוני ושחפת (לימפוציטרי, ADA > 40 בהריסון / > 35 בשקף) · מורסת אמבה (ימין, רוטב אנשובי) · פרגונימוס (סרטנים, אאוזינופילי, גלוקוז נמוך) · אכינוקוקוס · פטריות אנדמיות · מליואידוזיס · דנגי (דליפת נימים).",
+       "sci": true
+      },
+      {
+       "a": 178.1,
+       "b": 206.63,
+       "en": "RA = very low glucose · post-pericardiotomy · drugs + eosinophils · graded talc safe · hepatic hydrothorax: no drain · plaques: no surgery · milky → TG · traveller → where?",
+       "he": "RA = גלוקוז נמוך מאוד · פוסט-פריקרדיוטומיה · תרופות + אאוזינופילים · טלק מדורג בטוח · הידרותורקס כבדי: בלי נקז · פלאקים: בלי ניתוח · חלבי ← טריגליצרידים · מטייל ← איפה היה?",
+       "sci": false
+      }
+     ]
+    }
+   ],
+   "quiz": "quiz/t1125g.json"
+  },
+  {
    "id": "t1123",
    "day": "23/11/2026",
    "title": "COPD ומשאפים – בסיפורים",
