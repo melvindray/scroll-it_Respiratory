@@ -3,6 +3,255 @@
  "system_he": "מערכת הנשימה",
  "films": [
   {
+   "id": "t1126",
+   "day": "26/11/2026",
+   "title": "ILD, IPF, HP וסרקואידוזיס – בסיפורים (הכנה)",
+   "title_en": "Interstitial lung disease, IPF, HP and sarcoidosis, told as stories (prep)",
+   "course": "מערכת הנשימה",
+   "poster": "clips/t1126/poster.jpg",
+   "clips": [
+    {
+     "n": 1,
+     "title": "החלמה שהשתבשה · אינטרסטיציום ורסטריקציה",
+     "dur": 148.1,
+     "v": {
+      "en": "clips/t1126/c01_en.mp4",
+      "he": "clips/t1126/c01_he.mp4"
+     },
+     "cues": [
+      {
+       "a": 1.0,
+       "b": 11.81,
+       "en": "ILD: when the lung heals the wrong way.",
+       "he": "מחלות ריאה אינטרסטיציאליות: כשהריאה מחלימה בצורה לא נכונה.",
+       "sci": false
+      },
+      {
+       "a": 12.16,
+       "b": 34.16,
+       "en": "ILD = damage to the interstitium (tissue around airways and alveoli) · two processes: inflammation and fibrosis · a spectrum, not two boxes.",
+       "he": "ILD = פגיעה באינטרסטיציום (הרקמה סביב דרכי האוויר והנאדיות) · שני תהליכים: דלקת ופיברוזיס · ספקטרום, לא שתי קופסאות.",
+       "sci": false
+      },
+      {
+       "a": 34.51,
+       "b": 52.4,
+       "en": "Restrictive pattern: ↓ TLC, ↓ FVC and ↓ FEV1 together, FEV1/FVC normal or ↑ · ↓ DLCO, often first.",
+       "he": "דפוס רסטריקטיבי: ↓ TLC, ‏↓ FVC ו-↓ FEV1 יחד, FEV1/FVC תקין או ↑ · ↓ DLCO, לעיתים קרובות ראשון.",
+       "sci": false
+      },
+      {
+       "a": 52.75,
+       "b": 147.91,
+       "en": "IN SCIENCE: > 200 diseases · interstitium = tissue around airways and alveoli · inflammation + fibrosis (a spectrum) · fibrosis: stiff, small lung, ↓ diffusion · restrictive: ↓ TLC, ↓ FEV1 + ↓ FVC symmetric, ratio normal or ↑ · ↓ DLCO often first · FVC decline → mortality · rare: ~60–80 / 100,000 · risk ↑ with age.",
+       "he": "במדע: מעל 200 מחלות · אינטרסטיציום = הרקמה סביב דרכי האוויר והנאדיות · דלקת + פיברוזיס (ספקטרום) · פיברוזיס: ריאה קשיחה וקטנה, ↓ דיפוזיה · רסטריקטיבי: ↓ TLC, ‏↓ FEV1 ו-↓ FVC באופן סימטרי, יחס תקין או ↑ · ↓ DLCO לרוב ראשון · ירידה ב-FVC ← תמותה · נדיר: ~60–80 ל-100,000 · הסיכון עולה עם הגיל.",
+       "sci": true
+      }
+     ]
+    },
+    {
+     "n": 2,
+     "title": "חולה ה-IPF · מי, תסמינים, סימנים",
+     "dur": 144.2,
+     "v": {
+      "en": "clips/t1126/c02_en.mp4",
+      "he": "clips/t1126/c02_he.mp4"
+     },
+     "cues": [
+      {
+       "a": 0.17,
+       "b": 21.79,
+       "en": "IPF patient: older man (mean ~70), ex-smoker, dry cough, progressive exertional dyspnea · Velcro crackles at the bases · clubbing.",
+       "he": "חולה IPF: גבר מבוגר (גיל ממוצע ~70), מעשן לשעבר, שיעול יבש, קוצר נשימה במאמץ שמחמיר · חרחורי ולקרו בבסיסים · התאלות.",
+       "sci": false
+      },
+      {
+       "a": 22.14,
+       "b": 37.3,
+       "en": "Clubbing: ILD, lung cancer, bronchiectasis, CF, cyanotic heart disease, endocarditis, IBD, liver disease.",
+       "he": "התאלות: ILD, סרטן ריאה, ברונכיאקטזיס, CF, מחלת לב כחלונית, אנדוקרדיטיס, IBD, מחלת כבד.",
+       "sci": false
+      },
+      {
+       "a": 37.65,
+       "b": 144.01,
+       "en": "IN SCIENCE: IPF = chronic progressive fibrosing interstitial pneumonia, unknown cause · definition: no alternative cause + UIP on HRCT · most common idiopathic ILD, most severe fibrosis · older (~70), men > women · ~¾ ever-smokers (risk factor, not required) · ~10% familial (telomere genes) · exertional dyspnea over months–years (reserve), dry cough, can't take a full breath · Velcro crackles at bases · clubbing · early referral ↑ survival.",
+       "he": "במדע: IPF = דלקת ריאות אינטרסטיציאלית פיברוטית, כרונית ומתקדמת, ללא סיבה ידועה · הגדרה: אין סיבה חלופית + UIP ב-HRCT · ה-ILD האידיופתית השכיחה והפיברוזיס החמור ביותר · מבוגרים (~70), גברים > נשים · ~¾ עישנו (גורם סיכון, לא הכרחי) · ~10% משפחתי (גני טלומרים) · קוצר נשימה במאמץ לאורך חודשים–שנים (רזרבה), שיעול יבש, לא מצליח לנשום עד הסוף · ולקרו בבסיסים · התאלות · הפניה מוקדמת ↑ הישרדות.",
+       "sci": true
+      }
+     ]
+    },
+    {
+     "n": 3,
+     "title": "דפוס UIP · CT ומיקרוסקופ",
+     "dur": 154.1,
+     "v": {
+      "en": "clips/t1126/c03_en.mp4",
+      "he": "clips/t1126/c03_he.mp4"
+     },
+     "cues": [
+      {
+       "a": 0.17,
+       "b": 17.59,
+       "en": "UIP on HRCT: subpleural + basal (posterior) predominance · reticulation · traction bronchiectasis · honeycombing · volume loss of the lower lobes.",
+       "he": "UIP ב-HRCT: תת-פלאורלי + בסיסי (אחורי) · רטיקולציה · ברונכיאקטזיות מתיחה · חלת דבש · אובדן נפח באונות התחתונות.",
+       "sci": false
+      },
+      {
+       "a": 17.94,
+       "b": 41.96,
+       "en": "Histology UIP: fibroblastic foci · patchy, with normal lung in between = temporal and spatial heterogeneity · honeycomb change.",
+       "he": "היסטולוגיה UIP: מוקדים פיברובלסטיים · טלאים עם ריאה תקינה ביניהם = הטרוגניות בזמן ובמקום · שינויי חלת דבש.",
+       "sci": false
+      },
+      {
+       "a": 42.31,
+       "b": 153.88,
+       "en": "IN SCIENCE: UIP = pattern of IPF (also some CTD, e.g. RA) · HRCT: maximal inspiration, no contrast · subpleural reticulation, basal + posterior · traction bronchiectasis · honeycombing (3–10 mm cysts in rows, end stage) · lower-lobe volume loss · against UIP: extensive GGO, micronodules, mosaic, upper predominance · histology: subpleural fibrosis + honeycombing + fibroblastic foci + normal lung = temporal + spatial heterogeneity · typical CT in the right patient = IPF without biopsy.",
+       "he": "במדע: UIP = הדפוס של IPF (גם בחלק ממחלות רקמת חיבור, כמו RA) · HRCT: שאיפה מרבית, בלי חומר ניגוד · רטיקולציה תת-פלאורלית, בסיסית ואחורית · ברונכיאקטזיות מתיחה · חלת דבש (ציסטות 3–10 מ\"מ בשורות, שלב סופי) · אובדן נפח באונות תחתונות · נגד UIP: זכוכית מט נרחבת, מיקרונודולים, דפוס פסיפס, דומיננטיות עליונה · היסטולוגיה: פיברוזיס תת-פלאורלי + חלת דבש + מוקדים פיברובלסטיים + ריאה תקינה = הטרוגניות בזמן ובמקום · CT טיפוסי בחולה המתאים = IPF בלי ביופסיה.",
+       "sci": true
+      }
+     ]
+    },
+    {
+     "n": 4,
+     "title": "משיגים חתיכה · BAL, TBB, קריו, EBUS",
+     "dur": 174.2,
+     "v": {
+      "en": "clips/t1126/c04_en.mp4",
+      "he": "clips/t1126/c04_he.mp4"
+     },
+     "cues": [
+      {
+       "a": 0.18,
+       "b": 23.03,
+       "en": "Bronchoscopy: BAL (cells) · TBB forceps (safe, low yield for IIPs) · cryobiopsy (bigger samples, ~80% agreement with surgical; bleeding, pneumothorax).",
+       "he": "ברונכוסקופיה: BAL (תאים) · TBB במלקחיים (בטוח, תפוקה נמוכה) · קריוביופסיה (דגימות גדולות, ~80% התאמה לניתוחית; דימום, חזה אוויר).",
+       "sci": false
+      },
+      {
+       "a": 23.38,
+       "b": 42.99,
+       "en": "EBUS = endobronchial ultrasound-guided needle sampling of mediastinal / hilar nodes (sarcoidosis) · surgical (VATS) biopsy: up to 5% mortality · multidisciplinary discussion = the standard.",
+       "he": "EBUS = דגימה במחט של בלוטות במיצר ובשער בהנחיית אולטרסאונד מתוך הסימפון (סרקואידוזיס) · ביופסיה ניתוחית (VATS): תמותה עד 5% · דיון רב-תחומי = הסטנדרט.",
+       "sci": false
+      },
+      {
+       "a": 43.34,
+       "b": 174.06,
+       "en": "IN SCIENCE: history (all exposures, womb to now) · exam · HRCT · full PFT (volumes, DLCO) · echo (PH) · no single test decides · multidisciplinary discussion (pulmonologist, radiologist, pathologist ± rheumatologist) · biopsy if alternative suspected or CT not UIP · > 65 + typical UIP: no biopsy · BAL = cells · TBB forceps: safe, low yield for IIPs, good for granulomas · cryobiopsy: bigger, ~80% vs surgical, bleeding/PTX; role still debated · EBUS: needle into nodes · VATS: 2 lobes, up to 5% mortality.",
+       "he": "במדע: אנמנזה (כל החשיפות מהרחם ועד היום) · בדיקה · HRCT · תפקודי ריאה מלאים (נפחים, דיפוזיה) · אקו (יתר ל\"ד ריאתי) · אין בדיקה אחת שמחליטה · דיון רב-תחומי (ריאות, רדיולוג, פתולוג ± ראומטולוג) · ביופסיה אם חושדים בחלופה או ה-CT לא UIP · מעל 65 + UIP טיפוסי: בלי ביופסיה · BAL = תאים · TBB במלקחיים: בטוח, תפוקה נמוכה ב-IIP, טוב לגרנולומות · קריו: גדול יותר, ~80% מול ניתוחית, דימום/חזה אוויר; תפקידו עוד לא נקבע · EBUS: מחט לבלוטות · VATS: שתי אונות, תמותה עד 5%.",
+       "sci": true
+      }
+     ]
+    },
+    {
+     "n": 5,
+     "title": "מאטים את הצלקת · טיפול ופרוגנוזה",
+     "dur": 183.2,
+     "v": {
+      "en": "clips/t1126/c05_en.mp4",
+      "he": "clips/t1126/c05_he.mp4"
+     },
+     "cues": [
+      {
+       "a": 0.18,
+       "b": 22.42,
+       "en": "IPF: anti-fibrotics, NOT anti-inflammatory · PANTHER: prednisone + azathioprine + NAC → more deaths · nintedanib (TKI) · pirfenidone (TGF-β) · ~50% slower FVC decline, fewer exacerbations.",
+       "he": "IPF: אנטי-פיברוטי, לא אנטי-דלקתי · PANTHER: פרדניזון + אזתיופרין + NAC ← יותר מוות · נינטדניב (TKI) · פירפנידון (TGF-β) · ~50% האטה בירידת FVC, פחות החמרות.",
+       "sci": false
+      },
+      {
+       "a": 22.77,
+       "b": 39.29,
+       "en": "Median survival 2–5 years (Harrison: ~50% at 3–5 y) · worse: low FVC / DLCO, decline ≥ 5–10% · transplant referral early · oxygen if SpO2 < 88% · rehabilitation · stop smoking.",
+       "he": "הישרדות חציונית 2–5 שנים (הריסון: ~50% ב-3–5 שנים) · גרוע: FVC / DLCO נמוכים, ירידה ≥ 5–10% · הפניה מוקדמת להשתלה · חמצן אם רוויה < 88% · שיקום · הפסקת עישון.",
+       "sci": false
+      },
+      {
+       "a": 39.64,
+       "b": 182.99,
+       "en": "IN SCIENCE: diagnosis decides treatment · IPF: anti-fibrotic, avoid anti-inflammatory · PANTHER: pred + azathioprine + NAC ↑ mortality · nintedanib (TKI) · pirfenidone (TGF-β) · ~50% slower FVC decline, fewer exacerbations, no reversal · CTD / HP: anti-inflammatory, + anti-fibrotic only if progressive · IPF course unpredictable, acute exacerbations · median 2–5 y · low / falling FVC, DLCO = worse · stop smoking, rehab (QoL), O2 if < 88% · transplant: fibrosis = #1 indication, median ~7 y, refer early (FVC < 80%, DLCO < 40%).",
+       "he": "במדע: האבחנה קובעת את הטיפול · IPF: אנטי-פיברוטי, נמנעים מאנטי-דלקתי · PANTHER: פרדניזון + אזתיופרין + NAC ↑ תמותה · נינטדניב (TKI) · פירפנידון (TGF-β) · ~50% האטה בירידת FVC, פחות החמרות, לא הופך · אוטואימוני / HP: אנטי-דלקתי, + אנטי-פיברוטי רק אם מתקדם · מהלך IPF לא צפוי, החמרות חריפות · חציון 2–5 שנים · FVC ו-DLCO נמוכים / יורדים = גרוע · הפסקת עישון, שיקום (איכות חיים), חמצן מתחת ל-88% · השתלה: פיברוזיס = ההתוויה השכיחה, חציון ~7 שנים, להפנות מוקדם (FVC < 80%, DLCO < 40%).",
+       "sci": true
+      }
+     ]
+    },
+    {
+     "n": 6,
+     "title": "דלקת ריאות על רקע רגישות יתר",
+     "dur": 164.2,
+     "v": {
+      "en": "clips/t1126/c06_en.mp4",
+      "he": "clips/t1126/c06_he.mp4"
+     },
+     "cues": [
+      {
+       "a": 0.18,
+       "b": 18.72,
+       "en": "HP = immune reaction of the alveoli and small airways to an inhaled antigen (birds, molds, bacteria, chemicals) · fever, cough, dyspnea hours after exposure.",
+       "he": "HP = תגובה חיסונית של הנאדיות ודרכי האוויר הקטנות לאנטיגן נשאף (ציפורים, עובש, חיידקים, כימיקלים) · חום, שיעול, קוצר נשימה שעות אחרי החשיפה.",
+       "sci": false
+      },
+      {
+       "a": 19.07,
+       "b": 36.33,
+       "en": "Non-fibrotic HP: avoidance → resolution · fibrotic HP: irreversible part, worse prognosis · smokers: ↓ risk · BAL lymphocytosis, CD4/CD8 < 1 · expiratory CT: air trapping.",
+       "he": "HP לא פיברוטי: הרחקה ← החלמה · HP פיברוטי: חלק בלתי הפיך, פרוגנוזה גרועה · מעשנים: ↓ סיכון · לימפוציטוזיס ב-BAL, ‏CD4/CD8 < 1 · CT בנשיפה: כליאת אוויר.",
+       "sci": false
+      },
+      {
+       "a": 36.68,
+       "b": 164.03,
+       "en": "IN SCIENCE: HP = extrinsic allergic alveolitis · immune inflammation of alveoli + small airways to repeated inhaled antigens (fungi, bacteria, mycobacteria, birds, chemicals) · ± fever, fatigue · IgG sensitization necessary, not sufficient · Th1 / Th17 + innate · lymphocytic infiltrate, poorly formed granulomas · acute: resolves hours–days · subacute: weeks–months after avoidance · now non-fibrotic vs fibrotic (irreversible) · treatment = antigen avoidance ± anti-inflammatory · BAL lymphocytosis, CD4/CD8 < 1 · expiratory CT: air trapping · smokers: ↓ risk.",
+       "he": "במדע: HP = אלבאוליטיס אלרגית חיצונית · דלקת חיסונית של נאדיות ודרכי אוויר קטנות לאנטיגנים נשאפים חוזרים (פטריות, חיידקים, מיקובקטריה, ציפורים, כימיקלים) · ± חום, עייפות · רגישות (IgG) הכרחית אבל לא מספיקה · Th1 / Th17 + חיסון מולד · תסנין לימפוציטרי, גרנולומות לא מגובשות · חריף: חולף בשעות–ימים · תת-חריף: שבועות–חודשים אחרי הרחקה · היום: לא פיברוטי מול פיברוטי (בלתי הפיך) · טיפול = הרחקת האנטיגן ± אנטי-דלקתי · BAL לימפוציטוזיס, CD4/CD8 < 1 · CT בנשיפה: כליאת אוויר · מעשנים: ↓ סיכון.",
+       "sci": true
+      }
+     ]
+    },
+    {
+     "n": 7,
+     "title": "סרקואידוזיס · גרנולומה ולופגרן",
+     "dur": 257.2,
+     "v": {
+      "en": "clips/t1126/c07_en.mp4",
+      "he": "clips/t1126/c07_he.mp4"
+     },
+     "cues": [
+      {
+       "a": 0.18,
+       "b": 26.91,
+       "en": "Sarcoidosis = systemic disease of non-caseating granulomas, unknown cause · Th1 / CD4 response to an unknown antigen · lungs > 90% · ~50% asymptomatic (bilateral hilar nodes by chance).",
+       "he": "סרקואידוזיס = מחלה מערכתית של גרנולומות ללא נמק, סיבה לא ידועה · תגובת Th1 / CD4 לאנטיגן לא ידוע · ריאות > 90% · ~50% א-תסמיניים (בלוטות בשני השערים במקרה).",
+       "sci": false
+      },
+      {
+       "a": 27.26,
+       "b": 50.64,
+       "en": "Löfgren: erythema nodosum + arthritis (ankles) + bilateral hilar adenopathy · ~9–34% · excellent prognosis, no biopsy, usually no treatment.",
+       "he": "לופגרן: אריתמה נודוזום + דלקת פרקים (קרסוליים) + לימפאדנופתיה הילרית דו-צדדית · ~9–34% · פרוגנוזה מצוינת, בלי ביופסיה, לרוב בלי טיפול.",
+       "sci": false
+      },
+      {
+       "a": 50.99,
+       "b": 224.5,
+       "en": "IN SCIENCE: granuloma = epithelioid macrophages ± giant cells + lymphocytes, walls off what can't be destroyed · necrotizing (caseating): TB, fungi · non-necrotizing: sarcoidosis · sarcoid: multisystem, unknown antigen + genetic host · Th1 CD4, IFN-γ · lungs / thoracic nodes > 90% · ~50% asymptomatic, BHL on CXR · young–middle age, women, N. Europe, African Americans · smoking ↓ risk · Löfgren: EN + arthritis + BHL, excellent prognosis · diagnosis: non-necrotizing granulomas + compatible picture + exclusion (TBB, EBUS) · BAL CD4/CD8 ↑ (HP ↓) · ACE, Ca²⁺ supportive only · mild: watch (spontaneous remission) · treat: steroids → methotrexate.",
+       "he": "במדע: גרנולומה = מקרופאגים אפיתלואידים ± תאי ענק + לימפוציטים, תוחמת את מה שאי אפשר להשמיד · נמקית (קאזאוזית): שחפת, פטריות · ללא נמק: סרקואידוזיס · סרקואיד: רב-מערכתית, אנטיגן לא ידוע + נטייה גנטית · Th1 / CD4, אינטרפרון גמא · ריאות ובלוטות החזה > 90% · ~50% א-תסמיניים, בלוטות בשני השערים בצילום · צעירים–גיל ביניים, נשים, צפון אירופה, אפרו-אמריקאים · עישון ↓ סיכון · לופגרן: אריתמה נודוזום + דלקת פרקים + בלוטות, פרוגנוזה מצוינת · אבחנה: גרנולומות ללא נמק + תמונה מתאימה + שלילה (TBB, EBUS) · BAL ‏CD4/CD8 ↑ (ב-HP ↓) · ACE וסידן תומכים בלבד · קל: מעקב (נסיגה ספונטנית) · טיפול: סטרואידים ← מתוטרקסט.",
+       "sci": true
+      },
+      {
+       "a": 225.45,
+       "b": 255.22,
+       "en": "Smoking: IPF ↑ · HP ↓ · sarcoid ↓ · basal subpleural scar = UIP · inhaled antigen = HP · bilateral hilar nodes = sarcoid.",
+       "he": "עישון: IPF ↑ · HP ↓ · סרקואיד ↓ · צלקת תת-פלאורלית בסיסית = UIP · אנטיגן נשאף = HP · בלוטות בשני השערים = סרקואיד.",
+       "sci": false
+      }
+     ]
+    }
+   ],
+   "quiz": "quiz/t1126.json"
+  },
+  {
    "id": "t1125q",
    "day": "25/11/2026",
    "title": "בוחן מקדים – פלאורה (הריסון 305)",
