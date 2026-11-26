@@ -3,6 +3,223 @@
  "system_he": "מערכת הנשימה",
  "films": [
   {
+   "id": "t1130",
+   "day": "30/11/2026",
+   "title": "אי ספיקה נשימתית חריפה, ARDS והנשמה מכנית (הכנה)",
+   "title_en": "Acute respiratory failure, ARDS and mechanical ventilation (preparation)",
+   "course": "מערכת הנשימה",
+   "poster": "clips/t1130/poster.jpg",
+   "clips": [
+    {
+     "n": 1,
+     "title": "ארבעה סוגי אי ספיקה",
+     "dur": 187.4,
+     "v": {
+      "en": "clips/t1130/c01_en.mp4",
+      "he": "clips/t1130/c01_he.mp4"
+     },
+     "cues": [
+      {
+       "a": 1.0,
+       "b": 13.97,
+       "en": "Acute respiratory failure · ARDS · mechanical ventilation.",
+       "he": "אי ספיקה נשימתית חריפה · ARDS · הנשמה מכנית.",
+       "sci": false
+      },
+      {
+       "a": 14.32,
+       "b": 42.87,
+       "en": "Type I = hypoxemic (oxygenation fails): PaO₂ < 60 · V/Q mismatch, shunt · Type II = hypercapnic (ventilation fails): PaCO₂ > 45–50, acidosis · alveolar hypoventilation.",
+       "he": "סוג I = היפוקסמי (כשל חמצון): PaO₂ < 60 · V/Q, שאנט · סוג II = היפרקפני (כשל אוורור): PaCO₂ > 45–50, חמצת · היפוונטילציה.",
+       "sci": false
+      },
+      {
+       "a": 43.22,
+       "b": 71.38,
+       "en": "Type III = atelectasis, perioperative (↓FRC after anesthesia) · Type IV = shock: respiratory muscles take up to 40% of cardiac output (normally < 5%) → intubate to redistribute.",
+       "he": "סוג III = תמט, אחרי ניתוח (↓FRC) · סוג IV = שוק: שרירי הנשימה לוקחים עד 40% מתפוקת הלב (בדרך כלל < 5%) ← אינטובציה.",
+       "sci": false
+      },
+      {
+       "a": 71.73,
+       "b": 187.28,
+       "en": "IN SCIENCE: ARF = failure of gas exchange, defined by ABG · Type I: alveolar flooding (edema, pneumonia, hemorrhage, injury) → V/Q mismatch + shunt · PaO₂ < 60, PaCO₂ normal/low · Type II: hypoventilation · PaCO₂ > 45–50, pH ↓ (no time for renal compensation) · Type III: atelectasis, perioperative (↓FRC) → position, physio, pain control, NIV · Type IV: shock, muscles up to 40% of CO (normally < 5%) → intubate · I + II together: COPD exacerbation.",
+       "he": "במדע: אי ספיקה חריפה = כשל בחילוף גזים, מוגדר בגזים · סוג I: הצפת נאדיות (בצקת, דלקת, דימום, פגיעה) ← V/Q + שאנט · PaO₂ < 60, PaCO₂ תקין/נמוך · סוג II: היפוונטילציה · PaCO₂ > 45–50, pH ↓ (אין זמן לפיצוי כלייתי) · סוג III: תמט אחרי ניתוח (↓FRC) ← תנוחה, פיזיותרפיה, שיכוך כאב, NIV · סוג IV: שוק, שרירים עד 40% מתפוקת הלב ← אינטובציה · I + II יחד: החמרת COPD.",
+       "sci": true
+      }
+     ]
+    },
+    {
+     "n": 2,
+     "title": "היפרקפניה",
+     "dur": 199.3,
+     "v": {
+      "en": "clips/t1130/c02_en.mp4",
+      "he": "clips/t1130/c02_he.mp4"
+     },
+     "cues": [
+      {
+       "a": 0.18,
+       "b": 23.48,
+       "en": "'Won't breathe' = ↓ CNS drive: opioids, benzodiazepines, brainstem injury, severe hypothyroidism · 'Can't breathe' = weakness (GBS, myasthenia, ALS, C3–C5) or ↑ load (asthma, COPD, upper airway obstruction, fatigue).",
+       "he": "'לא רוצה לנשום' = ↓ דחף מרכזי: אופיאטים, בנזודיאזפינים, גזע המוח · 'לא יכול לנשום' = חולשה (גיליאן-בארה, מיאסטניה, ALS, C3–C5) או ↑ עומס (אסתמה, COPD, חסימה עליונה, עייפות).",
+       "sci": false
+      },
+      {
+       "a": 23.83,
+       "b": 46.72,
+       "en": "CO₂ narcosis: headache (vasodilation), somnolence, confusion → coma · asterixis · flushed skin · treat cause (naloxone, bronchodilators + steroids) · NIV (BiPAP) first line in COPD · intubate if failing · keep pH > 7.2.",
+       "he": "נרקוטת CO₂: כאב ראש (הרחבת כלי דם), ישנוניות, בלבול ← תרדמת · אסטריקסיס · עור סמוק · טיפול בסיבה (נלוקסון, מרחיבי סימפונות + סטרואידים) · NIV (BiPAP) קו ראשון ב-COPD · אינטובציה אם נכשל · pH > 7.2.",
+       "sci": false
+      },
+      {
+       "a": 47.07,
+       "b": 199.15,
+       "en": "IN SCIENCE: PaCO₂ ∝ 1 / alveolar ventilation · ↓ minute ventilation or ↑ dead space · ↓ drive: opioids, benzodiazepines, brainstem, sleep, hypothyroidism · ↓ strength: GBS, MG, ALS, C3–C5, myopathy, electrolytes, fatigue · ↑ load: bronchospasm, stiff lung (edema, atelectasis, auto-PEEP), stiff chest wall (PTX, effusion, abdomen), ↑ demand (sepsis, PE) · PaCO₂ 75 → pH ~7.25 · CO₂ narcosis: vasodilation → ↑ICP, headache, somnolence, coma, asterixis, flushing · naloxone / bronchodilators + steroids · NIV first line in COPD (alert, protects airway) · intubate if worse · pH > 7.2.",
+       "he": "במדע: PaCO₂ ביחס הפוך לאוורור נאדיות · ↓ אוורור דקה או ↑ חלל מת · ↓ דחף: אופיאטים, בנזודיאזפינים, גזע המוח, שינה, תת-פעילות תריס · ↓ כוח: גיליאן-בארה, מיאסטניה, ALS, C3–C5, מיופתיה, אלקטרוליטים, עייפות · ↑ עומס: ברונכוספזם, ריאה נוקשה (בצקת, תמט, auto-PEEP), דופן נוקשה (חזה אויר, תפליט, בטן), ↑ דרישה (אלח דם, תסחיף) · PaCO₂ 75 ← pH ~7.25 · נרקוטת CO₂: ↑ לחץ תוך-גולגולתי, ישנוניות, תרדמת, אסטריקסיס · נלוקסון / מרחיבי סימפונות + סטרואידים · NIV קו ראשון ב-COPD · אינטובציה · pH > 7.2.",
+       "sci": true
+      }
+     ]
+    },
+    {
+     "n": 3,
+     "title": "מפל A–a · V/Q · שאנט",
+     "dur": 198.0,
+     "v": {
+      "en": "clips/t1130/c03_en.mp4",
+      "he": "clips/t1130/c03_he.mp4"
+     },
+     "cues": [
+      {
+       "a": 0.18,
+       "b": 22.04,
+       "en": "PAO₂ = FiO₂ × (760 − 47) − PaCO₂ / 0.8 · A–a gradient = PAO₂ − PaO₂ · normal < 10–15 (↑ with age) · normal gradient = hypoventilation (or altitude) · ↑ gradient = V/Q, shunt, diffusion.",
+       "he": "PAO₂ = FiO₂ × (760 − 47) − PaCO₂ / 0.8 · מפל A–a = PAO₂ − PaO₂ · תקין < 10–15 (עולה עם הגיל) · מפל תקין = היפוונטילציה · מפל גבוה = V/Q, שאנט, דיפוזיה.",
+       "sci": false
+      },
+      {
+       "a": 22.39,
+       "b": 48.68,
+       "en": "V/Q mismatch: low V/Q units · improves with O₂ · Shunt: perfusion of non-ventilated alveoli (pneumonia, edema, ARDS, atelectasis, hemorrhage) · refractory to 100% O₂ → recruit with PEEP · diffusion: rare, exercise.",
+       "he": "חוסר התאמה V/Q: אזורים עם V/Q נמוך · משתפר עם חמצן · שאנט: זילוח נאדיות לא מאווררות (דלקת, בצקת, ARDS, תמט, דימום) · לא משתפר גם ב-100% ← לפתוח עם PEEP · דיפוזיה: נדיר, במאמץ.",
+       "sci": false
+      },
+      {
+       "a": 49.03,
+       "b": 197.78,
+       "en": "IN SCIENCE: PAO₂ = FiO₂ (PB − 47) − PaCO₂ / 0.8 · room air ≈ 150 − PaCO₂/0.8 · A–a = PAO₂ − PaO₂ · normal < 10–15, ↑ age · hypoventilation: normal gradient · ↑ gradient: V/Q, shunt, diffusion · V/Q: corrected by O₂ · shunt: flooded/collapsed alveoli (pneumonia, edema, ARDS, atelectasis, hemorrhage) · refractory to O₂ → PEEP recruitment · PE: high V/Q, dead space · slide case: PaO₂ 50, PaCO₂ 70 → PAO₂ ≈ 62, gradient ≈ 12 = hypoventilation.",
+       "he": "במדע: PAO₂ = FiO₂ (PB − 47) − PaCO₂ / 0.8 · אוויר חדר ≈ 150 − PaCO₂/0.8 · מפל A–a = PAO₂ − PaO₂ · תקין < 10–15, עולה עם הגיל · היפוונטילציה: מפל תקין · מפל גבוה: V/Q, שאנט, דיפוזיה · V/Q: מתוקן בחמצן · שאנט: נאדיות מוצפות/קרוסות · לא מגיב לחמצן ← PEEP · תסחיף: V/Q גבוה, חלל מת · מקרה מהשקף: PaO₂ 50, PaCO₂ 70 ← PAO₂ ≈ 62, מפל ≈ 12 = היפוונטילציה.",
+       "sci": true
+      }
+     ]
+    },
+    {
+     "n": 4,
+     "title": "ארבע היפוקסיות · רעלים",
+     "dur": 239.2,
+     "v": {
+      "en": "clips/t1130/c04_en.mp4",
+      "he": "clips/t1130/c04_he.mp4"
+     },
+     "cues": [
+      {
+       "a": 0.17,
+       "b": 24.79,
+       "en": "4 hypoxias: hypoxemic (↓PaO₂: V/Q, shunt) · anemic (↓ carrying: anemia, MetHb, CO; PaO₂ normal) · ischemic (shock, embolus) · histotoxic (cyanide: cytochrome oxidase blocked) · CaO₂ = 1.34 × Hb × SaO₂ + 0.003 × PaO₂ · DO₂ = CO × CaO₂.",
+       "he": "4 היפוקסיות: היפוקסמית (↓PaO₂) · אנמית (אנמיה, מתהמוגלובין, CO; PaO₂ תקין) · איסכמית (שוק, תסחיף) · היסטוטוקסית (ציאניד: ציטוכרום אוקסידאז) · CaO₂ = 1.34 × Hb × SaO₂ + 0.003 × PaO₂ · DO₂ = תפוקת לב × CaO₂.",
+       "sci": false
+      },
+      {
+       "a": 25.14,
+       "b": 58.79,
+       "en": "MetHb: Fe³⁺ · dapsone, benzocaine · SpO₂ ~85% fixed, PaO₂ normal, chocolate blood → methylene blue (caution G6PD) · CO: 200× affinity, left shift · SpO₂ falsely normal → 100% O₂ / hyperbaric · cyanide: cytochrome oxidase · O₂-rich venous blood → antidote.",
+       "he": "מתהמוגלובין: Fe³⁺ · דפסון, בנזוקאין · SpO₂ ~85% קבוע, PaO₂ תקין, דם חום ← מתילן בלו (זהירות G6PD) · CO: זיקה ×200, הסטה שמאלה · סטורציה תקינה כוזבת ← 100% חמצן / תא לחץ · ציאניד: ציטוכרום אוקסידאז · דם ורידי עשיר בחמצן ← תרופת נגד.",
+       "sci": false
+      },
+      {
+       "a": 59.14,
+       "b": 239.04,
+       "en": "IN SCIENCE: hypoxemia (blood) ≠ hypoxia (tissue) · CaO₂ = 1.34 × Hb × SaO₂ + 0.003 × PaO₂ (17–20 mL/dL) · DO₂ = CO × CaO₂ · hypoxemic (↓PaO₂) · anemic (PaO₂ normal, content ↓: anemia, MetHb, CO) · ischemic (shock, embolus → perfusion) · histotoxic (cyanide) · cyanosis: > 5 g/dL deoxy-Hb (~SpO₂ 85%) · MetHb: Fe³⁺, dapsone, benzocaine, hereditary · blue despite O₂, PaO₂ normal, SpO₂ ~85%, chocolate → methylene blue (G6PD!) · CO: 200×, left shift · SpO₂ falsely normal · fire, charcoal · 100% O₂ / hyperbaric · cyanide: cytochrome oxidase, O₂-rich venous blood → antidote.",
+       "he": "במדע: היפוקסמיה (בדם) ≠ היפוקסיה (ברקמה) · CaO₂ = 1.34 × Hb × SaO₂ + 0.003 × PaO₂ (17–20) · DO₂ = תפוקת לב × CaO₂ · היפוקסמית · אנמית (PaO₂ תקין: אנמיה, מתהמוגלובין, CO) · איסכמית (שוק, תסחיף) · היסטוטוקסית (ציאניד) · כיחלון: > 5 ג׳/ד״ל המוגלובין לא מחומצן · מתהמוגלובין: Fe³⁺, דפסון, בנזוקאין, תורשתי · כחול למרות חמצן, PaO₂ תקין, SpO₂ ~85%, דם חום ← מתילן בלו (G6PD!) · CO: ×200, הסטה שמאלה · סטורציה תקינה כוזבת · שריפה, פחם · 100% חמצן / תא לחץ · ציאניד: ציטוכרום אוקסידאז, דם ורידי עשיר בחמצן ← תרופת נגד.",
+       "sci": true
+      }
+     ]
+    },
+    {
+     "n": 5,
+     "title": "המנשם · PEEP",
+     "dur": 225.8,
+     "v": {
+      "en": "clips/t1130/c05_en.mp4",
+      "he": "clips/t1130/c05_he.mp4"
+     },
+     "cues": [
+      {
+       "a": 0.18,
+       "b": 24.09,
+       "en": "Spontaneous: negative pleural pressure (−2 → −7 cmH₂O) pulls air in · ventilator: positive pressure pushes air in, expiration passive · aims: oxygenation, CO₂ removal, ↓ work of breathing · supportive, not curative.",
+       "he": "נשימה ספונטנית: לחץ פלאורלי שלילי (−2 ← −7) מושך אוויר · מנשם: לחץ חיובי דוחף אוויר, נשיפה סבילה · מטרות: חמצון, פינוי CO₂, ↓ עבודת נשימה · תומך, לא מרפא.",
+       "sci": false
+      },
+      {
+       "a": 24.44,
+       "b": 51.29,
+       "en": "Volume control → pressure varies · pressure control → volume varies · compliance = ΔV / ΔP · PEEP: ↑FRC, recruits, prevents atelectrauma, ↓ shunt · peak = resistance + compliance · plateau = compliance only.",
+       "he": "בקרת נפח ← הלחץ משתנה · בקרת לחץ ← הנפח משתנה · היענות = ΔV / ΔP · PEEP: ↑FRC, פתיחת נאדיות, מונע אטלקטוטראומה, ↓ שאנט · לחץ שיא = התנגדות + היענות · פלטו = היענות בלבד.",
+       "sci": false
+      },
+      {
+       "a": 51.64,
+       "b": 225.67,
+       "en": "IN SCIENCE: spontaneous: pleural −2 → −7 cmH₂O · iron lung (negative), positive pressure 1955 · expiration passive · aims: O₂, CO₂, ↓ work · supportive · volume control: P varies · pressure control: V varies · compliance = ΔV/ΔP · PEEP: ↑FRC, recruits, no open-close, ↑V/Q, ↓ shunt, safer FiO₂ · peak = resistance + compliance · plateau = compliance · gap > 10–15 = resistance · auto-PEEP: asthma, COPD · ↓ venous return / CO, ↓ LV afterload · VILI: volutrauma (worst), barotrauma, atelectrauma, O₂ toxicity · VAP · daily SBT: P/F > 200, PEEP ≤ 5.",
+       "he": "במדע: ספונטני: פלאורלי −2 ← −7 · ריאת ברזל (שלילי), לחץ חיובי 1955 · נשיפה סבילה · מטרות: חמצן, CO₂, ↓ עבודה · תומך · בקרת נפח: הלחץ משתנה · בקרת לחץ: הנפח משתנה · היענות = ΔV/ΔP · PEEP: ↑FRC, פותח נאדיות, ↑V/Q, ↓ שאנט, FiO₂ בטוח · שיא = התנגדות + היענות · פלטו = היענות · פער > 10–15 = התנגדות · auto-PEEP: אסתמה, COPD · ↓ החזר ורידי, ↓ עומס בתר שמאלי · VILI: וולוטראומה (הכי מזיק), ברוטראומה, אטלקטוטראומה, רעילות חמצן · VAP · ניסיון נשימה יומי: P/F > 200, PEEP ≤ 5.",
+       "sci": true
+      }
+     ]
+    },
+    {
+     "n": 6,
+     "title": "ARDS",
+     "dur": 293.4,
+     "v": {
+      "en": "clips/t1130/c06_en.mp4",
+      "he": "clips/t1130/c06_he.mp4"
+     },
+     "cues": [
+      {
+       "a": 0.17,
+       "b": 22.02,
+       "en": "ARDS = acute diffuse inflammatory injury → non-cardiogenic edema · direct: pneumonia, aspiration · indirect: sepsis (40–60%), trauma, transfusions, pancreatitis · ~10% of ICU · mortality 30–40% · phases: exudative (0–7 d), proliferative (7–14), fibrotic (≥ 3–4 w).",
+       "he": "ARDS = פגיעה דלקתית מפושטת ← בצקת לא-קרדיוגנית · ישיר: דלקת ריאות, אספירציה · עקיף: אלח דם (40–60%), טראומה, עירויים, דלקת לבלב · ~10% מטיפול נמרץ · תמותה 30–40% · שלבים: אקסודטיבי, פרוליפרטיבי, פיברוטי.",
+       "sci": false
+      },
+      {
+       "a": 22.37,
+       "b": 51.41,
+       "en": "Berlin: ≤ 1 week, bilateral opacities, not cardiac, P/F ≤ 300 on PEEP ≥ 5 · mild 200–300, moderate 100–200, severe ≤ 100 · VT 6 mL/kg PBW, plateau ≤ 30, PEEP, permissive hypercapnia · prone (P/F < 150) · conservative fluids · NMB · ECMO.",
+       "he": "ברלין: ≤ שבוע, תסנינים דו-צדדיים, לא לבבי, P/F ≤ 300 עם PEEP ≥ 5 · קל 200–300, בינוני 100–200, קשה ≤ 100 · 6 מ״ל/ק״ג, פלטו ≤ 30, PEEP, היפרקפניה מתירנית · שכיבה על הבטן (P/F < 150) · נוזלים מוגבלים · משתקים · ECMO.",
+       "sci": false
+      },
+      {
+       "a": 51.76,
+       "b": 266.39,
+       "en": "IN SCIENCE: ARDS = acute diffuse inflammatory injury, non-cardiogenic edema · syndrome · ~10% ICU, mortality 30–40% · direct: pneumonia, aspiration · indirect: sepsis (40–60%), trauma/transfusion, pancreatitis, COVID · permeable barrier, protein-rich edema, hyaline membranes, neutrophils · exudative 0–7 d (shunt) · proliferative 7–14 (type II, surfactant) · fibrotic ≥ 3–4 w · Berlin: ≤ 1 w, bilateral, not cardiac, P/F ≤ 300 on PEEP ≥ 5 · mild 200–300, moderate 100–200, severe ≤ 100 · PaO₂ 90 / FiO₂ 0.6 = 150 = moderate · cardiogenic: JVP, S3, cardiomegaly, bat wing, BNP, echo · wedge normal in ARDS · treat cause · ARDSNet: 6 vs 12 mL/kg → 31 vs ~40% · plateau ≤ 30 · PEEP · permissive hypercapnia · dry · prone (P/F < 150) · NMB · ECMO.",
+       "he": "במדע: ARDS = פגיעה דלקתית מפושטת, בצקת לא-קרדיוגנית · תסמונת · ~10% מטיפול נמרץ, תמותה 30–40% · ישיר: דלקת ריאות, אספירציה · עקיף: אלח דם (40–60%), טראומה/עירויים, דלקת לבלב, קורונה · מחסום חדיר, בצקת עשירה בחלבון, ממברנות היאליניות · אקסודטיבי 0–7 ימים · פרוליפרטיבי 7–14 · פיברוטי ≥ 3–4 שבועות · ברלין: ≤ שבוע, דו-צדדי, לא לבבי, P/F ≤ 300 עם PEEP ≥ 5 · קל 200–300, בינוני 100–200, קשה ≤ 100 · 90 / 0.6 = 150 = בינוני · קרדיוגני: JVP, S3, לב מוגדל, כנפי עטלף, BNP, אקו · לחץ טריז תקין ב-ARDS · ARDSNet: 6 מול 12 ← 31% מול ~40% · פלטו ≤ 30 · PEEP · היפרקפניה מתירנית · יבש · בטן (P/F < 150) · משתקים · ECMO.",
+       "sci": true
+      },
+      {
+       "a": 267.34,
+       "b": 291.42,
+       "en": "Type I ↓O₂ · Type II ↑CO₂ · A–a gradient · shunt → PEEP · CO: SpO₂ lies · ARDS: acute, bilateral, not cardiac, 6 mL/kg.",
+       "he": "סוג I ↓חמצן · סוג II ↑CO₂ · מפל A–a · שאנט ← PEEP · CO: הסטורציה משקרת · ARDS: חריף, דו-צדדי, לא לבבי, 6 מ״ל/ק״ג.",
+       "sci": false
+      }
+     ]
+    }
+   ],
+   "quiz": "quiz/t1130.json"
+  },
+  {
    "id": "t1126",
    "day": "26/11/2026",
    "title": "ILD, IPF, HP וסרקואידוזיס – בסיפורים (הכנה)",
