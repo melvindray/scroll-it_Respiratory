@@ -2009,6 +2009,255 @@
    "quiz": "quiz/t1122x.json"
   },
   {
+   "id": "t1122c",
+   "day": "22/11/2026",
+   "title": "CBL ממאירות ריאה – איך קוראים את השאלה ועונים (7 מקרים)",
+   "title_en": "Lung malignancy CBL: how to read the question and answer it (7 cases)",
+   "course": "מערכת הנשימה",
+   "poster": "clips/t1122c/poster.jpg",
+   "clips": [
+    {
+     "n": 1,
+     "title": "מקרה 1 · נתרן 123",
+     "dur": 211.9,
+     "v": {
+      "en": "clips/t1122c/c01_en.mp4",
+      "he": "clips/t1122c/c01_he.mp4"
+     },
+     "cues": [
+      {
+       "a": 1.0,
+       "b": 14.09,
+       "en": "CBL lung malignancy: 7 cases · read · find the clue · answer.",
+       "he": "CBL ממאירות ריאה: 7 מקרים · לקרוא · למצוא את הרמז · לענות.",
+       "sci": false
+      },
+      {
+       "a": 14.44,
+       "b": 39.82,
+       "en": "56 ♀ · > 60 pack-years · weakness, weight loss · Na 123 · CXR: large left hilar mass · clue: heavy smoker + central + hyponatremia.",
+       "he": "בת 56 · > 60 שנות חפיסה · חולשה, ירידה במשקל · נתרן 123 · צילום: גוש היל-ארי שמאלי גדול · רמז: מעשנת כבדה + מרכזי + היפונתרמיה.",
+       "sci": false
+      },
+      {
+       "a": 40.17,
+       "b": 73.68,
+       "en": "Central + smoker → squamous or small cell · Na ↓ → SIADH → small cell · path: small round blue cells, chromogranin + synaptophysin (neuroendocrine) = SCLC · limited to left hemithorax = limited stage.",
+       "he": "מרכזי + מעשנת ← קשקשי או תאים קטנים · נתרן ↓ ← SIADH ← תאים קטנים · פתולוגיה: תאים כחולים קטנים, כרומוגרנין + סינפטופיזין = SCLC · מוגבל להמיטורקס = limited stage.",
+       "sci": false
+      },
+      {
+       "a": 74.03,
+       "b": 211.76,
+       "en": "IN SCIENCE: DDx: SCLC (best, SIADH) · squamous (central, smoking) · lymphoma / mediastinal mass, metastasis · Na ↓: SIADH (or ANP) → serum + urine osmolality · tests: CT chest + upper abdomen, PET-CT, brain MRI, tissue · bronchoscopy for central masses + EBUS for nodes (diagnosis + staging) · limits: poor for peripheral, small samples, invasive · add brushing, BAL, EBUS-TBNA · chromogranin + synaptophysin = SCLC · limited stage → concurrent cisplatin-etoposide × 4 + thoracic RT, consider PCI · no routine surgery · SIADH resolves 1–4 w, fluid restriction (Na > 128).",
+       "he": "במדע: אבחנה מבדלת: SCLC (הכי מתאים, SIADH) · קשקשי (מרכזי, עישון) · לימפומה / גוש מדיאסטינלי, גרורה · נתרן ↓: SIADH (או ANP) ← אוסמולליות בדם ובשתן · בדיקות: CT חזה ובטן עליונה, PET-CT, MRI מוח, רקמה · ברונכוסקופיה לגוש מרכזי + EBUS לבלוטות · חסרונות: לא מגיעה לפריפריה, דגימה קטנה, פולשנית · להוסיף מברשת, BAL, EBUS-TBNA · כרומוגרנין + סינפטופיזין = SCLC · limited ← ציספלטין-אטופוסיד × 4 + הקרנה במקביל, לשקול PCI · בלי ניתוח שגרתי · SIADH חולף תוך 1–4 שבועות, הגבלת נוזלים.",
+       "sci": true
+      }
+     ]
+    },
+    {
+     "n": 2,
+     "title": "מקרה 2 · קשרית מקרית",
+     "dur": 167.4,
+     "v": {
+      "en": "clips/t1122c/c02_en.mp4",
+      "he": "clips/t1122c/c02_he.mp4"
+     },
+     "cues": [
+      {
+       "a": 0.18,
+       "b": 33.84,
+       "en": "60 ♀ · ex-smoker (quit 20 y) · incidental · CT: solitary nodule, right upper lobe, posterior, peripheral · clue: incidental solitary nodule → benign or malignant?",
+       "he": "בת 60 · הפסיקה לעשן לפני 20 שנה · ממצא מקרי · CT: קשרית בודדת באונה הימנית העליונה, אחורית, היקפית · רמז: קשרית מקרית ← שפירה או ממאירה?",
+       "sci": false
+      },
+      {
+       "a": 34.19,
+       "b": 63.43,
+       "en": "Malignant: age, smoking, prior cancer, size, spiculation, upper lobe, growth · benign: stable > 2 years, benign calcification (central, popcorn, bull's eye) · peripheral → CT-guided needle biopsy.",
+       "he": "ממאיר: גיל, עישון, סרטן קודם, גודל, ספיקולציה, אונה עליונה, גדילה · שפיר: יציב > שנתיים, הסתיידות שפירה (מרכזית, פופקורן, בול) · היקפי ← ביופסיה בהנחיית CT.",
+       "sci": false
+      },
+      {
+       "a": 63.78,
+       "b": 167.19,
+       "en": "IN SCIENCE: describe: solitary well-defined nodule, RUL, no effusion / hilar nodes · 3 tests: old images + thin-section CT, PET-CT (also staging), tissue · Mayo predictors: age, smoking, prior cancer, diameter, spiculation, upper lobe · benign: no growth > 2 y, benign calcification (central, popcorn = hamartoma, bull's eye = granuloma) · peripheral → CT-guided transthoracic biopsy (or navigation bronchoscopy) · T1cN0M0 = IA3 → lobectomy + node sampling (FEV1 > 1.5 L) · inoperable → SBRT.",
+       "he": "במדע: תיאור: קשרית בודדת ומוגדרת, אונה ימנית עליונה, בלי תפליט או בלוטות · 3 בדיקות: השוואה לישן + CT דק, PET-CT (גם שלב), רקמה · מנבאי מאיו: גיל, עישון, סרטן קודם, קוטר, ספיקולציה, אונה עליונה · שפיר: בלי גדילה > שנתיים, הסתיידות שפירה (מרכזית, פופקורן = המרטומה, בול = גרנולומה) · היקפי ← ביופסיה בהנחיית CT (או ברונכוסקופיה ניווטית) · T1cN0M0 = IA3 ← לובקטומיה + דגימת בלוטות (FEV1 > 1.5 ל׳) · לא נתיחה ← SBRT.",
+       "sci": true
+      }
+     ]
+    },
+    {
+     "n": 3,
+     "title": "מקרה 3 · צרידות",
+     "dur": 156.3,
+     "v": {
+      "en": "clips/t1122c/c03_en.mp4",
+      "he": "clips/t1122c/c03_he.mp4"
+     },
+     "cues": [
+      {
+       "a": 0.18,
+       "b": 28.65,
+       "en": "60 ♂ · smoker · hoarseness for weeks · CT: left mediastinal / aortopulmonary window mass · clue: left recurrent laryngeal nerve loops under the aortic arch → invaded.",
+       "he": "בן 60 · מעשן · צרידות שבועות · CT: גוש מדיאסטינלי שמאלי בחלון האאורטו-פולמונרי · רמז: עצב הגרון החוזר השמאלי מתחת לקשת ← נפגע.",
+       "sci": false
+      },
+      {
+       "a": 29.0,
+       "b": 49.47,
+       "en": "Recurrent laryngeal nerve / mediastinal invasion = T4 · test of choice: EBUS-TBNA (diagnosis + staging in one step) · squamous, N2, M0 → stage III, curative intent.",
+       "he": "פגיעה בעצב הגרון החוזר / במדיאסטינום = T4 · בדיקת בחירה: EBUS-TBNA (אבחנה + שלב יחד) · קשקשי, N2, M0 ← שלב III, כוונה מרפאת.",
+       "sci": false
+      },
+      {
+       "a": 49.82,
+       "b": 156.1,
+       "en": "IN SCIENCE: left mediastinal (AP window) mass · Harrison: hoarseness (recurrent laryngeal) + dysphagia, phrenic palsy, Horner = intrathoracic spread · TNM8: mediastinum, great vessels, trachea, esophagus, vertebra, recurrent laryngeal nerve → T4 · test: EBUS-TBNA · advantages: diagnosis + staging together, minimally invasive / outpatient / safer than mediastinoscopy, real-time US reaches nodes + central mass, tissue for molecular + PD-L1 · squamous T4N2M0 = IIIB → curative, no surgery: concurrent chemoradiotherapy → durvalumab × 1 year.",
+       "he": "במדע: גוש מדיאסטינלי שמאלי (חלון AP) · הריסון: צרידות (עצב חוזר) + דיספגיה, שיתוק פרני, הורנר = התפשטות תוך-חזית · TNM8: מדיאסטינום, כלים גדולים, קנה, ושט, חוליה, עצב חוזר ← T4 · בדיקה: EBUS-TBNA · יתרונות: אבחנה + שלב יחד, זעיר-פולשני / אמבולטורי / בטוח ממדיאסטינוסקופיה, אולטרסאונד בזמן אמת לבלוטות ולגוש, רקמה למולקולרי + PD-L1 · קשקשי T4N2M0 = IIIB ← מרפא, בלי ניתוח: כימו-הקרנה במקביל ← דורבלומאב שנה.",
+       "sci": true
+      }
+     ]
+    },
+    {
+     "n": 4,
+     "title": "מקרה 4 · תפליט ממאיר",
+     "dur": 159.3,
+     "v": {
+      "en": "clips/t1122c/c04_en.mp4",
+      "he": "clips/t1122c/c04_he.mp4"
+     },
+     "cues": [
+      {
+       "a": 0.18,
+       "b": 30.34,
+       "en": "80 ♂ · active smoker since 17 · dyspnea 2 weeks · −12 kg / 4 months · large right pleural effusion · clue: smoker + weight loss + unilateral effusion = malignant until proven otherwise.",
+       "he": "בן 80 · מעשן פעיל · קוצר נשימה שבועיים · −12 ק״ג ב-4 חודשים · תפליט פלאורלי ימני גדול · רמז: מעשן + ירידה במשקל + תפליט חד-צדדי = ממאיר עד שיוכח אחרת.",
+       "sci": false
+      },
+      {
+       "a": 30.69,
+       "b": 54.68,
+       "en": "Cytology positive in ~60% → repeat tap, then pleural biopsy (thoracoscopy / image-guided) · malignant effusion = M1a = stage IVA, whatever T and N.",
+       "he": "ציטולוגיה חיובית רק ב-~60% ← ניקור חוזר, ואז ביופסיה פלאורלית · תפליט ממאיר = M1a = שלב IVA, בלי קשר ל-T ו-N.",
+       "sci": false
+      },
+      {
+       "a": 55.03,
+       "b": 159.16,
+       "en": "IN SCIENCE: tests: diagnostic + therapeutic thoracentesis (protein, LDH, glucose, pH, cells, cytology) · CT chest + abdomen after drainage · PET-CT / biopsy of easiest site · large effusion + rest dyspnea → admit · negative cytology → repeat tap (Harrison: essential) → pleural biopsy (thoracoscopy = gold standard / image-guided) · malignant effusion = M1a → IVA · treatment: systemic (targeted, immunotherapy, chemo-immuno by molecular + PD-L1) · indwelling catheter / talc pleurodesis (if lung expands) · palliative care by performance status.",
+       "he": "במדע: בדיקות: ניקור אבחנתי + טיפולי (חלבון, LDH, גלוקוז, pH, תאים, ציטולוגיה) · CT חזה + בטן אחרי ניקוז · PET-CT / ביופסיה מהאתר הנגיש · תפליט גדול + קוצר נשימה במנוחה ← אשפוז · ציטולוגיה שלילית ← ניקור חוזר (הריסון: חיוני) ← ביופסיה פלאורלית (תורקוסקופיה = זהב / מונחית) · תפליט ממאיר = M1a ← IVA · טיפול: מערכתי (ממוקד, אימונותרפיה, כימו-אימונו לפי מולקולרי + PD-L1) · קטטר קבוע / טלק (אם הריאה מתרחבת) · טיפול תומך לפי מצב תפקודי.",
+       "sci": true
+      }
+     ]
+    },
+    {
+     "n": 5,
+     "title": "מקרה 5 · פנקוסט",
+     "dur": 160.7,
+     "v": {
+      "en": "clips/t1122c/c05_en.mp4",
+      "he": "clips/t1122c/c05_he.mp4"
+     },
+     "cues": [
+      {
+       "a": 0.17,
+       "b": 30.34,
+       "en": "55 ♂ · smoker · severe worsening pain × 1 month · right apical mass invading posterior ribs / near spine · clue: apex + pain = Pancoast (superior sulcus) tumor.",
+       "he": "בן 55 · מעשן · כאב חזק ומחמיר חודש · גוש בפסגת הריאה הימנית חודר לצלעות אחוריות ליד עמוד השדרה · רמז: פסגה + כאב = גידול פנקוסט.",
+       "sci": false
+      },
+      {
+       "a": 30.69,
+       "b": 57.66,
+       "en": "Pancoast: C8–T2 → shoulder pain radiating to the ulnar arm, hand weakness · sympathetic chain → Horner (ptosis, miosis, anhidrosis, enophthalmos) · rib / vertebral destruction · T3 (chest wall, ribs) or T4 (vertebral body, plexus above T1, subclavian vessels).",
+       "he": "פנקוסט: C8–T2 ← כאב כתף לצד האולנרי, חולשת יד · שרשרת סימפתטית ← הורנר (פטוזיס, מיוזיס, אנהידרוזיס) · הרס צלעות / חוליה · T3 (דופן, צלעות) או T4 (גוף חוליה, מקלעת מעל T1, כלי תת-בריחי).",
+       "sci": false
+      },
+      {
+       "a": 58.01,
+       "b": 160.56,
+       "en": "IN SCIENCE: right apical superior sulcus mass, posterior rib destruction, contact with spine · 3 skeletal pain causes: direct invasion (chest wall / ribs / vertebra), bone metastases, hypertrophic pulmonary osteoarthropathy (+ clubbing) · Pancoast: C8, T1, T2 → shoulder pain to ulnar arm, ribs 1–2 destroyed, + Horner (ptosis, miosis, enophthalmos, anhidrosis) · also hand weakness / wasting, SVC · T3: chest wall, ribs, T1 root · T4: vertebral body, plexus above T1, subclavian vessels · MRI for brachial plexus.",
+       "he": "במדע: גוש בפסגה הימנית, הרס צלעות אחוריות, מגע עם עמוד השדרה · 3 סיבות לכאב שלד: חדירה ישירה, גרורות לעצם, אוסטאוארתרופתיה ריאתית (+ קלאבינג) · פנקוסט: C8, T1, T2 ← כאב כתף לצד האולנרי, הרס צלעות 1–2, + הורנר · גם חולשת יד, חסימת וריד נבוב עליון · T3: דופן, צלעות, שורש T1 · T4: גוף חוליה, מקלעת מעל T1, כלים תת-בריחיים · MRI למקלעת.",
+       "sci": true
+      }
+     ]
+    },
+    {
+     "n": 6,
+     "title": "מקרה 6 · סקר",
+     "dur": 155.8,
+     "v": {
+      "en": "clips/t1122c/c06_en.mp4",
+      "he": "clips/t1122c/c06_he.mp4"
+     },
+     "cues": [
+      {
+       "a": 0.17,
+       "b": 25.72,
+       "en": "65 ♀ · quit 3 years ago · screening CT? · CXR normal · clue: pack-years not given → the decision depends on it.",
+       "he": "בת 65 · הפסיקה לפני 3 שנים · סקר CT? · צילום תקין · רמז: חסרות שנות החפיסה ← ההחלטה תלויה בהן.",
+       "sci": false
+      },
+      {
+       "a": 26.07,
+       "b": 59.78,
+       "en": "Screening (USPSTF): age 50–80 · ≥ 20 pack-years · current or quit ≤ 15 years → ask her pack-years · normal CXR does not exclude · LDCT ↓ lung cancer mortality ~20% (NLST).",
+       "he": "סקר (USPSTF): גיל 50–80 · ≥ 20 שנות חפיסה · מעשנת או הפסיקה ≤ 15 שנה ← לשאול · צילום תקין לא שולל · LDCT ← ↓ תמותה ~20% (NLST).",
+       "sci": false
+      },
+      {
+       "a": 60.13,
+       "b": 155.63,
+       "en": "IN SCIENCE: CXR not a screening tool · for: NLST ↓ lung cancer mortality ~20%, all-cause ~7%, early stage · against: false positives (scans, biopsies, surgery), overdiagnosis, radiation, anxiety · criteria: 50–80, ≥ 20 pack-years, quit ≤ 15 y → ask pack-years · 1 cm nodule: spiculation, upper lobe, growing solid part, growth, PET uptake · next: follow-up CT, PET-CT, biopsy (CT-guided / navigation), wedge resection.",
+       "he": "במדע: צילום חזה אינו כלי סקר · בעד: NLST ← ↓ תמותה מסרטן ריאה ~20%, מכל סיבה ~7%, שלב מוקדם · נגד: חיוביים כוזבים, אבחון-יתר, קרינה, חרדה · קריטריונים: 50–80, ≥ 20 שנות חפיסה, הפסיקה ≤ 15 שנה ← לשאול · קשרית 1 ס״מ: ספיקולציה, אונה עליונה, רכיב מוצק גדל, גדילה, קליטה ב-PET · הבא: CT מעקב, PET-CT, ביופסיה, כריתת טריז.",
+       "sci": true
+      }
+     ]
+    },
+    {
+     "n": 7,
+     "title": "מקרה 7 · ראשוני או גרורה",
+     "dur": 201.4,
+     "v": {
+      "en": "clips/t1122c/c07_en.mp4",
+      "he": "clips/t1122c/c07_he.mp4"
+     },
+     "cues": [
+      {
+       "a": 0.17,
+       "b": 30.12,
+       "en": "60 ♀ · ex-smoker 20 pack-years · right lumpectomy + RT 10 y ago · right apical lesion, PET-avid · clue: prior cancer → primary lung vs breast metastasis (vs radiation-related).",
+       "he": "בת 60 · 20 שנות חפיסה בעבר · למפקטומיה + הקרנות מימין לפני 10 שנים · נגע בפסגה הימנית, קולט ב-PET · רמז: סרטן קודם ← ראשוני בריאה מול גרורה משד.",
+       "sci": false
+      },
+      {
+       "a": 30.47,
+       "b": 57.88,
+       "en": "Biopsy (CT-guided) + IHC: TTF-1 / napsin A = lung · GATA3, ER = breast · adeno → complete staging (PET-CT, brain MRI, EBUS) + molecular (EGFR, ALK…) + PD-L1 · subcarinal = station 7 = N2 → stage III, multimodal.",
+       "he": "ביופסיה (מונחית CT) + אימונוהיסטוכימיה: TTF-1 / נפסין A = ריאה · GATA3, ER = שד · אדנו ← השלמת שלב (PET-CT, MRI מוח, EBUS) + מולקולרי + PD-L1 · תת-קרינלית = תחנה 7 = N2 ← שלב III, רב-תחומי.",
+       "sci": false
+      },
+      {
+       "a": 58.23,
+       "b": 170.22,
+       "en": "IN SCIENCE: DDx: new primary vs breast metastasis vs radiation-related vs infection · next: CT-guided biopsy + IHC · TTF-1 > 70% / napsin A > 90% of lung adeno (Harrison) · GATA3 + ER = breast · adeno → not surgery first: PET-CT, brain MRI, EBUS + molecular (EGFR, ALK…) + PD-L1 · subcarinal = station 7 = N2 → ≥ IIIA · multimodal by N2 bulk / resectability, molecular, PD-L1, PFTs / performance: neoadjuvant chemo-immuno → surgery (non-bulky) or chemoradiation → durvalumab (bulky) · EGFR → osimertinib.",
+       "he": "במדע: אבחנה מבדלת: ראשוני חדש מול גרורת שד מול קשור להקרנה מול זיהום · הבא: ביופסיה מונחית CT + אימונוהיסטוכימיה · TTF-1 > 70% / נפסין A > 90% באדנו של ריאה · GATA3 + ER = שד · אדנו ← לא ניתוח קודם: PET-CT, MRI מוח, EBUS + מולקולרי + PD-L1 · תת-קרינלית = תחנה 7 = N2 ← ≥ IIIA · רב-תחומי לפי נפח N2 / נתיחות, מולקולרי, PD-L1, תפקודי ריאה: כימו-אימונו ← ניתוח, או כימו-הקרנה ← דורבלומאב · EGFR ← אוסימרטיניב.",
+       "sci": true
+      },
+      {
+       "a": 171.17,
+       "b": 199.36,
+       "en": "Na ↓ + central = SCLC · nodule: spiculation, size, 2-year stability · hoarse = T4 → EBUS · malignant effusion = M1a · apex + pain = Pancoast · screening → pack-years · prior cancer → IHC, then stage.",
+       "he": "נתרן ↓ + מרכזי = SCLC · קשרית: ספיקולציה, גודל, יציבות שנתיים · צרידות = T4 ← EBUS · תפליט ממאיר = M1a · פסגה + כאב = פנקוסט · סקר ← שנות חפיסה · סרטן קודם ← IHC ואז שלב.",
+       "sci": false
+      }
+     ]
+    }
+   ],
+   "quiz": "quiz/t1122c.json"
+  },
+  {
    "id": "t1119p",
    "day": "19/11/2026",
    "title": "חזה אוויר (CBL) – בסיפורים",
